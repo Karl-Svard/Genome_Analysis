@@ -1,0 +1,16 @@
+-t
+2
+--kmin-1pass
+--k-min
+65
+--k-max
+105
+--k-step
+10
+-1
+/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_1.paired.trimmed.fastq.gz
+-2
+/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_2.paired.trimmed.fastq.gz
+-o
+/home/karsva/Genome_Analysis/data/analysis_results/03_assembly/site_D3
+MEGAHIT_TEMP_DIR: /home/karsva/Genome_Analysis/data/analysis_results/03_assembly/site_D3/tmp/
