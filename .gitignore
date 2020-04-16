@@ -8,4 +8,6 @@
 *.sam
 *.gz
 *.zip
+/data/analysis_results
+/data/raw_data
 
