@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	site_D1_DNA_2.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/DNA_trimmed_QC/site_D1_DNA_2.paired.trimmed_fastqc.zip
+FastQC	all_sections	site_D1_DNA_1.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/DNA_trimmed_QC/site_D1_DNA_1.paired.trimmed_fastqc.zip
+FastQC	all_sections	site_D3_DNA_1.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/DNA_trimmed_QC/site_D3_DNA_1.paired.trimmed_fastqc.zip
+FastQC	all_sections	site_D3_DNA_2.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/DNA_trimmed_QC/site_D3_DNA_2.paired.trimmed_fastqc.zip
