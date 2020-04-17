@@ -1,0 +1,8 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Planctomyces_maris_DSM_8797.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Planctomyces_maris_DSM_8797.fasta
+NUCMER
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence k105_132807_flag_1_multi_3.0000_len_2945 116884 2945
+104138 104213 2091 2016 1 1 0
+0
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000005.1_Gimesia_maris_DSM_8797_1101493009141__whole_genome_shotgun_sequence k105_25218_flag_1_multi_2.0000_len_564 256079 564
+251607 252151 564 20 25 25 0
+0

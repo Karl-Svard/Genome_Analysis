@@ -1,0 +1,3 @@
+Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence
+1 742013
+742100 3179300

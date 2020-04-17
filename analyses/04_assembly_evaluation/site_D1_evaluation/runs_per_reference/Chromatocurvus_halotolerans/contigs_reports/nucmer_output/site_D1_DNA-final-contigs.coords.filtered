@@ -1,0 +1,7 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+1527 1745 | 1 219 | 219 219 | 95.43 | Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_43464_flag_1_multi_7.0000_len_2557
+126384 126467 | 528 611 | 84 84 | 98.81 | Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760
+320395 320463 | 877 945 | 69 69 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence k105_100572_flag_1_multi_1.9083_len_945
+49769 49852 | 244 161 | 84 84 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence k105_103741_flag_1_multi_3.0000_len_684
+320395 320471 | 1982 2058 | 77 77 | 100.0 | Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence k105_100527_flag_1_multi_3.0000_len_3933

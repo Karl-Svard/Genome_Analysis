@@ -1,0 +1,4 @@
+Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence
+1 626052
+626127 2140184
+2140278 4775416

@@ -1,0 +1,407 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000001.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000003.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000004.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000005.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000007.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000008.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000009.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000010.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000013.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000014.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000015.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000016.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000017.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000018.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000019.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000020.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000021.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000022.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000023.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000024.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000025.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000026.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000027.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000028.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000029.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000030.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000031.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000032.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000033.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000034.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000035.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000036.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000037.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000038.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000039.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000040.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000041.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000042.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000043.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000044.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000045.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000046.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000047.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000048.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000049.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000050.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000051.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000052.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000054.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000055.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000056.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000057.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000058.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000059.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000060.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000061.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000062.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000063.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000064.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000065.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000066.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000067.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000068.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000069.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000070.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000071.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000072.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000073.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000074.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000075.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000076.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000077.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000078.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000079.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000080.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000081.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000082.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000083.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000084.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000085.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000086.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000087.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000088.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000089.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000090.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000091.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000092.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000093.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000094.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000095.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000096.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000097.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000098.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000099.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000100.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000101.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000102.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000103.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000104.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000105.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000106.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000107.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000108.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000109.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000110.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000111.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000112.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000113.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000114.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000115.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000116.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000117.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000118.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000119.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000120.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000121.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000122.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000123.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000124.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000125.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+	Loaded [Roseovarius_sp._A-2_NZ_BDIY01000126.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 126
+	Total Region Length: 4584578
+Analyzing contigs...
+CONTIG: k105_91095_flag_1_multi_3.0000_len_572 (572bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 496
+		Alignment: 58617 58692 | 244 169 | 76 76 | 100.0 | Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_91095_flag_1_multi_3.0000_len_572
+
+CONTIG: k105_35270_flag_1_multi_31.7927_len_573 (573bp)
+Best alignment score: 553.0 (LEN: 572, IDY: 96.68)
+		One align captures most of this contig: 4419 4990 | 572 1 | 572 572 | 96.68 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573
+
+CONTIG: k105_73844_flag_1_multi_19.0000_len_985 (985bp)
+Best alignment score: 621.0 (LEN: 632, IDY: 98.26)
+			The best set is below. Score: 621.0, number of alignments: 1, unaligned bases: 353
+		Alignment: 4935 5566 | 1 632 | 632 632 | 98.26 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_73844_flag_1_multi_19.0000_len_985
+
+CONTIG: k105_80467_flag_1_multi_3.0000_len_599 (599bp)
+Best alignment score: 110.0 (LEN: 114, IDY: 96.49)
+			The best set is below. Score: 110.0, number of alignments: 1, unaligned bases: 485
+		Alignment: 4541 4654 | 486 599 | 114 114 | 96.49 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_80467_flag_1_multi_3.0000_len_599
+
+CONTIG: k105_90392_flag_1_multi_3.0000_len_877 (877bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 798
+		This contig is partially unaligned. (Aligned 79 out of 877 bases)
+		Alignment: 4546 4624 | 799 877 | 79 79 | 97.47 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_90392_flag_1_multi_3.0000_len_877
+		Unaligned bases: 1 to 798 (798)
+
+CONTIG: k105_95450_flag_1_multi_7.9630_len_1241 (1241bp)
+Best alignment score: 562.0 (LEN: 582, IDY: 96.56)
+			The best set is below. Score: 562.0, number of alignments: 1, unaligned bases: 659
+		This contig is partially unaligned. (Aligned 582 out of 1241 bases)
+		Alignment: 613 1194 | 660 1241 | 582 582 | 96.56 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_95450_flag_1_multi_7.9630_len_1241
+		Unaligned bases: 1 to 659 (659)
+
+CONTIG: k105_141223_flag_1_multi_4.4133_len_705 (705bp)
+Best alignment score: 464.0 (LEN: 477, IDY: 97.27)
+			The best set is below. Score: 464.0, number of alignments: 1, unaligned bases: 228
+		Alignment: 440 916 | 229 705 | 477 477 | 97.27 | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_141223_flag_1_multi_4.4133_len_705
+
+CONTIG: k105_19151_flag_1_multi_2.0000_len_654 (654bp)
+Best alignment score: 85.0 (LEN: 85, IDY: 100.00)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 569
+		Alignment: 71809 71893 | 194 278 | 85 85 | 100.0 | Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_19151_flag_1_multi_2.0000_len_654
+
+CONTIG: k105_54233_flag_1_multi_2.0000_len_603 (603bp)
+Best alignment score: 82.0 (LEN: 84, IDY: 97.62)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 519
+		Alignment: 8608 8691 | 216 299 | 84 84 | 97.62 | Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_54233_flag_1_multi_2.0000_len_603
+
+CONTIG: k105_71971_flag_1_multi_2.0000_len_703 (703bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 625
+		Alignment: 34959 35036 | 345 268 | 78 78 | 100.0 | Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_71971_flag_1_multi_2.0000_len_703
+
+CONTIG: k105_143466_flag_1_multi_3.0000_len_579 (579bp)
+Best alignment score: 95.0 (LEN: 98, IDY: 96.97)
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 481
+		Alignment: 119663 119761 | 485 388 | 99 98 | 96.97 | Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_143466_flag_1_multi_3.0000_len_579
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Roseovarius_sp._A-2/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000119.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000059.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000117.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000111.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000118.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000055.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000004.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000021.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000013.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000121.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000026.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000100.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000048.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000089.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000030.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000019.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000069.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000104.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000114.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000061.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000068.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000126.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000047.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000066.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000078.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000035.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000094.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000052.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000095.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000123.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000015.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000098.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000112.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000074.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000064.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000072.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000056.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000088.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000050.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000022.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000086.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000058.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000039.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000001.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000115.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000108.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000043.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000109.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000060.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000096.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000033.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000003.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000082.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000062.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000077.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 411047 (411047 bp)
+			START in gap: 1 to 34959 (34958 bp)
+			Align 1: 34959 35036 k105_71971_flag_1_multi_2.0000_len_703 345 268
+			END in gap: 35036 to 411047 (376011 bp).
+
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000042.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000031.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000018.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000049.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000106.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000113.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000084.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000122.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 181928 (181928 bp)
+			START in gap: 1 to 119663 (119662 bp)
+			Align 1: 119663 119761 k105_143466_flag_1_multi_3.0000_len_579 485 388
+			END in gap: 119761 to 181928 (62167 bp).
+
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000071.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 102575 (102575 bp)
+			START in gap: 1 to 58617 (58616 bp)
+			Align 1: 58617 58692 k105_91095_flag_1_multi_3.0000_len_572 244 169
+			END in gap: 58692 to 102575 (43883 bp).
+
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000014.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000080.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000116.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000027.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000046.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000076.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000092.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000091.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000063.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000029.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000045.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000028.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000093.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000097.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000025.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000008.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000067.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 117332 (117332 bp)
+			START in gap: 1 to 8608 (8607 bp)
+			Align 1: 8608 8691 k105_54233_flag_1_multi_2.0000_len_603 216 299
+				Gap between this and next alignment: 8691 to 71809 (63117 bp)
+				Next Alignment: 71809 71893 k105_19151_flag_1_multi_2.0000_len_654 194 278
+
+			Align 2: 71809 71893 k105_19151_flag_1_multi_2.0000_len_654 194 278
+			END in gap: 71893 to 117332 (45439 bp).
+
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000102.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000024.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000041.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000120.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000032.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000083.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000105.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000034.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000051.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000079.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000040.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000070.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000087.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000044.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000110.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000005.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000020.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000036.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000017.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000038.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000107.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000037.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000007.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000075.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000010.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000057.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000009.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000124.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000099.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence: 6 total alignments. 1 total regions.
+		Region: 1 to 6014 (6014 bp)
+			START in gap: 1 to 440 (439 bp)
+			Align 1: 440 916 k105_141223_flag_1_multi_4.4133_len_705 229 705
+				Negative gap (overlap) between this and next alignment: 916 to 613 (-303 bp)
+				Next Alignment: 613 1194 k105_95450_flag_1_multi_7.9630_len_1241 660 1241
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 660 to 964.
+			Align 2: 917 1194 k105_95450_flag_1_multi_7.9630_len_1241 964 1241
+				Gap between this and next alignment: 1194 to 4419 (3224 bp)
+				Next Alignment: 4419 4990 k105_35270_flag_1_multi_31.7927_len_573 572 1
+
+			Align 3: 4419 4990 k105_35270_flag_1_multi_31.7927_len_573 572 1
+				The next alignment (4541 4654 k105_80467_flag_1_multi_3.0000_len_599 486 599) is redundant. Skipping.
+				The next alignment (4546 4624 k105_90392_flag_1_multi_3.0000_len_877 799 877) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 4990 to 4935 (-55 bp)
+				Next Alignment: 4935 5566 k105_73844_flag_1_multi_19.0000_len_985 1 632
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 57.
+			Align 6: 4991 5566 k105_73844_flag_1_multi_19.0000_len_985 57 632
+			END in gap: 5566 to 6014 (448 bp).
+
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000103.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000090.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000101.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000125.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000085.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000065.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000016.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000054.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000081.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000073.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Roseovarius_sp._A-2_NZ_BDIY01000023.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Roseovarius_sp._A-2/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 1457
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2325
+
+	SNPs: 58
+	Insertions: 0
+	Deletions: 1
+
+	Positive Gaps: 12
+		Internal Gaps: 0
+		External Gaps: 12
+		External Gap Total: 816571
+		External Gap Average: 68048
+	Negative Gaps: 2
+		Internal Overlaps: 0
+		External Overlaps: 2
+		External Overlaps Total: -358
+		External Overlaps Average: -179
+	Contigs with Redundant Alignments: 1 (193)

@@ -1,0 +1,22 @@
+reference chromosomes:
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000001.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig180.1_C__whole_genome_shotgun_sequence (total length: 270810 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000019.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold3.7_C__whole_genome_shotgun_sequence (total length: 245600 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000021.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig177.9_C__whole_genome_shotgun_sequence (total length: 94628 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000011.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig176.4_C__whole_genome_shotgun_sequence (total length: 70306 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000020.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig182.8_C__whole_genome_shotgun_sequence (total length: 564457 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_AXBI01000012.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig178.5_C__whole_genome_shotgun_sequence (total length: 108530 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_KI421515.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold4.2__whole_genome_shotgun_sequence (total length: 21535 bp, maximal covered length: 0 bp)
+	Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence (total length: 3520924 bp, maximal covered length: 3102 bp)
+	Leisingera_caerulea_DSM_24564_NZ_KI421514.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold2.3__whole_genome_shotgun_sequence (total length: 447629 bp, maximal covered length: 0 bp)
+
+total genome size: 5344419
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.05804%  | 2.13604     | 20        | -         | -         | -         | -         |

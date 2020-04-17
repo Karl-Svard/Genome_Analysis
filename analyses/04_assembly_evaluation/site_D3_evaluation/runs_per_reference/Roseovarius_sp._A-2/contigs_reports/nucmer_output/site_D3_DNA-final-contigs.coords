@@ -1,0 +1,13 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+     440      916  |      229      705  |      477      477  |    97.27  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_141223_flag_1_multi_4.4133_len_705
+  119663   119761  |      485      388  |       99       98  |    96.97  | Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_143466_flag_1_multi_3.0000_len_579
+   71809    71893  |      194      278  |       85       85  |   100.00  | Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_19151_flag_1_multi_2.0000_len_654
+    4419     4990  |      572        1  |      572      572  |    96.68  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_35270_flag_1_multi_31.7927_len_573
+    8608     8691  |      216      299  |       84       84  |    97.62  | Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_54233_flag_1_multi_2.0000_len_603
+   34959    35036  |      345      268  |       78       78  |   100.00  | Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_71971_flag_1_multi_2.0000_len_703
+    4935     5566  |        1      632  |      632      632  |    98.26  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_73844_flag_1_multi_19.0000_len_985
+    4541     4654  |      486      599  |      114      114  |    96.49  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_80467_flag_1_multi_3.0000_len_599
+    4546     4624  |      799      877  |       79       79  |    97.47  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_90392_flag_1_multi_3.0000_len_877
+   58617    58692  |      244      169  |       76       76  |   100.00  | Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_91095_flag_1_multi_3.0000_len_572
+     613     1194  |      660     1241  |      582      582  |    96.56  | Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_95450_flag_1_multi_7.9630_len_1241

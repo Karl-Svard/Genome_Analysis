@@ -1,0 +1,118 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000002.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000003.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000005.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence]
+	Loaded [Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000007.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00007.7_C__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 7
+	Total Region Length: 3947342
+Analyzing contigs...
+CONTIG: k105_24383_flag_1_multi_4.0000_len_1045 (1045bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 968
+		This contig is partially unaligned. (Aligned 77 out of 1045 bases)
+		Alignment: 77102 77178 | 345 421 | 77 77 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000003.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence k105_24383_flag_1_multi_4.0000_len_1045
+		Unaligned bases: 1 to 344 (344)
+		Unaligned bases: 422 to 1045 (624)
+
+CONTIG: k105_3380_flag_0_multi_7.6431_len_968 (968bp)
+Best alignment score: 68.0 (LEN: 68, IDY: 100.00)
+			The best set is below. Score: 68.0, number of alignments: 1, unaligned bases: 900
+		This contig is partially unaligned. (Aligned 68 out of 968 bases)
+		Alignment: 3620 3687 | 949 882 | 68 68 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence k105_3380_flag_0_multi_7.6431_len_968
+		Unaligned bases: 1 to 881 (881)
+		Unaligned bases: 950 to 968 (19)
+
+CONTIG: k105_141119_flag_1_multi_3.0000_len_1867 (1867bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1789
+		This contig is partially unaligned. (Aligned 78 out of 1867 bases)
+		Alignment: 75234 75311 | 1370 1293 | 78 78 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence k105_141119_flag_1_multi_3.0000_len_1867
+		Unaligned bases: 1 to 1292 (1292)
+		Unaligned bases: 1371 to 1867 (497)
+
+CONTIG: k105_63013_flag_1_multi_5.9884_len_4433 (4433bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 132132 132207 | 675 750 | 76 76 | 100.0 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence k105_63013_flag_1_multi_5.9884_len_4433
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 4353
+		This contig is partially unaligned. (Aligned 80 out of 4433 bases)
+		Alignment: 194553 194632 | 750 671 | 80 80 | 98.75 | Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence k105_63013_flag_1_multi_5.9884_len_4433
+		Unaligned bases: 1 to 670 (670)
+		Unaligned bases: 751 to 4433 (3683)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Spongiibacter_tropicus_DSM_19543/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+	Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000003.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 324721 (324721 bp)
+			START in gap: 1 to 77102 (77101 bp)
+			Align 1: 77102 77178 k105_24383_flag_1_multi_4.0000_len_1045 345 421
+			END in gap: 77178 to 324721 (247543 bp).
+
+	Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000004.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00004.4_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 291644 (291644 bp)
+			START in gap: 1 to 75234 (75233 bp)
+			Align 1: 75234 75311 k105_141119_flag_1_multi_3.0000_len_1867 1370 1293
+			END in gap: 75311 to 291644 (216333 bp).
+
+WARNING: Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000002.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000007.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00007.7_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000006.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00006.6_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 218170 (218170 bp)
+			START in gap: 1 to 3620 (3619 bp)
+			Align 1: 3620 3687 k105_3380_flag_0_multi_7.6431_len_968 949 882
+			END in gap: 3687 to 218170 (214483 bp).
+
+	Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000001.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00001.1_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 2483318 (2483318 bp)
+			START in gap: 1 to 194553 (194552 bp)
+			Align 1: 194553 194632 k105_63013_flag_1_multi_5.9884_len_4433 750 671
+			END in gap: 194632 to 2483318 (2288686 bp).
+
+WARNING: Reference Spongiibacter_tropicus_DSM_19543_NZ_ATUS01000005.1_Spongiibacter_tropicus_DSM_19543_G411DRAFT_scaffold00005.5_C__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Spongiibacter_tropicus_DSM_19543/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 8010
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 303
+
+	SNPs: 1
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 8
+		Internal Gaps: 0
+		External Gaps: 8
+		External Gap Total: 3317550
+		External Gap Average: 414694
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

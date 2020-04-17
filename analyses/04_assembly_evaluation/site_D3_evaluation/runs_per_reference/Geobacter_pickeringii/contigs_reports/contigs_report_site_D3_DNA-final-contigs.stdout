@@ -1,0 +1,89 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 3618700
+Analyzing contigs...
+CONTIG: k105_24435_flag_1_multi_6.0000_len_13479 (13479bp)
+Best alignment score: 82.0 (LEN: 86, IDY: 95.35)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 13393
+		This contig is partially unaligned. (Aligned 86 out of 13479 bases)
+		Alignment: 3581735 3581820 | 2469 2554 | 86 86 | 95.35 | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_24435_flag_1_multi_6.0000_len_13479
+		Unaligned bases: 1 to 2468 (2468)
+		Unaligned bases: 2555 to 13479 (10925)
+
+CONTIG: k105_57576_flag_0_multi_12.9061_len_648 (648bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2827964 2828037 | 647 574 | 74 74 | 100.0 | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_57576_flag_0_multi_12.9061_len_648
+		Skipping redundant alignment 2911059 2911132 | 647 574 | 74 74 | 100.0 | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_57576_flag_0_multi_12.9061_len_648
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 574
+		This contig is partially unaligned. (Aligned 74 out of 648 bases)
+		Alignment: 2447552 2447625 | 647 574 | 74 74 | 100.0 | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_57576_flag_0_multi_12.9061_len_648
+		Unaligned bases: 1 to 573 (573)
+		Unaligned bases: 648 to 648 (1)
+
+CONTIG: k105_58076_flag_1_multi_3.0000_len_1865 (1865bp)
+Best alignment score: 73.0 (LEN: 75, IDY: 97.33)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 1790
+		This contig is partially unaligned. (Aligned 75 out of 1865 bases)
+		Alignment: 3581746 3581820 | 1 75 | 75 75 | 97.33 | Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_58076_flag_1_multi_3.0000_len_1865
+		Unaligned bases: 76 to 1865 (1790)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Geobacter_pickeringii/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+	Reference Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome: 3 total alignments. 1 total regions.
+		Region: 1 to 3618700 (3618700 bp)
+			START in gap: 1 to 2447552 (2447551 bp)
+			Align 1: 2447552 2447625 k105_57576_flag_0_multi_12.9061_len_648 647 574
+				Gap between this and next alignment: 2447625 to 3581735 (1134109 bp)
+				Next Alignment: 3581735 3581820 k105_24435_flag_1_multi_6.0000_len_13479 2469 2554
+
+			Align 2: 3581735 3581820 k105_24435_flag_1_multi_6.0000_len_13479 2469 2554
+				The next alignment (3581746 3581820 k105_58076_flag_1_multi_3.0000_len_1865 1 75) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Geobacter_pickeringii/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 15757
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 648
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 160
+
+	SNPs: 4
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 3581660
+		External Gap Average: 1790830
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (75)

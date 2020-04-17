@@ -1,0 +1,63 @@
+reference chromosomes:
+	Vibrio_sinaloensis_NZ_JWLV01000031.1_Vibrio_sinaloensis_strain_AD048_Contig37__whole_genome_shotgun_sequence (total length: 509 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000046.1_Vibrio_sinaloensis_strain_AD048_Contig50__whole_genome_shotgun_sequence (total length: 301 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000005.1_Vibrio_sinaloensis_strain_AD048_Contig13__whole_genome_shotgun_sequence (total length: 97606 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000012.1_Vibrio_sinaloensis_strain_AD048_Contig2__whole_genome_shotgun_sequence (total length: 303489 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000029.1_Vibrio_sinaloensis_strain_AD048_Contig35__whole_genome_shotgun_sequence (total length: 747 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence (total length: 2926 bp, maximal covered length: 1579 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000003.1_Vibrio_sinaloensis_strain_AD048_Contig11__whole_genome_shotgun_sequence (total length: 923 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000044.1_Vibrio_sinaloensis_strain_AD048_Contig49__whole_genome_shotgun_sequence (total length: 597 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000008.1_Vibrio_sinaloensis_strain_AD048_Contig16__whole_genome_shotgun_sequence (total length: 70281 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000019.1_Vibrio_sinaloensis_strain_AD048_Contig26__whole_genome_shotgun_sequence (total length: 32297 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000015.1_Vibrio_sinaloensis_strain_AD048_Contig22__whole_genome_shotgun_sequence (total length: 72551 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000011.1_Vibrio_sinaloensis_strain_AD048_Contig19__whole_genome_shotgun_sequence (total length: 30678 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000045.1_Vibrio_sinaloensis_strain_AD048_Contig5__whole_genome_shotgun_sequence (total length: 329588 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000023.1_Vibrio_sinaloensis_strain_AD048_Contig3__whole_genome_shotgun_sequence (total length: 132811 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000028.1_Vibrio_sinaloensis_strain_AD048_Contig34__whole_genome_shotgun_sequence (total length: 344 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000024.1_Vibrio_sinaloensis_strain_AD048_Contig30__whole_genome_shotgun_sequence (total length: 24249 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000026.1_Vibrio_sinaloensis_strain_AD048_Contig32__whole_genome_shotgun_sequence (total length: 9595 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000036.1_Vibrio_sinaloensis_strain_AD048_Contig41__whole_genome_shotgun_sequence (total length: 302 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000004.1_Vibrio_sinaloensis_strain_AD048_Contig12__whole_genome_shotgun_sequence (total length: 1027 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000033.1_Vibrio_sinaloensis_strain_AD048_Contig39__whole_genome_shotgun_sequence (total length: 399 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000048.1_Vibrio_sinaloensis_strain_AD048_Contig7__whole_genome_shotgun_sequence (total length: 251369 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000013.1_Vibrio_sinaloensis_strain_AD048_Contig20__whole_genome_shotgun_sequence (total length: 137603 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000039.1_Vibrio_sinaloensis_strain_AD048_Contig44__whole_genome_shotgun_sequence (total length: 362 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000050.1_Vibrio_sinaloensis_strain_AD048_Contig9__whole_genome_shotgun_sequence (total length: 40215 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000017.1_Vibrio_sinaloensis_strain_AD048_Contig24__whole_genome_shotgun_sequence (total length: 141387 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000002.1_Vibrio_sinaloensis_strain_AD048_Contig10__whole_genome_shotgun_sequence (total length: 58193 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000025.1_Vibrio_sinaloensis_strain_AD048_Contig31__whole_genome_shotgun_sequence (total length: 22066 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000049.1_Vibrio_sinaloensis_strain_AD048_Contig8__whole_genome_shotgun_sequence (total length: 132068 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000027.1_Vibrio_sinaloensis_strain_AD048_Contig33__whole_genome_shotgun_sequence (total length: 45348 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000047.1_Vibrio_sinaloensis_strain_AD048_Contig6__whole_genome_shotgun_sequence (total length: 190708 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000001.1_Vibrio_sinaloensis_strain_AD048_Contig1__whole_genome_shotgun_sequence (total length: 904629 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000022.1_Vibrio_sinaloensis_strain_AD048_Contig29__whole_genome_shotgun_sequence (total length: 81596 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000042.1_Vibrio_sinaloensis_strain_AD048_Contig47__whole_genome_shotgun_sequence (total length: 1049 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000034.1_Vibrio_sinaloensis_strain_AD048_Contig4__whole_genome_shotgun_sequence (total length: 387755 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000021.1_Vibrio_sinaloensis_strain_AD048_Contig28__whole_genome_shotgun_sequence (total length: 48059 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000041.1_Vibrio_sinaloensis_strain_AD048_Contig46__whole_genome_shotgun_sequence (total length: 823 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000040.1_Vibrio_sinaloensis_strain_AD048_Contig45__whole_genome_shotgun_sequence (total length: 364 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000043.1_Vibrio_sinaloensis_strain_AD048_Contig48__whole_genome_shotgun_sequence (total length: 303 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000007.1_Vibrio_sinaloensis_strain_AD048_Contig15__whole_genome_shotgun_sequence (total length: 88490 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000020.1_Vibrio_sinaloensis_strain_AD048_Contig27__whole_genome_shotgun_sequence (total length: 113551 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000030.1_Vibrio_sinaloensis_strain_AD048_Contig36__whole_genome_shotgun_sequence (total length: 3887 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000018.1_Vibrio_sinaloensis_strain_AD048_Contig25__whole_genome_shotgun_sequence (total length: 1623 bp, maximal covered length: 442 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000037.1_Vibrio_sinaloensis_strain_AD048_Contig42__whole_genome_shotgun_sequence (total length: 2599 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000009.1_Vibrio_sinaloensis_strain_AD048_Contig17__whole_genome_shotgun_sequence (total length: 323855 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000006.1_Vibrio_sinaloensis_strain_AD048_Contig14__whole_genome_shotgun_sequence (total length: 95435 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000014.1_Vibrio_sinaloensis_strain_AD048_Contig21__whole_genome_shotgun_sequence (total length: 79749 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000038.1_Vibrio_sinaloensis_strain_AD048_Contig43__whole_genome_shotgun_sequence (total length: 308 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000032.1_Vibrio_sinaloensis_strain_AD048_Contig38__whole_genome_shotgun_sequence (total length: 513 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000035.1_Vibrio_sinaloensis_strain_AD048_Contig40__whole_genome_shotgun_sequence (total length: 746 bp, maximal covered length: 0 bp)
+	Vibrio_sinaloensis_NZ_JWLV01000010.1_Vibrio_sinaloensis_strain_AD048_Contig18__whole_genome_shotgun_sequence (total length: 272044 bp, maximal covered length: 0 bp)
+
+total genome size: 4537917
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D1_DNA-final-contig | 0.04454%  | 1.11925     | 51        | -         | -         | -         | -         |

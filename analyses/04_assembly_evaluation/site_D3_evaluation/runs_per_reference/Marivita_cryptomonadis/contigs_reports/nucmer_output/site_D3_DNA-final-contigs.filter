@@ -1,0 +1,43 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Marivita_cryptomonadis.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Marivita_cryptomonadis.fasta
+NUCMER
+>Marivita_cryptomonadis_NZ_JFKD01000051.1_Marivita_cryptomonadis_strain_CL-SK44_contig51__whole_genome_shotgun_sequence k105_155397_flag_1_multi_9.0811_len_2250 5844 2250
+145 1531 864 2250 51 51 0
+-24
+-3
+12
+1083
+0
+>Marivita_cryptomonadis_NZ_JFKD01000015.1_Marivita_cryptomonadis_strain_CL-SK44_contig15__whole_genome_shotgun_sequence k105_28022_flag_1_multi_1.9368_len_849 121961 849
+106043 106142 689 590 1 1 0
+0
+>Marivita_cryptomonadis_NZ_JFKD01000051.1_Marivita_cryptomonadis_strain_CL-SK44_contig51__whole_genome_shotgun_sequence k105_33926_flag_1_multi_8.0000_len_1239 5844 1239
+1846 1935 1 91 2 2 0
+-6
+0
+>Marivita_cryptomonadis_NZ_JFKD01000051.1_Marivita_cryptomonadis_strain_CL-SK44_contig51__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573 5844 573
+4319 4891 573 1 15 15 0
+397
+-4
+0
+>Marivita_cryptomonadis_NZ_JFKD01000109.1_Marivita_cryptomonadis_strain_CL-SK44_contig109__whole_genome_shotgun_sequence k105_37549_flag_1_multi_4.0000_len_731 705 731
+474 578 105 1 2 2 0
+0
+>Marivita_cryptomonadis_NZ_JFKD01000009.1_Marivita_cryptomonadis_strain_CL-SK44_contig9__whole_genome_shotgun_sequence k105_72629_flag_1_multi_3.0000_len_647 196262 647
+159570 159650 234 314 1 1 0
+0
+159680 159766 238 324 0 0 0
+0
+>Marivita_cryptomonadis_NZ_JFKD01000029.1_Marivita_cryptomonadis_strain_CL-SK44_contig29__whole_genome_shotgun_sequence k105_89276_flag_1_multi_1.9253_len_1123 31348 1123
+24888 24969 84 3 0 0 0
+0
+>Marivita_cryptomonadis_NZ_JFKD01000096.1_Marivita_cryptomonadis_strain_CL-SK44_contig96__whole_genome_shotgun_sequence k105_95178_flag_0_multi_10.6657_len_823 870 823
+170 380 823 613 8 8 0
+0
+>Marivita_cryptomonadis_NZ_JFKD01000019.1_Marivita_cryptomonadis_strain_CL-SK44_contig19__whole_genome_shotgun_sequence k105_97758_flag_1_multi_3.0000_len_661 71262 661
+71172 71252 117 198 1 1 0
+-5
+0
+>Marivita_cryptomonadis_NZ_JFKD01000051.1_Marivita_cryptomonadis_strain_CL-SK44_contig51__whole_genome_shotgun_sequence k105_97758_flag_1_multi_3.0000_len_661 5844 661
+5223 5464 661 419 8 8 0
+-238
+0

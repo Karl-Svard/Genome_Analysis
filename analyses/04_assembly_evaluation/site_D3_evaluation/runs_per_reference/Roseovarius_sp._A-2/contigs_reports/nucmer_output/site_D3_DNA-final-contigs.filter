@@ -1,0 +1,30 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Roseovarius_sp._A-2.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Roseovarius_sp._A-2.fasta
+NUCMER
+>Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_141223_flag_1_multi_4.4133_len_705 6014 705
+440 916 229 705 13 13 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_143466_flag_1_multi_3.0000_len_579 181928 579
+119663 119761 485 388 3 3 0
+18
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_19151_flag_1_multi_2.0000_len_654 117332 654
+71809 71893 194 278 0 0 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573 6014 573
+4419 4990 572 1 19 19 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_54233_flag_1_multi_2.0000_len_603 117332 603
+8608 8691 216 299 2 2 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_71971_flag_1_multi_2.0000_len_703 411047 703
+34959 35036 345 268 0 0 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_73844_flag_1_multi_19.0000_len_985 6014 985
+4935 5566 1 632 11 11 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_91095_flag_1_multi_3.0000_len_572 102575 572
+58617 58692 244 169 0 0 0
+0
+>Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence k105_95450_flag_1_multi_7.9630_len_1241 6014 1241
+613 1194 660 1241 20 20 0
+0

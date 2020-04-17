@@ -1,0 +1,8 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Ilumatobacter_nonamiensis_YM16-303.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Ilumatobacter_nonamiensis_YM16-303.fasta
+NUCMER
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_67972_flag_1_multi_6.0000_len_884 25588 884
+15071 15151 884 804 4 4 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_75892_flag_1_multi_2.8650_len_1601 25588 1601
+17999 18086 1514 1601 4 4 0
+0

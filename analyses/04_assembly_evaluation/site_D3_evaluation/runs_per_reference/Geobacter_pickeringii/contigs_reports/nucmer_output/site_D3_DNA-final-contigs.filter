@@ -1,0 +1,8 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Geobacter_pickeringii.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Geobacter_pickeringii.fasta
+NUCMER
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_24435_flag_1_multi_6.0000_len_13479 3618700 13479
+3581735 3581820 2469 2554 4 4 0
+0
+>Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome k105_57576_flag_0_multi_12.9061_len_648 3618700 648
+2827964 2828037 647 574 0 0 0
+0

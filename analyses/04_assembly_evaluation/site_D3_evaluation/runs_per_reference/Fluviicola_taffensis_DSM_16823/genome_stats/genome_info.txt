@@ -1,0 +1,14 @@
+reference chromosomes:
+	Fluviicola_taffensis_DSM_16823_NC_015321.1_Fluviicola_taffensis_DSM_16823__complete_sequence (total length: 4633577 bp, maximal covered length: 87 bp)
+
+total genome size: 4633577
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.00188%  | 1.01149     | 2         | -         | -         | -         | -         |

@@ -1,0 +1,6 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+191194	191267	427	354	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1_Desulfuromonas_acetoxidans_DSM_684_ctg63__whole_genome_shotgun_sequence	k105_110801_flag_1_multi_4.0000_len_807	100.0		True
+unknown
+190912	190976	807	743	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1_Desulfuromonas_acetoxidans_DSM_684_ctg63__whole_genome_shotgun_sequence	k105_110801_flag_1_multi_4.0000_len_807	100.0		True
+unknown
+CONTIG	k105_110801_flag_1_multi_4.0000_len_807	807	mis_unaligned

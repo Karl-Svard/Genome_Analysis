@@ -1,0 +1,331 @@
+Aligning contigs to reference...
+	Using existing alignments...
+Parsing coords...
+Loading reference...
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889757.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_0.1__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889758.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_1.2__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889759.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_10.11__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889761.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_12.13__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889762.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_13.14__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889763.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_14.15__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889764.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_15.16__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889765.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_16.17__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889766.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_17.18__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889767.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_18.19__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889768.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_19.20__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889769.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_2.3__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889770.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_20.21__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889771.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_21.22__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889772.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_22.23__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889773.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_23.24__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889774.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_24.25__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889775.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_25.26__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889776.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_26.27__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889777.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_27.28__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889778.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_28.29__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889779.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_29.30__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889781.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_30.31__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889782.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_31.32__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889783.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_32.33__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889784.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_33.34__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889785.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_34.35__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889786.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_35.36__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889787.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_36.37__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889788.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_37.38__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889790.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_39.40__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889791.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_4.5__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889792.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_40.41__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889793.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_41.42__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889794.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_42.43__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889795.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_43.44__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889796.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_44.45__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889797.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_45.46__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889798.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_46.47__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889799.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_47.48__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889800.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_48.49__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889801.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_49.50__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889802.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_5.6__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889803.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_50.51__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889804.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_51.52__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889805.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_52.53__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889806.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_53.54__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889807.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_54.55__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889808.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_55.56__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889809.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_56.57__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889810.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_57.58__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889811.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_58.59__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889812.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_59.60__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889813.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_6.7__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889814.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_60.61__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889815.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_61.62__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889816.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_62.63__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889817.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_63.64__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889818.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_64.65__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889819.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_65.66__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889820.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_66.67__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889821.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_67.68__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889822.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_68.69__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889823.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_69.70__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889824.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_7.8__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889825.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_8.9__whole_genome_shotgun_sequence]
+	Loaded [gamma_proteobacterium_SCGC_AB-629-P17_KB889826.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_9.10__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 70
+	Total Region Length: 1424092
+Analyzing contigs...
+CONTIG: k105_119161_flag_1_multi_2.8677_len_1708 (1708bp)
+Best alignment score: 114.0 (LEN: 117, IDY: 97.46)
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 1591
+		This contig is partially unaligned. (Aligned 117 out of 1708 bases)
+		Alignment: 103755 103871 | 174 290 | 117 117 | 97.46 | gamma_proteobacterium_SCGC_AB-629-P17_KB889758.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_1.2__whole_genome_shotgun_sequence k105_119161_flag_1_multi_2.8677_len_1708
+		Unaligned bases: 1 to 173 (173)
+		Unaligned bases: 291 to 1708 (1418)
+
+CONTIG: k105_35838_flag_1_multi_1.8742_len_1051 (1051bp)
+Best alignment score: 74.0 (LEN: 77, IDY: 96.10)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1260 1336 | 669 593 | 77 77 | 96.1 | gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_35838_flag_1_multi_1.8742_len_1051
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 974
+		This contig is partially unaligned. (Aligned 77 out of 1051 bases)
+		Alignment: 63901 63977 | 593 669 | 77 77 | 96.1 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_35838_flag_1_multi_1.8742_len_1051
+		Unaligned bases: 1 to 592 (592)
+		Unaligned bases: 670 to 1051 (382)
+
+CONTIG: k105_58770_flag_1_multi_3.8296_len_1954 (1954bp)
+Best alignment score: 74.0 (LEN: 77, IDY: 96.10)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1877
+		This contig is partially unaligned. (Aligned 77 out of 1954 bases)
+		Alignment: 1260 1336 | 1297 1221 | 77 77 | 96.1 | gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_58770_flag_1_multi_3.8296_len_1954
+		Unaligned bases: 1 to 1220 (1220)
+		Unaligned bases: 1298 to 1954 (657)
+
+CONTIG: k105_64514_flag_1_multi_1.9410_len_529 (529bp)
+Best alignment score: 93.0 (LEN: 97, IDY: 95.88)
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 432
+		Alignment: 1260 1356 | 529 433 | 97 97 | 95.88 | gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_64514_flag_1_multi_1.9410_len_529
+
+CONTIG: k105_76640_flag_1_multi_11.6286_len_560 (560bp)
+Best alignment score: 210.0 (LEN: 218, IDY: 96.33)
+			The best set is below. Score: 210.0, number of alignments: 1, unaligned bases: 342
+		Alignment: 1148 1365 | 219 2 | 218 218 | 96.33 | gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_76640_flag_1_multi_11.6286_len_560
+
+CONTIG: k105_2317_flag_1_multi_4.0000_len_1477 (1477bp)
+Best alignment score: 790.0 (LEN: 825, IDY: 95.76)
+			The best set is below. Score: 790.0, number of alignments: 1, unaligned bases: 652
+		This contig is partially unaligned. (Aligned 825 out of 1477 bases)
+		Alignment: 61845 62669 | 653 1477 | 825 825 | 95.76 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_2317_flag_1_multi_4.0000_len_1477
+		Unaligned bases: 1 to 652 (652)
+
+CONTIG: k105_4770_flag_1_multi_5.0000_len_700 (700bp)
+Best alignment score: 635.0 (LEN: 642, IDY: 98.91)
+			The best set is below. Score: 635.0, number of alignments: 1, unaligned bases: 58
+		Alignment: 60370 61011 | 59 700 | 642 642 | 98.91 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_4770_flag_1_multi_5.0000_len_700
+
+CONTIG: k105_64339_flag_1_multi_5.0000_len_1233 (1233bp)
+Best alignment score: 1209.9 (LEN: 1233, IDY: 98.13)
+		One align captures most of this contig: 62582 63814 | 1233 1 | 1233 1233 | 98.13 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_64339_flag_1_multi_5.0000_len_1233
+
+CONTIG: k105_75863_flag_1_multi_5.0000_len_916 (916bp)
+Best alignment score: 679.0 (LEN: 693, IDY: 97.98)
+			The best set is below. Score: 679.0, number of alignments: 1, unaligned bases: 223
+		Alignment: 60899 61590 | 916 224 | 692 693 | 97.98 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_75863_flag_1_multi_5.0000_len_916
+
+CONTIG: k105_84059_flag_1_multi_4.0000_len_912 (912bp)
+Best alignment score: 815.1 (LEN: 855, IDY: 95.33)
+			The best set is below. Score: 815.1, number of alignments: 1, unaligned bases: 57
+		Alignment: 59634 60490 | 856 2 | 857 855 | 95.33 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_84059_flag_1_multi_4.0000_len_912
+
+CONTIG: k105_111009_flag_1_multi_7.0000_len_638 (638bp)
+Best alignment score: 631.0 (LEN: 638, IDY: 98.90)
+		One align captures most of this contig: 63859 64496 | 638 1 | 638 638 | 98.9 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_111009_flag_1_multi_7.0000_len_638
+
+CONTIG: k105_129488_flag_1_multi_8.0000_len_823 (823bp)
+Best alignment score: 717.1 (LEN: 741, IDY: 96.77)
+			The best set is below. Score: 717.1, number of alignments: 1, unaligned bases: 82
+		Alignment: 64441 65184 | 823 83 | 744 741 | 96.77 | gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_129488_flag_1_multi_8.0000_len_823
+
+CONTIG: k105_96365_flag_1_multi_2.0000_len_758 (758bp)
+Best alignment score: 732.0 (LEN: 758, IDY: 96.57)
+		One align captures most of this contig: 6308 7065 | 1 758 | 758 758 | 96.57 | gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_96365_flag_1_multi_2.0000_len_758
+
+CONTIG: k105_135657_flag_1_multi_3.0000_len_1310 (1310bp)
+Best alignment score: 1267.0 (LEN: 1307, IDY: 96.94)
+		One align captures most of this contig: 7014 8320 | 1307 1 | 1307 1307 | 96.94 | gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_135657_flag_1_multi_3.0000_len_1310
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/gamma_proteobacterium_SCGC_AB-629-P17/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889786.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_35.36__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889761.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_12.13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889759.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_10.11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889763.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_14.15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889799.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_47.48__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889769.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_2.3__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889785.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_34.35__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889784.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_33.34__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889782.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_31.32__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889768.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_19.20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889788.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_37.38__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889791.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_4.5__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889758.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_1.2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 139034 (139034 bp)
+			START in gap: 1 to 103755 (103754 bp)
+			Align 1: 103755 103871 k105_119161_flag_1_multi_2.8677_len_1708 174 290
+			END in gap: 103871 to 139034 (35163 bp).
+
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889770.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_20.21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889779.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_29.30__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889771.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_21.22__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889777.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_27.28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889794.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_42.43__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889793.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_41.42__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889776.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_26.27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889762.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_13.14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889783.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_32.33__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889801.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_49.50__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 2758 (2758 bp)
+			START in gap: 1 to 1148 (1147 bp)
+			Align 1: 1148 1365 k105_76640_flag_1_multi_11.6286_len_560 219 2
+				The next alignment (1260 1336 k105_58770_flag_1_multi_3.8296_len_1954 1297 1221) is redundant. Skipping.
+				The next alignment (1260 1356 k105_64514_flag_1_multi_1.9410_len_529 529 433) is redundant. Skipping.
+
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889778.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_28.29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889818.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_64.65__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889767.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_18.19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889773.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_23.24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889821.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_67.68__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889823.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_69.70__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence: 8 total alignments. 1 total regions.
+		Region: 1 to 87684 (87684 bp)
+			START in gap: 1 to 59634 (59633 bp)
+			Align 1: 59634 60490 k105_84059_flag_1_multi_4.0000_len_912 856 2
+				Negative gap (overlap) between this and next alignment: 60490 to 60370 (-120 bp)
+				Next Alignment: 60370 61011 k105_4770_flag_1_multi_5.0000_len_700 59 700
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 59 to 180.
+			Align 2: 60491 61011 k105_4770_flag_1_multi_5.0000_len_700 180 700
+				Negative gap (overlap) between this and next alignment: 61011 to 60899 (-112 bp)
+				Next Alignment: 60899 61590 k105_75863_flag_1_multi_5.0000_len_916 916 224
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 916 to 803.
+			Align 3: 61012 61590 k105_75863_flag_1_multi_5.0000_len_916 803 224
+				Gap between this and next alignment: 61590 to 61845 (254 bp)
+				Next Alignment: 61845 62669 k105_2317_flag_1_multi_4.0000_len_1477 653 1477
+
+			Align 4: 61845 62669 k105_2317_flag_1_multi_4.0000_len_1477 653 1477
+				Negative gap (overlap) between this and next alignment: 62669 to 62582 (-87 bp)
+				Next Alignment: 62582 63814 k105_64339_flag_1_multi_5.0000_len_1233 1233 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1233 to 1145.
+			Align 5: 62670 63814 k105_64339_flag_1_multi_5.0000_len_1233 1145 1
+				Gap between this and next alignment: 63814 to 63859 (44 bp)
+				Next Alignment: 63859 64496 k105_111009_flag_1_multi_7.0000_len_638 638 1
+
+			Align 6: 63859 64496 k105_111009_flag_1_multi_7.0000_len_638 638 1
+				The next alignment (63901 63977 k105_35838_flag_1_multi_1.8742_len_1051 593 669) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 64496 to 64441 (-55 bp)
+				Next Alignment: 64441 65184 k105_129488_flag_1_multi_8.0000_len_823 823 83
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 823 to 767.
+			Align 8: 64497 65184 k105_129488_flag_1_multi_8.0000_len_823 767 83
+			END in gap: 65184 to 87684 (22500 bp).
+
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889803.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_50.51__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889806.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_53.54__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889820.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_66.67__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889772.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_22.23__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889766.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_17.18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889822.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_68.69__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889774.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_24.25__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889819.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_65.66__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889796.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_44.45__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889790.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_39.40__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889757.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_0.1__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889808.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_55.56__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889815.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_61.62__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889809.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_56.57__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889800.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_48.49__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889775.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_25.26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889804.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_51.52__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889792.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_40.41__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889825.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_8.9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889787.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_36.37__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889798.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_46.47__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889807.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_54.55__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889765.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_16.17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889813.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_6.7__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889817.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_63.64__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889810.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_57.58__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889812.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_59.60__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889764.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_15.16__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889824.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_7.8__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889816.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_62.63__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 35808 (35808 bp)
+			START in gap: 1 to 6308 (6307 bp)
+			Align 1: 6308 7065 k105_96365_flag_1_multi_2.0000_len_758 1 758
+				Negative gap (overlap) between this and next alignment: 7065 to 7014 (-51 bp)
+				Next Alignment: 7014 8320 k105_135657_flag_1_multi_3.0000_len_1310 1307 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1307 to 1255.
+			Align 2: 7066 8320 k105_135657_flag_1_multi_3.0000_len_1310 1255 1
+			END in gap: 8320 to 35808 (27488 bp).
+
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889811.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_58.59__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889795.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_43.44__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889826.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_9.10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889802.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_5.6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889805.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_52.53__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889814.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_60.61__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889781.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_30.31__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference gamma_proteobacterium_SCGC_AB-629-P17_KB889797.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_45.46__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/gamma_proteobacterium_SCGC_AB-629-P17/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Fake misassemblies matched with structural variations: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 5094
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 1051
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 7601
+
+	SNPs: 210
+	Insertions: 4
+	Deletions: 8
+
+	Positive Gaps: 9
+		Internal Gaps: 0
+		External Gaps: 9
+		External Gap Total: 256290
+		External Gap Average: 28477
+	Negative Gaps: 5
+		Internal Overlaps: 0
+		External Overlaps: 5
+		External Overlaps Total: -425
+		External Overlaps Average: -85
+	Contigs with Redundant Alignments: 2 (251)

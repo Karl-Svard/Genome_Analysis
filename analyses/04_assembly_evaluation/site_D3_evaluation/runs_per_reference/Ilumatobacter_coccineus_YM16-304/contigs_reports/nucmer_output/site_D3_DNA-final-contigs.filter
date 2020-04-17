@@ -1,0 +1,43 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Ilumatobacter_coccineus_YM16-304.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Ilumatobacter_coccineus_YM16-304.fasta
+NUCMER
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_118870_flag_1_multi_3.2835_len_1054 4830181 1054
+2928807 2929789 78 1054 44 44 0
+225
+16
+-616
+4
+1
+1
+7
+2
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_119191_flag_1_multi_4.0000_len_2107 4830181 2107
+494547 494620 702 629 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_131385_flag_1_multi_3.9204_len_3573 4830181 3573
+278853 278946 2853 2761 3 3 0
+5
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_143730_flag_1_multi_3.9890_len_2283 4830181 2283
+580508 580588 101 21 1 1 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_150736_flag_1_multi_3.9304_len_4418 4830181 4418
+4374339 4374413 4418 4344 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_18615_flag_1_multi_22.3111_len_2387 4830181 2387
+2928162 2928252 1 91 4 4 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_33751_flag_1_multi_4.0000_len_9123 4830181 9123
+4470400 4470490 6928 7018 4 4 0
+-10
+6
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_38161_flag_1_multi_3.0000_len_1282 4830181 1282
+2658758 2658835 327 404 0 0 0
+0
+>Ilumatobacter_coccineus_YM16-304_NC_020520.1_Ilumatobacter_coccineus_YM16-304__complete_sequence k105_55536_flag_1_multi_4.7172_len_897 4830181 897
+2312367 2312945 1 576 17 17 0
+311
+166
+1
+0

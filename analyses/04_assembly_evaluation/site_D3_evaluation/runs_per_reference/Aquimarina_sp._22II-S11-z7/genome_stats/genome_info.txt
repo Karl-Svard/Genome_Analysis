@@ -1,0 +1,52 @@
+reference chromosomes:
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000017.1_Aquimarina_atlantica_strain_22II-S11-z7_contig17__whole_genome_shotgun_sequence (total length: 43213 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000033.1_Aquimarina_atlantica_strain_22II-S11-z7_contig33__whole_genome_shotgun_sequence (total length: 977 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000027.1_Aquimarina_atlantica_strain_22II-S11-z7_contig27__whole_genome_shotgun_sequence (total length: 2130 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000038.1_Aquimarina_atlantica_strain_22II-S11-z7_contig38__whole_genome_shotgun_sequence (total length: 584 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000011.1_Aquimarina_atlantica_strain_22II-S11-z7_contig11__whole_genome_shotgun_sequence (total length: 137621 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000026.1_Aquimarina_atlantica_strain_22II-S11-z7_contig26__whole_genome_shotgun_sequence (total length: 2402 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000024.1_Aquimarina_atlantica_strain_22II-S11-z7_contig24__whole_genome_shotgun_sequence (total length: 9798 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000034.1_Aquimarina_atlantica_strain_22II-S11-z7_contig34__whole_genome_shotgun_sequence (total length: 861 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000039.1_Aquimarina_atlantica_strain_22II-S11-z7_contig39__whole_genome_shotgun_sequence (total length: 562 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000022.1_Aquimarina_atlantica_strain_22II-S11-z7_contig22__whole_genome_shotgun_sequence (total length: 18595 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000032.1_Aquimarina_atlantica_strain_22II-S11-z7_contig32__whole_genome_shotgun_sequence (total length: 1305 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence (total length: 520297 bp, maximal covered length: 89 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000029.1_Aquimarina_atlantica_strain_22II-S11-z7_contig29__whole_genome_shotgun_sequence (total length: 1841 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000019.1_Aquimarina_atlantica_strain_22II-S11-z7_contig19__whole_genome_shotgun_sequence (total length: 32461 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000003.1_Aquimarina_atlantica_strain_22II-S11-z7_contig3__whole_genome_shotgun_sequence (total length: 534625 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000013.1_Aquimarina_atlantica_strain_22II-S11-z7_contig13__whole_genome_shotgun_sequence (total length: 110823 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000008.1_Aquimarina_atlantica_strain_22II-S11-z7_contig8__whole_genome_shotgun_sequence (total length: 320216 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000016.1_Aquimarina_atlantica_strain_22II-S11-z7_contig16__whole_genome_shotgun_sequence (total length: 75865 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence (total length: 38564 bp, maximal covered length: 721 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000028.1_Aquimarina_atlantica_strain_22II-S11-z7_contig28__whole_genome_shotgun_sequence (total length: 2042 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000021.1_Aquimarina_atlantica_strain_22II-S11-z7_contig21__whole_genome_shotgun_sequence (total length: 19035 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000012.1_Aquimarina_atlantica_strain_22II-S11-z7_contig12__whole_genome_shotgun_sequence (total length: 122199 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000031.1_Aquimarina_atlantica_strain_22II-S11-z7_contig31__whole_genome_shotgun_sequence (total length: 1331 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000005.1_Aquimarina_atlantica_strain_22II-S11-z7_contig5__whole_genome_shotgun_sequence (total length: 516440 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000035.1_Aquimarina_atlantica_strain_22II-S11-z7_contig35__whole_genome_shotgun_sequence (total length: 841 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000014.1_Aquimarina_atlantica_strain_22II-S11-z7_contig14__whole_genome_shotgun_sequence (total length: 78228 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000009.1_Aquimarina_atlantica_strain_22II-S11-z7_contig9__whole_genome_shotgun_sequence (total length: 296167 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000020.1_Aquimarina_atlantica_strain_22II-S11-z7_contig20__whole_genome_shotgun_sequence (total length: 22436 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000030.1_Aquimarina_atlantica_strain_22II-S11-z7_contig30__whole_genome_shotgun_sequence (total length: 1770 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000002.1_Aquimarina_atlantica_strain_22II-S11-z7_contig2__whole_genome_shotgun_sequence (total length: 549517 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000001.1_Aquimarina_atlantica_strain_22II-S11-z7_contig1__whole_genome_shotgun_sequence (total length: 980939 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000015.1_Aquimarina_atlantica_strain_22II-S11-z7_contig15__whole_genome_shotgun_sequence (total length: 76915 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence (total length: 430888 bp, maximal covered length: 81 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000025.1_Aquimarina_atlantica_strain_22II-S11-z7_contig25__whole_genome_shotgun_sequence (total length: 9335 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000023.1_Aquimarina_atlantica_strain_22II-S11-z7_contig23__whole_genome_shotgun_sequence (total length: 12263 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000037.1_Aquimarina_atlantica_strain_22II-S11-z7_contig37__whole_genome_shotgun_sequence (total length: 668 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000010.1_Aquimarina_atlantica_strain_22II-S11-z7_contig10__whole_genome_shotgun_sequence (total length: 206521 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000036.1_Aquimarina_atlantica_strain_22II-S11-z7_contig36__whole_genome_shotgun_sequence (total length: 683 bp, maximal covered length: 0 bp)
+	Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence (total length: 507037 bp, maximal covered length: 76 bp)
+
+total genome size: 5687995
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.01700%  | 2.61013     | 45        | -         | -         | -         | -         |

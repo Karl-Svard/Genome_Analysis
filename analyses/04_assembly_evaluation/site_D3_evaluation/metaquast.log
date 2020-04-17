@@ -1,0 +1,248 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py -t 2 /home/karsva/Genome_Analysis/data/analysis_results/03_assembly/site_D3/site_D3_DNA.final.contigs.fa -o /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation -1 /home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_1.paired.trimmed.fastq.gz -2 /home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_2.paired.trimmed.fastq.gz
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-16 23:20:35
+
+Logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/karsva/Genome_Analysis/data/analysis_results/03_assembly/site_D3/site_D3_DNA.final.contigs.fa ==> site_D3_DNA.final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-16 23:20:37
+  Using existing BLAST alignments for site_D3_DNA.final.contigs... 
+
+
+
+
+2020-04-16 23:20:38
+Trying to download found references from NCBI. Totally 50 organisms to try.
+MetaQUAST will attempt to use previously downloaded references...
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome                                | not found in the NCBI database
+  Marivita_cryptomonadis                           | was downloaded previously (total 1, 48 more to go)
+  Aquimarina_sp._22II-S11-z7                       | was downloaded previously (total 2, 47 more to go)
+  unidentified_marine_bacterioplankton             | not found in the NCBI database
+  Polaribacter_sp._MED152                          | was downloaded previously (total 3, 45 more to go)
+  Devosia_sp._DDB001                               | not found in the NCBI database
+  Porticoccus_hydrocarbonoclasticus_MCTG13d        | was downloaded previously (total 4, 43 more to go)
+  Synechococcus_sp._Max42                          | not found in the NCBI database
+  magnetic_coccus_MP17                             | not found in the NCBI database
+  Ilumatobacter_nonamiensis_YM16-303               | was downloaded previously (total 5, 40 more to go)
+  Formosa_sp._LMG_28520                            | was downloaded previously (total 6, 39 more to go)
+  Magnetococcus_marinus_MC-1                       | was downloaded previously (total 7, 38 more to go)
+  Thioalkalivibrio_sp._BB57                        | not found in the NCBI database
+  Acidithiomicrobium_sp._P1                        | not found in the NCBI database
+  Luminiphilus_syltensis_NOR5-1B                   | was downloaded previously (total 8, 35 more to go)
+Pseudomonas mosselii SJ10 has too fragmented reference genome! It will not be downloaded.
+  Pseudomonas_mosselii_SJ10                        | not found in the NCBI database
+  Pelobacter_sp._AOP6                              | not found in the NCBI database
+  Geobacter_pickeringii                            | was downloaded previously (total 9, 32 more to go)
+  Nitrospina_sp._SCGC_AAA288-L16                   | successfully downloaded (total 10, 31 more to go)
+  Leisingera_caerulea_DSM_24564                    | successfully downloaded (total 11, 30 more to go)
+  Gaiella_sp._EBR4-R2                              | not found in the NCBI database
+  Ilumatobacter_fluminis                           | successfully downloaded (total 12, 28 more to go)
+  Ilumatobacter_coccineus_YM16-304                 | successfully downloaded (total 13, 27 more to go)
+Rhodopirellula maiorica SM1 has too fragmented reference genome! It will not be downloaded.
+  Rhodopirellula_maiorica_SM1                      | not found in the NCBI database
+  cyanobacterium_5X15                              | not found in the NCBI database
+  Syntrophus_aciditrophicus                        | successfully downloaded (total 14, 24 more to go)
+  gamma_proteobacterium_SCGC_AB-629-P17            | successfully downloaded (total 15, 23 more to go)
+  Fluviicola_taffensis_DSM_16823                   | successfully downloaded (total 16, 22 more to go)
+  marine_gamma_proteobacterium_HTCC2080            | successfully downloaded (total 17, 21 more to go)
+  Bacillus_thuringiensis_BMB171                    | successfully downloaded (total 18, 20 more to go)
+  bacterium_enrichment_culture_clone_AOM-SR-B3     | not found in the NCBI database
+  Roseovarius_sp._A-2                              | successfully downloaded (total 19, 18 more to go)
+  Planctomycete_enrichment_culture_clone_15558     | not found in the NCBI database
+  Tenacibaculum_sp._KYW_576                        | not found in the NCBI database
+  Shewanella_amazonensis_SB2B                      | successfully downloaded (total 20, 15 more to go)
+  Dehalogenimonas_sp._enrichment_culture_clone_CG3 | not found in the NCBI database
+  Parvibaculum_hydrocarboniclasticum               | not found in the NCBI database
+  Bacillus_sp._YM-1                                | not found in the NCBI database
+  Kribbella_sp._ME05-21D                           | not found in the NCBI database
+  Cryomorphaceae_bacterium_JNU-L074                | not found in the NCBI database
+  Nitrospina_gracilis_3                            | not found in the NCBI database
+  Aciditerrimonas_sp._CH22-21                      | not found in the NCBI database
+  Vesicomya_sp._mt-II_symbiont                     | not found in the NCBI database
+  actinobacterium_GP-6                             | not found in the NCBI database
+  bacterium_WH3-1                                  | not found in the NCBI database
+  Legionella_sp._L-29                              | not found in the NCBI database
+  unidentified_eubacterium_LD29                    | not found in the NCBI database
+  Methylobacter_sp._XLMV4                          | successfully downloaded (total 21, 2 more to go)
+  Desulfuromonas_acetoxidans_DSM_684               | successfully downloaded (total 22, 1 more to go)
+  Spongiibacter_tropicus_DSM_19543                 | successfully downloaded (total 23, 0 more to go)
+
+Downloaded reference(s):
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Aquimarina_sp._22II-S11-z7.fasta ==> Aquimarina_sp._22II-S11-z7
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Bacillus_thuringiensis_BMB171.fasta ==> Bacillus_thuringiensis_BMB171
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Desulfuromonas_acetoxidans_DSM_684.fasta ==> Desulfuromonas_acetoxidans_DSM_684
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Fluviicola_taffensis_DSM_16823.fasta ==> Fluviicola_taffensis_DSM_16823
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Formosa_sp._LMG_28520.fasta ==> Formosa_sp._LMG_28520
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Geobacter_pickeringii.fasta ==> Geobacter_pickeringii
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Ilumatobacter_coccineus_YM16-304.fasta ==> Ilumatobacter_coccineus_YM16-304
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Ilumatobacter_fluminis.fasta ==> Ilumatobacter_fluminis
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Ilumatobacter_nonamiensis_YM16-303.fasta ==> Ilumatobacter_nonamiensis_YM16-303
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Leisingera_caerulea_DSM_24564.fasta ==> Leisingera_caerulea_DSM_24564
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Luminiphilus_syltensis_NOR5-1B.fasta ==> Luminiphilus_syltensis_NOR5-1B
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Magnetococcus_marinus_MC-1.fasta ==> Magnetococcus_marinus_MC-1
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Marivita_cryptomonadis.fasta ==> Marivita_cryptomonadis
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Methylobacter_sp._XLMV4.fasta ==> Methylobacter_sp._XLMV4
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Nitrospina_sp._SCGC_AAA288-L16.fasta ==> Nitrospina_sp._SCGC_AAA288-L16
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Polaribacter_sp._MED152.fasta ==> Polaribacter_sp._MED152
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Porticoccus_hydrocarbonoclasticus_MCTG13d.fasta ==> Porticoccus_hydrocarbonoclasticus_MCTG13d
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Roseovarius_sp._A-2.fasta ==> Roseovarius_sp._A-2
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Shewanella_amazonensis_SB2B.fasta ==> Shewanella_amazonensis_SB2B
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Spongiibacter_tropicus_DSM_19543.fasta ==> Spongiibacter_tropicus_DSM_19543
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/Syntrophus_aciditrophicus.fasta ==> Syntrophus_aciditrophicus
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/gamma_proteobacterium_SCGC_AB-629-P17.fasta ==> gamma_proteobacterium_SCGC_AB-629-P17
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_downloaded_references/marine_gamma_proteobacterium_HTCC2080.fasta ==> marine_gamma_proteobacterium_HTCC2080
+  All references were combined in combined_reference.fasta
+
+2020-04-16 23:30:51
+Running Reads analyzer...
+  Logging to files /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/sv_calling.log and /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/sv_calling.err...
+  Pre-processing reads...
+  Running BWA...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bwa/bwa index \
+-p combined_reference /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/combined_reference.fasta \
+>> /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/sv_calling.log \
+2>> /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bwa/bwa mem \
+-t 2 combined_reference /home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_1.paired.trimmed.fastq.gz \
+/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed/site_D3_DNA_2.paired.trimmed.fastq.gz \
+> /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/temp_output/combined_reference.sam \
+2>> /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/structural_variations/sv_calling.err
+  Done.
+  Sorting SAM-file...
+
+ERROR! Failed searching structural variations! This function is experimental and may work improperly. Sorry for the inconvenience.
+Done.
+
+Starting quast.py for the combined reference...
+(logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing site_D3_DNA.final.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Aquimarina_sp._22II-S11-z7... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Aquimarina_sp._22II-S11-z7/quast.log)
+
+No contigs were aligned to the reference Bacillus_thuringiensis_BMB171, skipping..
+
+Starting quast.py for the contigs aligned to Desulfuromonas_acetoxidans_DSM_684... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Desulfuromonas_acetoxidans_DSM_684/quast.log)
+
+Starting quast.py for the contigs aligned to Fluviicola_taffensis_DSM_16823... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Fluviicola_taffensis_DSM_16823/quast.log)
+
+Starting quast.py for the contigs aligned to Formosa_sp._LMG_28520... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Formosa_sp._LMG_28520/quast.log)
+
+Starting quast.py for the contigs aligned to Geobacter_pickeringii... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Geobacter_pickeringii/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_coccineus_YM16-304... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Ilumatobacter_coccineus_YM16-304/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_fluminis... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Ilumatobacter_fluminis/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_nonamiensis_YM16-303... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/quast.log)
+
+Starting quast.py for the contigs aligned to Leisingera_caerulea_DSM_24564... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Leisingera_caerulea_DSM_24564/quast.log)
+
+Starting quast.py for the contigs aligned to Luminiphilus_syltensis_NOR5-1B... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Luminiphilus_syltensis_NOR5-1B/quast.log)
+
+No contigs were aligned to the reference Magnetococcus_marinus_MC-1, skipping..
+
+Starting quast.py for the contigs aligned to Marivita_cryptomonadis... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Marivita_cryptomonadis/quast.log)
+
+Starting quast.py for the contigs aligned to Methylobacter_sp._XLMV4... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Methylobacter_sp._XLMV4/quast.log)
+
+Starting quast.py for the contigs aligned to Nitrospina_sp._SCGC_AAA288-L16... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Nitrospina_sp._SCGC_AAA288-L16/quast.log)
+
+Starting quast.py for the contigs aligned to Polaribacter_sp._MED152... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Polaribacter_sp._MED152/quast.log)
+
+Starting quast.py for the contigs aligned to Porticoccus_hydrocarbonoclasticus_MCTG13d... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Porticoccus_hydrocarbonoclasticus_MCTG13d/quast.log)
+
+Starting quast.py for the contigs aligned to Roseovarius_sp._A-2... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Roseovarius_sp._A-2/quast.log)
+
+Starting quast.py for the contigs aligned to Shewanella_amazonensis_SB2B... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Shewanella_amazonensis_SB2B/quast.log)
+
+Starting quast.py for the contigs aligned to Spongiibacter_tropicus_DSM_19543... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Spongiibacter_tropicus_DSM_19543/quast.log)
+
+No contigs were aligned to the reference Syntrophus_aciditrophicus, skipping..
+
+Starting quast.py for the contigs aligned to gamma_proteobacterium_SCGC_AB-629-P17... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/gamma_proteobacterium_SCGC_AB-629-P17/quast.log)
+
+Starting quast.py for the contigs aligned to marine_gamma_proteobacterium_HTCC2080... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/not_aligned/quast.log)
+
+2020-04-17 00:43:06
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for site_D3_DNA.final.contigs...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/site_D3_DNA-final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/summary/
+  Icarus (contig browser) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for site_D3_DNA.final.contigs is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/krona_charts/site_D3_DNA.final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/report.html
+
+MetaQUAST finished.
+  Log saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/metaquast.log
+
+Finished: 2020-04-17 00:43:17
+Elapsed time: 1:22:41.534138
+Total NOTICEs: 26; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

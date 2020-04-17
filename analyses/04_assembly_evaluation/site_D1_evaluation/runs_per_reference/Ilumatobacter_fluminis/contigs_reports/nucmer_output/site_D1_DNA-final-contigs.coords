@@ -1,0 +1,4 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  626053   626126  |     1847     1920  |       74       74  |   100.00  | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence	k105_123271_flag_1_multi_3.0000_len_2182
+ 2140185  2140277  |      105       13  |       93       93  |    97.85  | Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence	k105_19557_flag_1_multi_14.0000_len_2852

@@ -1,0 +1,18 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Vibrio_sinaloensis.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Vibrio_sinaloensis.fasta
+NUCMER
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_131045_flag_1_multi_5.0000_len_784 2926 784
+836 1612 784 8 21 21 0
+-88
+4
+0
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_145111_flag_1_multi_3.0000_len_778 2926 778
+1617 2391 4 778 12 12 0
+-627
+4
+0
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_2683_flag_0_multi_11.1965_len_3052 2926 3052
+2314 2418 1 105 5 5 0
+0
+>Vibrio_sinaloensis_NZ_JWLV01000018.1_Vibrio_sinaloensis_strain_AD048_Contig25__whole_genome_shotgun_sequence k105_28858_flag_1_multi_2.0000_len_595 1623 595
+35 476 154 595 12 12 0
+0

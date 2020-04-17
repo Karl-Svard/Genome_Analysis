@@ -1,0 +1,14 @@
+reference chromosomes:
+	Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome (total length: 2961474 bp, maximal covered length: 215 bp)
+
+total genome size: 2961474
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.00726%  | 1.00000     | 3         | -         | -         | -         | -         |

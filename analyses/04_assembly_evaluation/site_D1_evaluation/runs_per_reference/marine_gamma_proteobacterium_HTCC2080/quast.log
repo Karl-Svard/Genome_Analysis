@@ -1,0 +1,93 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --sv-bed /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.bed --cov /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.cov --phys-cov /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.physical.cov --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 --memory-efficient -t 1 /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_marine_gamma_proteobacterium_HTCC2080.fasta -R /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/marine_gamma_proteobacterium_HTCC2080.fasta -o /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080 --labels site_D1_DNA.final.contigs
+
+Started: 2020-04-16 23:19:36
+
+Logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+
+CWD: /domus/h1/karsva/Genome_Analysis/code
+Main parameters: 
+  Threads: 1, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/marine_gamma_proteobacterium_HTCC2080.fasta ==> marine_gamma_proteobacterium_HTCC2080
+
+Contigs:
+  Pre-processing...
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_marine_gamma_proteobacterium_HTCC2080.fasta ==> site_D1_DNA.final.contigs
+
+2020-04-16 23:19:36
+Running Basic statistics processor...
+  Reference genome:
+    marine_gamma_proteobacterium_HTCC2080.fasta, length = 3576081, num fragments = 25, GC % = 51.82
+  Contig files: 
+    site_D1_DNA.final.contigs
+  Calculating N50 and L50...
+    site_D1_DNA.final.contigs, N50 = 1785, L50 = 4, Total length = 17763, GC % = 52.41, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/basic_stats/GC_content_plot.pdf
+  Drawing site_D1_DNA.final.contigs GC content plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/basic_stats/site_D1_DNA.final.contigs_GC_content_plot.pdf
+Done.
+
+2020-04-16 23:19:38
+Running Contig analyzer...
+  site_D1_DNA.final.contigs
+  Logging to files /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/contigs_report_site_D1_DNA-final-contigs.stdout and contigs_report_site_D1_DNA-final-contigs.stderr...
+  Using existing alignments... 
+  Analysis is finished.
+
+  Creating total report...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-16 23:19:40
+Running NA-NGA calculation...
+  site_D1_DNA.final.contigs, Largest alignment = 1015, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-16 23:19:41
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  site_D1_DNA.final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 23:19:41
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 23:20:01
+RESULTS:
+  Text versions of total report are saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/report.html
+  PDF version (tables and plots) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/report.pdf
+  Icarus (contig browser) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/icarus.html

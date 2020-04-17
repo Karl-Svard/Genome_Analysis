@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+   42215    42307  |      103       11  |       93       93  |    98.92  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence	k105_131936_flag_1_multi_3.0000_len_1002
+   42388    42473  |     3763     3848  |       86       86  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence	k105_148946_flag_1_multi_5.0000_len_4124
+   93926    94005  |      242      321  |       80       80  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence	k105_153948_flag_1_multi_1.9085_len_1001
+   44030    44107  |      698      621  |       78       78  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence	k105_24120_flag_1_multi_14.0000_len_3047
+   48656    48734  |     3052     2974  |       79       79  |   100.00  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence	k105_5822_flag_1_multi_6.0000_len_5267
+   44784    45461  |      678        1  |      678      678  |    95.29  | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence	k105_76543_flag_0_multi_12.7906_len_678

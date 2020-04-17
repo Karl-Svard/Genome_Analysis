@@ -1,0 +1,41 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     site_D1_DNA.final.contigs
+# contigs (>= 1000 bp)       6                        
+# contigs (>= 5000 bp)       0                        
+# contigs (>= 10000 bp)      0                        
+# contigs (>= 25000 bp)      0                        
+# contigs (>= 50000 bp)      0                        
+Total length (>= 1000 bp)    8733                     
+Total length (>= 5000 bp)    0                        
+Total length (>= 10000 bp)   0                        
+Total length (>= 25000 bp)   0                        
+Total length (>= 50000 bp)   0                        
+# contigs                    14                       
+Largest contig               1954                     
+Total length                 14569                    
+Reference length             1424092                  
+GC (%)                       46.00                    
+Reference GC (%)             38.87                    
+N50                          1233                     
+N75                          823                      
+L50                          5                        
+L75                          9                        
+# misassemblies              0                        
+# misassembled contigs       0                        
+Misassembled contigs length  0                        
+# local misassemblies        0                        
+# structural variations      0                        
+# unaligned mis. contigs     0                        
+# unaligned contigs          0 + 4 part               
+Unaligned length             5094                     
+Genome fraction (%)          0.534                    
+Duplication ratio            1.247                    
+# N's per 100 kbp            0.00                     
+# mismatches per 100 kbp     2762.79                  
+# indels per 100 kbp         144.72                   
+Largest alignment            1307                     
+Total aligned length         8278                     
+NA50                         638                      
+NGA50                        -                        
+LA50                         9                        

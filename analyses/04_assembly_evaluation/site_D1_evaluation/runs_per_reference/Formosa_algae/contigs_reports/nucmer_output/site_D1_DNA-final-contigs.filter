@@ -1,0 +1,40 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Formosa_algae.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Formosa_algae.fasta
+NUCMER
+>Formosa_algae_NZ_LMAK01000079.1_Formosa_algae_strain_KMM_3553_contig00079__whole_genome_shotgun_sequence k105_12921_flag_1_multi_1.8767_len_632 28363 632
+16480 16567 270 357 1 1 0
+0
+>Formosa_algae_NZ_LMAK01000003.1_Formosa_algae_strain_KMM_3553_contig00003__whole_genome_shotgun_sequence k105_131764_flag_1_multi_3.7358_len_2285 67662 2285
+28721 28795 2285 2211 0 0 0
+0
+>Formosa_algae_NZ_LMAK01000039.1_Formosa_algae_strain_KMM_3553_contig00039__whole_genome_shotgun_sequence k105_148324_flag_1_multi_13.8688_len_692 20385 692
+19029 19718 689 1 24 24 0
+-280
+-1
+4
+42
+2
+0
+>Formosa_algae_NZ_LMAK01000080.1_Formosa_algae_strain_KMM_3553_contig00080__whole_genome_shotgun_sequence k105_1735_flag_1_multi_1.7579_len_898 34711 898
+16390 16463 204 277 1 1 0
+0
+>Formosa_algae_NZ_LMAK01000080.1_Formosa_algae_strain_KMM_3553_contig00080__whole_genome_shotgun_sequence k105_20366_flag_1_multi_4.0000_len_1328 34711 1328
+16814 16887 277 350 1 1 0
+0
+>Formosa_algae_NZ_LMAK01000013.1_Formosa_algae_strain_KMM_3553_contig00013__whole_genome_shotgun_sequence k105_31597_flag_1_multi_3.0000_len_565 76268 565
+10879 10954 88 13 0 0 0
+0
+>Formosa_algae_NZ_LMAK01000004.1_Formosa_algae_strain_KMM_3553_contig00004__whole_genome_shotgun_sequence k105_44283_flag_1_multi_4.9757_len_4881 194096 4881
+178591 178685 3502 3595 1 1 0
+90
+0
+>Formosa_algae_NZ_LMAK01000004.1_Formosa_algae_strain_KMM_3553_contig00004__whole_genome_shotgun_sequence k105_63001_flag_1_multi_2.6389_len_598 194096 598
+158934 159013 235 156 0 0 0
+0
+176780 176859 232 153 0 0 0
+0
+>Formosa_algae_NZ_LMAK01000062.1_Formosa_algae_strain_KMM_3553_contig00062__whole_genome_shotgun_sequence k105_63125_flag_1_multi_1.8809_len_936 104774 936
+81903 81987 118 34 2 2 0
+0
+>Formosa_algae_NZ_LMAK01000039.1_Formosa_algae_strain_KMM_3553_contig00039__whole_genome_shotgun_sequence k105_93121_flag_1_multi_3.0000_len_1625 20385 1625
+16911 16987 1233 1309 1 1 0
+0

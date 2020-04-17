@@ -1,0 +1,244 @@
+Aligning contigs to reference...
+	Using existing alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000001.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig34.1__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000002.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig13.2__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000003.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig28.3__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000005.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig9.5__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000006.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig17.6__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000009.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig3.9__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000010.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig15.10__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000011.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig36.11__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000013.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig40.13__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000014.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig2.14__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000015.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig24.15__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000016.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig11.16__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000017.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig42.17__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000018.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig38.18__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000019.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig21.19__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000020.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig23.20__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000021.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig26.21__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000022.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig44.22__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000024.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig7.24__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000025.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig25.25__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000026.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig19.26__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000027.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig31.27__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000028.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig6.28__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000029.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig16.29__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000030.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig10.30__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000031.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig22.31__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000032.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig1.32__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000033.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig18.33__whole_genome_shotgun_sequence]
+	Loaded [Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000034.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig8.34__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 34
+	Total Region Length: 3098747
+Analyzing contigs...
+CONTIG: k105_25934_flag_1_multi_3.0000_len_787 (787bp)
+Best alignment score: 91.0 (LEN: 92, IDY: 98.91)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1496 1586 | 405 495 | 91 91 | 98.9 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence k105_25934_flag_1_multi_3.0000_len_787
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 695
+		Alignment: 13318 13409 | 403 494 | 92 92 | 98.91 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence k105_25934_flag_1_multi_3.0000_len_787
+
+CONTIG: k105_120771_flag_1_multi_1.0000_len_692 (692bp)
+Best alignment score: 72.0 (LEN: 72, IDY: 100.00)
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 620
+		This contig is partially unaligned. (Aligned 72 out of 692 bases)
+		Alignment: 339523 339594 | 536 607 | 72 72 | 100.0 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence k105_120771_flag_1_multi_1.0000_len_692
+		Unaligned bases: 1 to 535 (535)
+		Unaligned bases: 608 to 692 (85)
+
+CONTIG: k105_162363_flag_1_multi_3.7214_len_1354 (1354bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1275
+		This contig is partially unaligned. (Aligned 79 out of 1354 bases)
+		Alignment: 18588 18666 | 118 196 | 79 79 | 100.0 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000016.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig11.16__whole_genome_shotgun_sequence k105_162363_flag_1_multi_3.7214_len_1354
+		Unaligned bases: 1 to 117 (117)
+		Unaligned bases: 197 to 1354 (1158)
+
+CONTIG: k105_157779_flag_1_multi_1.8336_len_682 (682bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.78)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 601
+		Alignment: 25510 25591 | 224 144 | 82 81 | 98.78 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence k105_157779_flag_1_multi_1.8336_len_682
+
+CONTIG: k105_34108_flag_1_multi_2.0000_len_1061 (1061bp)
+Best alignment score: 184.0 (LEN: 189, IDY: 97.35)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 48982 49059 | 112 189 | 78 78 | 98.72 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence k105_34108_flag_1_multi_2.0000_len_1061
+			The best set is below. Score: 184.0, number of alignments: 1, unaligned bases: 872
+		This contig is partially unaligned. (Aligned 189 out of 1061 bases)
+		Alignment: 383409 383597 | 189 1 | 189 189 | 97.35 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000001.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig34.1__whole_genome_shotgun_sequence k105_34108_flag_1_multi_2.0000_len_1061
+		Unaligned bases: 190 to 1061 (872)
+
+CONTIG: k105_70581_flag_1_multi_2.6540_len_712 (712bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 634
+		Alignment: 47641 47718 | 240 317 | 78 78 | 100.0 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence k105_70581_flag_1_multi_2.6540_len_712
+
+CONTIG: k105_100011_flag_1_multi_1.9390_len_1089 (1089bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1013
+		This contig is partially unaligned. (Aligned 76 out of 1089 bases)
+		Alignment: 47643 47718 | 96 171 | 76 76 | 100.0 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence k105_100011_flag_1_multi_1.9390_len_1089
+		Unaligned bases: 1 to 95 (95)
+		Unaligned bases: 172 to 1089 (918)
+
+CONTIG: k105_79908_flag_1_multi_1.8803_len_506 (506bp)
+Best alignment score: 70.0 (LEN: 70, IDY: 100.00)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 436
+		Alignment: 132802 132871 | 348 417 | 70 70 | 100.0 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000002.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig13.2__whole_genome_shotgun_sequence k105_79908_flag_1_multi_1.8803_len_506
+
+CONTIG: k105_36448_flag_0_multi_19.9994_len_1809 (1809bp)
+Best alignment score: 1408.0 (LEN: 1467, IDY: 95.98)
+			The best set is below. Score: 1408.0, number of alignments: 1, unaligned bases: 342
+		Alignment: 4035 5501 | 1 1467 | 1467 1467 | 95.98 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence k105_36448_flag_0_multi_19.9994_len_1809
+
+CONTIG: k105_88538_flag_1_multi_5.8390_len_751 (751bp)
+Best alignment score: 373.0 (LEN: 383, IDY: 97.39)
+			The best set is below. Score: 373.0, number of alignments: 1, unaligned bases: 368
+		Alignment: 5119 5501 | 1 383 | 383 383 | 97.39 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence k105_88538_flag_1_multi_5.8390_len_751
+
+CONTIG: k105_92770_flag_0_multi_14.5293_len_634 (634bp)
+Best alignment score: 607.1 (LEN: 634, IDY: 95.75)
+		One align captures most of this contig: 3441 4075 | 634 1 | 635 634 | 95.75 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence k105_92770_flag_0_multi_14.5293_len_634
+
+CONTIG: k105_55201_flag_1_multi_3.0000_len_791 (791bp)
+Best alignment score: 110.0 (LEN: 113, IDY: 97.35)
+			The best set is below. Score: 110.0, number of alignments: 1, unaligned bases: 678
+		This contig is partially unaligned. (Aligned 113 out of 791 bases)
+		Alignment: 66259 66371 | 791 679 | 113 113 | 97.35 | Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence k105_55201_flag_1_multi_3.0000_len_791
+		Unaligned bases: 1 to 678 (678)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Rhodobacteraceae_bacterium_HIMB11/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000018.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig38.18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000033.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig18.33__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000011.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig36.11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000017.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig42.17__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000002.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig13.2__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 409739 (409739 bp)
+			START in gap: 1 to 132802 (132801 bp)
+			Align 1: 132802 132871 k105_79908_flag_1_multi_1.8803_len_506 348 417
+			END in gap: 132871 to 409739 (276868 bp).
+
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 340699 (340699 bp)
+			START in gap: 1 to 13318 (13317 bp)
+			Align 1: 13318 13409 k105_25934_flag_1_multi_3.0000_len_787 403 494
+				Gap between this and next alignment: 13409 to 339523 (326113 bp)
+				Next Alignment: 339523 339594 k105_120771_flag_1_multi_1.0000_len_692 536 607
+
+			Align 2: 339523 339594 k105_120771_flag_1_multi_1.0000_len_692 536 607
+			END in gap: 339594 to 340699 (1105 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000013.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig40.13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000009.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig3.9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000025.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig25.25__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000016.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig11.16__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 28139 (28139 bp)
+			START in gap: 1 to 18588 (18587 bp)
+			Align 1: 18588 18666 k105_162363_flag_1_multi_3.7214_len_1354 118 196
+			END in gap: 18666 to 28139 (9473 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000003.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig28.3__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 219366 (219366 bp)
+			START in gap: 1 to 25510 (25509 bp)
+			Align 1: 25510 25591 k105_157779_flag_1_multi_1.8336_len_682 224 144
+			END in gap: 25591 to 219366 (193775 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000030.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig10.30__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000020.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig23.20__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000010.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig15.10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000014.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig2.14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000024.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig7.24__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000031.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig22.31__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000028.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig6.28__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000026.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig19.26__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000029.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig16.29__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000021.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig26.21__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000005.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig9.5__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000001.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig34.1__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 442822 (442822 bp)
+			START in gap: 1 to 383409 (383408 bp)
+			Align 1: 383409 383597 k105_34108_flag_1_multi_2.0000_len_1061 189 1
+			END in gap: 383597 to 442822 (59225 bp).
+
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 71507 (71507 bp)
+			START in gap: 1 to 47641 (47640 bp)
+			Align 1: 47641 47718 k105_70581_flag_1_multi_2.6540_len_712 240 317
+				The next alignment (47643 47718 k105_100011_flag_1_multi_1.9390_len_1089 96 171) is redundant. Skipping.
+
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000027.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig31.27__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000006.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig17.6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000019.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig21.19__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000015.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig24.15__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 5917 (5917 bp)
+			START in gap: 1 to 3441 (3440 bp)
+			Align 1: 3441 4075 k105_92770_flag_0_multi_14.5293_len_634 634 1
+				Negative gap (overlap) between this and next alignment: 4075 to 4035 (-40 bp)
+				Next Alignment: 4035 5501 k105_36448_flag_0_multi_19.9994_len_1809 1 1467
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 42.
+			Align 2: 4076 5501 k105_36448_flag_0_multi_19.9994_len_1809 42 1467
+				The next alignment (5119 5501 k105_88538_flag_1_multi_5.8390_len_751 1 383) is redundant. Skipping.
+
+	Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 150107 (150107 bp)
+			START in gap: 1 to 66259 (66258 bp)
+			Align 1: 66259 66371 k105_55201_flag_1_multi_3.0000_len_791 791 679
+			END in gap: 66371 to 150107 (83736 bp).
+
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000034.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig8.34__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000032.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig1.32__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000022.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig44.22__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Rhodobacteraceae_bacterium_HIMB11/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Fake misassemblies matched with structural variations: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 4458
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2836
+
+	SNPs: 88
+	Insertions: 3
+	Deletions: 5
+
+	Positive Gaps: 15
+		Internal Gaps: 0
+		External Gaps: 15
+		External Gap Total: 1641255
+		External Gap Average: 109417
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -40
+		External Overlaps Average: -40
+	Contigs with Redundant Alignments: 2 (459)

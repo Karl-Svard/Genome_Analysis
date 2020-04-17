@@ -1,0 +1,22 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Nitrospina_sp._SCGC_AAA288-L16.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Nitrospina_sp._SCGC_AAA288-L16.fasta
+NUCMER
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k105_131936_flag_1_multi_3.0000_len_1002 57811 1002
+42215 42307 103 11 1 1 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k105_148946_flag_1_multi_5.0000_len_4124 57811 4124
+42388 42473 3763 3848 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence k105_153948_flag_1_multi_1.9085_len_1001 116874 1001
+93926 94005 242 321 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence k105_24120_flag_1_multi_14.0000_len_3047 65910 3047
+44030 44107 698 621 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence k105_5822_flag_1_multi_6.0000_len_5267 223287 5267
+48656 48734 3052 2974 0 0 0
+0
+>Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence k105_76543_flag_0_multi_12.7906_len_678 65910 678
+44784 45461 678 1 32 32 0
+-350
+3
+0

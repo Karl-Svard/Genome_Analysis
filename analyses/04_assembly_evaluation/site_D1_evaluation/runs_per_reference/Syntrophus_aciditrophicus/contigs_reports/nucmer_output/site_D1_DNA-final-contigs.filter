@@ -1,0 +1,5 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Syntrophus_aciditrophicus.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Syntrophus_aciditrophicus.fasta
+NUCMER
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_107094_flag_1_multi_4.0000_len_2713 3179300 2713
+742014 742099 1 86 0 0 0
+0

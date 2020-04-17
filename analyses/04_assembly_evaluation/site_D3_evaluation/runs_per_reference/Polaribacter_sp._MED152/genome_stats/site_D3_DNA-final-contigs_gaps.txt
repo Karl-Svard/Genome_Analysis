@@ -1,0 +1,4 @@
+Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome
+1 1076068
+1076150 1312186
+1312321 2961474

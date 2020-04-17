@@ -1,0 +1,24 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Formosa_sp._LMG_28520.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Formosa_sp._LMG_28520.fasta
+NUCMER
+>Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573 4305801 573
+3508696 3509048 573 221 14 14 0
+0
+>Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_125096_flag_1_multi_4.0000_len_5303 4305801 5303
+841668 841749 663 744 1 1 0
+0
+1539612 1539692 662 742 0 0 0
+0
+>Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444 4305801 1444
+1587585 1587661 948 1024 0 0 0
+0
+1587903 1588058 1289 1444 6 6 0
+0
+>Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_6205_flag_1_multi_4.3453_len_1472 4305801 1472
+3668534 3668618 1008 1093 3 3 0
+-81
+0
+3687487 3687566 1006 1085 2 2 0
+0
+>Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_62801_flag_1_multi_2.7133_len_677 4305801 677
+2814016 2814092 278 202 1 1 0
+0

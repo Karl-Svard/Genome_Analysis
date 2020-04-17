@@ -1,0 +1,324 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/combined_reference.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/../quast_corrected_input/site_D1_DNA-final-contigs.fa
+NUCMER
+>Chromatocurvus_halotolerans_NZ_SLWX01000002.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_102__whole_genome_shotgun_sequence k105_100527_flag_1_multi_3.0000_len_3933 390398 3933
+320395 320471 1982 2058 0 0 0
+0
+>Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence k105_100572_flag_1_multi_1.9083_len_945 193454 945
+172549 172617 945 877 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000020.1_Marine_gamma_proteobacterium_HTCC2080_1100755000550__whole_genome_shotgun_sequence k105_102847_flag_1_multi_3.0000_len_1785 35841 1785
+15767 15850 238 155 3 3 0
+0
+>Chromatocurvus_halotolerans_NZ_SLWX01000010.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_110__whole_genome_shotgun_sequence k105_103741_flag_1_multi_3.0000_len_684 139678 684
+49769 49852 244 161 0 0 0
+0
+>Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence k105_107094_flag_1_multi_4.0000_len_2713 3179300 2713
+742014 742099 1 86 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_108924_flag_1_multi_2.0000_len_666 2366980 666
+554013 554206 224 417 5 5 0
+0
+>Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000011.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00019.19_C__whole_genome_shotgun_sequence k105_109371_flag_0_multi_6.9378_len_1842 1420 1842
+1214 1420 1 207 8 8 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_111009_flag_1_multi_7.0000_len_638 87684 638
+63859 64496 638 1 7 7 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112328_flag_1_multi_2.0000_len_2025 2366980 2025
+1816205 1816282 1882 1805 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112805_flag_1_multi_2.0000_len_575 2366980 575
+358643 359217 575 1 2 2 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_114170_flag_1_multi_9.0000_len_2571 2366980 2571
+2016201 2018688 1 2489 65 65 0
+346
+-4
+-13
+4
+-2107
+-5
+7
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k105_114623_flag_0_multi_1.9765_len_530 79359 530
+31725 32191 468 1 22 22 0
+-143
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_116141_flag_1_multi_3.0000_len_521 2366980 521
+1682757 1682854 422 521 4 4 0
+-13
+-1
+0
+>Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_KE383910.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00004.4__whole_genome_shotgun_sequence k105_116956_flag_1_multi_3.0000_len_552 359886 552
+65008 65083 377 302 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_118343_flag_1_multi_4.0000_len_804 2366980 804
+450990 451081 237 147 4 4 0
+82
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889758.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_1.2__whole_genome_shotgun_sequence k105_119161_flag_1_multi_2.8677_len_1708 139034 1708
+103755 103871 174 290 3 3 0
+-20
+4
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence k105_120771_flag_1_multi_1.0000_len_692 340699 692
+339523 339594 536 607 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_122903_flag_1_multi_3.0000_len_1137 2366980 1137
+929961 931097 1 1137 19 19 0
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_123271_flag_1_multi_3.0000_len_2182 4775416 2182
+626053 626126 1847 1920 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k105_128740_flag_1_multi_20.0000_len_1174 79359 1174
+33613 34626 1174 160 22 22 0
+-886
+0
+>Formosa_algae_NZ_LMAK01000079.1_Formosa_algae_strain_KMM_3553_contig00079__whole_genome_shotgun_sequence k105_12921_flag_1_multi_1.8767_len_632 28363 632
+16480 16567 270 357 1 1 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_129488_flag_1_multi_8.0000_len_823 87684 823
+64441 65184 823 83 24 24 0
+528
+19
+1
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_130546_flag_1_multi_3.0000_len_1454 2366980 1454
+2064061 2065121 1200 140 40 40 0
+0
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_131045_flag_1_multi_5.0000_len_784 2926 784
+836 1612 784 8 21 21 0
+-88
+4
+0
+>Formosa_algae_NZ_LMAK01000003.1_Formosa_algae_strain_KMM_3553_contig00003__whole_genome_shotgun_sequence k105_131764_flag_1_multi_3.7358_len_2285 67662 2285
+28721 28795 2285 2211 0 0 0
+0
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence k105_132807_flag_1_multi_3.0000_len_2945 116884 2945
+104138 104213 2091 2016 1 1 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_133483_flag_0_multi_11.5217_len_1623 2366980 1623
+534970 536034 1623 558 9 9 0
+-969
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_13432_flag_1_multi_1.9645_len_893 2366980 893
+1765473 1765563 790 880 0 0 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_135657_flag_1_multi_3.0000_len_1310 35808 1310
+7014 8320 1307 1 40 40 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_137198_flag_0_multi_9.4902_len_615 2366980 615
+2020402 2020988 615 29 18 18 0
+548
+3
+-10
+-1
+0
+>Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000017.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00002.2_C__whole_genome_shotgun_sequence k105_139050_flag_1_multi_2.0000_len_527 724346 527
+715617 715691 417 343 1 1 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k105_142491_flag_0_multi_13.9933_len_703 79359 703
+32156 32853 1 696 16 16 0
+102
+9
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000009.1_Marine_gamma_proteobacterium_HTCC2080_1100755000536__whole_genome_shotgun_sequence k105_142749_flag_1_multi_1.6658_len_503 173243 503
+110934 111018 286 371 2 2 0
+-82
+0
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_145111_flag_1_multi_3.0000_len_778 2926 778
+1617 2391 4 778 12 12 0
+-627
+4
+0
+>Formosa_algae_NZ_LMAK01000039.1_Formosa_algae_strain_KMM_3553_contig00039__whole_genome_shotgun_sequence k105_148324_flag_1_multi_13.8688_len_692 20385 692
+19029 19718 689 1 24 24 0
+-280
+-1
+4
+42
+2
+0
+>Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_155757_flag_1_multi_2.0000_len_1554 506754 1554
+301074 301152 1551 1473 1 1 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence k105_157779_flag_1_multi_1.8336_len_682 219366 682
+25510 25591 224 144 1 1 0
+77
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000016.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig11.16__whole_genome_shotgun_sequence k105_162363_flag_1_multi_3.7214_len_1354 28139 1354
+18588 18666 118 196 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000001.1_Marine_gamma_proteobacterium_HTCC2080_1100755000537__whole_genome_shotgun_sequence k105_162668_flag_1_multi_1.9577_len_2893 465767 2893
+121620 121708 1604 1516 1 1 0
+0
+>Formosa_algae_NZ_LMAK01000080.1_Formosa_algae_strain_KMM_3553_contig00080__whole_genome_shotgun_sequence k105_1735_flag_1_multi_1.7579_len_898 34711 898
+16814 16887 204 277 1 1 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_19331_flag_1_multi_11.0000_len_655 2366980 655
+539465 539914 655 205 17 17 0
+-251
+9
+-4
+0
+>Ilumatobacter_fluminis_NZ_SOAU01000001.1_Ilumatobacter_fluminis_strain_DSM_18936_Ga0074717_11__whole_genome_shotgun_sequence k105_19557_flag_1_multi_14.0000_len_2852 4775416 2852
+2140185 2140277 105 13 2 2 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_2317_flag_1_multi_4.0000_len_1477 87684 1477
+61845 62669 653 1477 35 35 0
+257
+-512
+0
+>Planctomyces_maris_DSM_8797_NZ_ABCE01000005.1_Gimesia_maris_DSM_8797_1101493009141__whole_genome_shotgun_sequence k105_25218_flag_1_multi_2.0000_len_564 256079 564
+251607 252151 564 20 25 25 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000005.1_Marine_gamma_proteobacterium_HTCC2080_1100755000542__whole_genome_shotgun_sequence k105_25591_flag_1_multi_1.8890_len_898 278497 898
+102723 102804 551 470 0 0 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence k105_25934_flag_1_multi_3.0000_len_787 340699 787
+13318 13409 403 494 1 1 0
+0
+>Vibrio_sinaloensis_NZ_JWLV01000016.1_Vibrio_sinaloensis_strain_AD048_Contig23__whole_genome_shotgun_sequence k105_2683_flag_0_multi_11.1965_len_3052 2926 3052
+2314 2418 1 105 5 5 0
+0
+>Chromatocurvus_halotolerans_NZ_SLWX01000032.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_132__whole_genome_shotgun_sequence k105_2683_flag_0_multi_11.1965_len_3052 5826 3052
+4155 4232 926 1003 0 0 0
+0
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_2683_flag_0_multi_11.1965_len_3052 4306142 3052
+226157 226234 918 841 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000004.1_Marine_gamma_proteobacterium_HTCC2080_1100755000533__whole_genome_shotgun_sequence k105_28581_flag_1_multi_1.9693_len_854 308854 854
+53628 53708 654 574 0 0 0
+0
+>Shewanella_woodyi_ATCC_51908_NC_010506.1_Shewanella_woodyi_ATCC_51908__complete_genome k105_28858_flag_1_multi_2.0000_len_595 5935403 595
+53349 53423 151 225 0 0 0
+0
+>Vibrio_sinaloensis_NZ_JWLV01000018.1_Vibrio_sinaloensis_strain_AD048_Contig25__whole_genome_shotgun_sequence k105_28858_flag_1_multi_2.0000_len_595 1623 595
+35 476 154 595 12 12 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k105_28981_flag_1_multi_11.0000_len_851 79359 851
+32758 33608 1 851 28 28 0
+0
+>Formosa_algae_NZ_LMAK01000013.1_Formosa_algae_strain_KMM_3553_contig00013__whole_genome_shotgun_sequence k105_31597_flag_1_multi_3.0000_len_565 76268 565
+10879 10954 88 13 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000006.1_Marine_gamma_proteobacterium_HTCC2080_1100755000532__whole_genome_shotgun_sequence k105_33708_flag_1_multi_3.0000_len_1848 274231 1848
+150441 150529 1325 1413 1 1 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000001.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig34.1__whole_genome_shotgun_sequence k105_34108_flag_1_multi_2.0000_len_1061 442822 1061
+383409 383597 189 1 5 5 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_34451_flag_1_multi_2.0000_len_2215 2366980 2215
+1437690 1437771 862 943 0 0 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence k105_36448_flag_0_multi_19.9994_len_1809 5917 1809
+4035 5501 1 1467 59 59 0
+664
+-7
+-76
+6
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_36839_flag_1_multi_1.9095_len_912 2366980 912
+428836 428934 248 150 1 1 0
+0
+>Chromatocurvus_halotolerans_NZ_SLWX01000007.1_Chromatocurvus_halotolerans_strain_DSM_23344_Ga0310537_107__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760 193454 760
+126384 126467 528 611 1 1 0
+0
+>Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760 676505 760
+537869 537953 613 529 2 2 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_38038_flag_1_multi_4.0000_len_520 2366980 520
+1133472 1133558 208 294 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000011.1_Marine_gamma_proteobacterium_HTCC2080_1100755000548__whole_genome_shotgun_sequence k105_4312_flag_1_multi_4.2017_len_586 140154 586
+97815 97893 381 303 0 0 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000015.1_Marine_gamma_proteobacterium_HTCC2080_1100755000539__whole_genome_shotgun_sequence k105_43464_flag_1_multi_7.0000_len_2557 79359 2557
+33454 33674 221 1 10 10 0
+0
+>Formosa_algae_NZ_LMAK01000004.1_Formosa_algae_strain_KMM_3553_contig00004__whole_genome_shotgun_sequence k105_44283_flag_1_multi_4.9757_len_4881 194096 4881
+178591 178685 3502 3595 1 1 0
+90
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_4770_flag_1_multi_5.0000_len_700 87684 700
+60370 61011 59 700 7 7 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_49915_flag_1_multi_3.7510_len_615 2366980 615
+2015784 2016067 284 1 8 8 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence k105_55201_flag_1_multi_3.0000_len_791 150107 791
+66259 66371 791 679 3 3 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_57596_flag_1_multi_1.0000_len_573 2366980 573
+407417 407989 573 1 20 20 0
+0
+>Formosa_algae_NZ_LMAK01000004.1_Formosa_algae_strain_KMM_3553_contig00004__whole_genome_shotgun_sequence k105_63001_flag_1_multi_2.6389_len_598 194096 598
+158934 159013 235 156 0 0 0
+0
+176780 176859 232 153 0 0 0
+0
+>Formosa_algae_NZ_LMAK01000062.1_Formosa_algae_strain_KMM_3553_contig00062__whole_genome_shotgun_sequence k105_63125_flag_1_multi_1.8809_len_936 104774 936
+81903 81987 118 34 2 2 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_64339_flag_1_multi_5.0000_len_1233 87684 1233
+62582 63814 1233 1 23 23 0
+0
+>marine_gamma_proteobacterium_HTCC2080_NZ_AAVV01000001.1_Marine_gamma_proteobacterium_HTCC2080_1100755000537__whole_genome_shotgun_sequence k105_66154_flag_1_multi_5.0000_len_1323 465767 1323
+232290 232366 124 48 0 0 0
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_67972_flag_1_multi_6.0000_len_884 25588 884
+15071 15151 884 804 4 4 0
+0
+>endosymbiont_of_Ridgeia_piscesae_NZ_KQ557152.1_Endosymbiont_of_Ridgeia_piscesae_isolate_ind11_scaffold38__whole_genome_shotgun_sequence k105_67974_flag_1_multi_13.0000_len_669 19620 669
+5797 6011 455 669 6 6 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence k105_70581_flag_1_multi_2.6540_len_712 71507 712
+47641 47718 240 317 0 0 0
+0
+>Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_NZ_AUGP01000018.1_Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_G509DRAFT_scaffold00003.3_C__whole_genome_shotgun_sequence k105_70830_flag_1_multi_9.0000_len_1185 366192 1185
+286547 286621 496 422 2 2 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_75863_flag_1_multi_5.0000_len_916 87684 916
+60899 61590 916 224 14 14 0
+-567
+34
+-4
+0
+>Ilumatobacter_nonamiensis_YM16-303_NZ_BAOL01000001.1_Ilumatobacter_nonamiensis_YM16-303__whole_genome_shotgun_sequence k105_75892_flag_1_multi_2.8650_len_1601 25588 1601
+17999 18086 1514 1601 4 4 0
+0
+>endosymbiont_of_Ridgeia_piscesae_NZ_KQ557126.1_Endosymbiont_of_Ridgeia_piscesae_isolate_ind11_scaffold12__whole_genome_shotgun_sequence k105_76626_flag_1_multi_1.8607_len_622 98883 622
+32020 32113 520 427 2 2 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_76640_flag_1_multi_11.6286_len_560 2758 560
+1148 1365 219 2 8 8 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000002.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig13.2__whole_genome_shotgun_sequence k105_79908_flag_1_multi_1.8803_len_506 409739 506
+132802 132871 348 417 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_81544_flag_1_multi_6.8987_len_875 2366980 875
+2015845 2016719 1 875 16 16 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889780.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_84059_flag_1_multi_4.0000_len_912 87684 912
+59634 60490 856 2 40 40 0
+20
+56
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92159_flag_1_multi_3.0000_len_739 2366980 739
+968237 968336 392 491 2 2 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92279_flag_1_multi_1.8762_len_711 2366980 711
+1606048 1606125 319 396 0 0 0
+0
+>Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence k105_92770_flag_0_multi_14.5293_len_634 5917 634
+3441 4075 634 1 27 27 0
+-408
+52
+5
+0
+>Formosa_algae_NZ_LMAK01000039.1_Formosa_algae_strain_KMM_3553_contig00039__whole_genome_shotgun_sequence k105_93121_flag_1_multi_3.0000_len_1625 20385 1625
+16911 16987 1233 1309 1 1 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_96365_flag_1_multi_2.0000_len_758 35808 758
+6308 7065 1 758 26 26 0
+0

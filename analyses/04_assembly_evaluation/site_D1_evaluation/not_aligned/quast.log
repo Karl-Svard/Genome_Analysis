@@ -1,0 +1,48 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py --sv-bed /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.bed --cov /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.cov --phys-cov /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/combined_reference/structural_variations/combined_reference.physical.cov --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_not_aligned_anywhere.fasta -o /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned --labels site_D1_DNA.final.contigs
+
+Started: 2020-04-16 23:20:01
+
+Logging to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /domus/h1/karsva/Genome_Analysis/code
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_not_aligned_anywhere.fasta ==> site_D1_DNA.final.contigs
+
+2020-04-16 23:20:02
+Running Basic statistics processor...
+  Contig files: 
+    site_D1_DNA.final.contigs
+  Calculating N50 and L50...
+    site_D1_DNA.final.contigs, N50 = 1078, L50 = 20591, Total length = 89931485, GC % = 46.53, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing site_D1_DNA.final.contigs GC content plot...
+    saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/basic_stats/site_D1_DNA.final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 23:20:09
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 23:20:23
+RESULTS:
+  Text versions of total report are saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/report.html
+  PDF version (tables and plots) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/not_aligned/icarus.html

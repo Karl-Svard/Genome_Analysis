@@ -1,0 +1,17 @@
+Assembly	site_D3_DNA.final.contigs
+# misassemblies	1
+    # relocations	0
+    # translocations	0
+    # inversions	0
+    # interspecies translocations	1
+# misassembled contigs	1
+Misassembled contigs length	2179
+# possibly misassembled contigs	2
+    # possible misassemblies	3
+# local misassemblies	1
+# unaligned mis. contigs	8
+# mismatches	1124
+# indels	93
+    # indels (<= 5 bp)	93
+    # indels (> 5 bp)	0
+Indels length	118

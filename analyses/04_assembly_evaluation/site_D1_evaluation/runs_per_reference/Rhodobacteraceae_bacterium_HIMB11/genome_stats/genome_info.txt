@@ -1,0 +1,47 @@
+reference chromosomes:
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000018.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig38.18__whole_genome_shotgun_sequence (total length: 13453 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000033.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig18.33__whole_genome_shotgun_sequence (total length: 607 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000011.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig36.11__whole_genome_shotgun_sequence (total length: 101409 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000017.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig42.17__whole_genome_shotgun_sequence (total length: 24680 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000002.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig13.2__whole_genome_shotgun_sequence (total length: 409739 bp, maximal covered length: 70 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000004.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig5.4__whole_genome_shotgun_sequence (total length: 340699 bp, maximal covered length: 164 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000009.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig3.9__whole_genome_shotgun_sequence (total length: 117505 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000025.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig25.25__whole_genome_shotgun_sequence (total length: 4848 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000013.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig40.13__whole_genome_shotgun_sequence (total length: 48654 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000003.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig28.3__whole_genome_shotgun_sequence (total length: 346953 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000016.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig11.16__whole_genome_shotgun_sequence (total length: 28139 bp, maximal covered length: 79 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000030.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig10.30__whole_genome_shotgun_sequence (total length: 1200 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000020.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig23.20__whole_genome_shotgun_sequence (total length: 8421 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000010.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig15.10__whole_genome_shotgun_sequence (total length: 104997 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000007.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig14.7__whole_genome_shotgun_sequence (total length: 219366 bp, maximal covered length: 82 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000014.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig2.14__whole_genome_shotgun_sequence (total length: 39666 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000024.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig7.24__whole_genome_shotgun_sequence (total length: 4868 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000031.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig22.31__whole_genome_shotgun_sequence (total length: 847 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000028.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig6.28__whole_genome_shotgun_sequence (total length: 1445 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000027.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig31.27__whole_genome_shotgun_sequence (total length: 2075 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000029.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig16.29__whole_genome_shotgun_sequence (total length: 1288 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000021.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig26.21__whole_genome_shotgun_sequence (total length: 8104 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000005.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig9.5__whole_genome_shotgun_sequence (total length: 282310 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000001.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig34.1__whole_genome_shotgun_sequence (total length: 442822 bp, maximal covered length: 189 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000012.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig32.12__whole_genome_shotgun_sequence (total length: 71507 bp, maximal covered length: 78 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000026.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig19.26__whole_genome_shotgun_sequence (total length: 2739 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000006.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig17.6__whole_genome_shotgun_sequence (total length: 267064 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000019.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig21.19__whole_genome_shotgun_sequence (total length: 9836 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000015.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig24.15__whole_genome_shotgun_sequence (total length: 29014 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000023.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig4.23__whole_genome_shotgun_sequence (total length: 5917 bp, maximal covered length: 2061 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000008.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig30.8__whole_genome_shotgun_sequence (total length: 150107 bp, maximal covered length: 113 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000034.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig8.34__whole_genome_shotgun_sequence (total length: 454 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000032.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig1.32__whole_genome_shotgun_sequence (total length: 759 bp, maximal covered length: 0 bp)
+	Rhodobacteraceae_bacterium_HIMB11_NZ_AVDB01000022.1_Rhodobacteraceae_bacterium_HIMB11_HIMB11_contig44.22__whole_genome_shotgun_sequence (total length: 7255 bp, maximal covered length: 0 bp)
+
+total genome size: 3098747
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D1_DNA-final-contig | 0.09152%  | 2.26023     | 43        | -         | -         | -         | -         |

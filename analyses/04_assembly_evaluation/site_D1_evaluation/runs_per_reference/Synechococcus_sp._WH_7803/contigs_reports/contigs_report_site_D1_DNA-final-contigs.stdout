@@ -1,0 +1,286 @@
+Aligning contigs to reference...
+	Using existing alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 2366980
+Analyzing contigs...
+CONTIG: k105_13432_flag_1_multi_1.9645_len_893 (893bp)
+Best alignment score: 91.0 (LEN: 91, IDY: 100.00)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 802
+		This contig is partially unaligned. (Aligned 91 out of 893 bases)
+		Alignment: 1765473 1765563 | 790 880 | 91 91 | 100.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_13432_flag_1_multi_1.9645_len_893
+		Unaligned bases: 1 to 789 (789)
+		Unaligned bases: 881 to 893 (13)
+
+CONTIG: k105_19331_flag_1_multi_11.0000_len_655 (655bp)
+Best alignment score: 434.0 (LEN: 451, IDY: 96.24)
+			The best set is below. Score: 434.0, number of alignments: 1, unaligned bases: 204
+		Alignment: 539465 539914 | 655 205 | 450 451 | 96.24 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_19331_flag_1_multi_11.0000_len_655
+
+CONTIG: k105_34451_flag_1_multi_2.0000_len_2215 (2215bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 2133
+		This contig is partially unaligned. (Aligned 82 out of 2215 bases)
+		Alignment: 1437690 1437771 | 862 943 | 82 82 | 100.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_34451_flag_1_multi_2.0000_len_2215
+		Unaligned bases: 1 to 861 (861)
+		Unaligned bases: 944 to 2215 (1272)
+
+CONTIG: k105_36839_flag_1_multi_1.9095_len_912 (912bp)
+Best alignment score: 98.0 (LEN: 99, IDY: 98.99)
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 813
+		This contig is partially unaligned. (Aligned 99 out of 912 bases)
+		Alignment: 428836 428934 | 248 150 | 99 99 | 98.99 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_36839_flag_1_multi_1.9095_len_912
+		Unaligned bases: 1 to 149 (149)
+		Unaligned bases: 249 to 912 (664)
+
+CONTIG: k105_38038_flag_1_multi_4.0000_len_520 (520bp)
+Best alignment score: 87.0 (LEN: 87, IDY: 100.00)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 433
+		Alignment: 1133472 1133558 | 208 294 | 87 87 | 100.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_38038_flag_1_multi_4.0000_len_520
+
+CONTIG: k105_49915_flag_1_multi_3.7510_len_615 (615bp)
+Best alignment score: 276.0 (LEN: 284, IDY: 97.18)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2015784 2016067 | 284 1 | 284 284 | 97.18 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_49915_flag_1_multi_3.7510_len_615
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 276.0, number of alignments: 1, unaligned bases: 331
+		Alignment: 539409 539692 | 1 284 | 284 284 | 97.18 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_49915_flag_1_multi_3.7510_len_615
+
+CONTIG: k105_57596_flag_1_multi_1.0000_len_573 (573bp)
+Best alignment score: 553.0 (LEN: 573, IDY: 96.51)
+		One align captures most of this contig: 407417 407989 | 573 1 | 573 573 | 96.51 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_57596_flag_1_multi_1.0000_len_573
+
+CONTIG: k105_81544_flag_1_multi_6.8987_len_875 (875bp)
+Best alignment score: 859.0 (LEN: 875, IDY: 98.17)
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 538757 539631 | 875 1 | 875 875 | 98.17 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_81544_flag_1_multi_6.8987_len_875
+			Skipping alignment 2015845 2016719 | 1 875 | 875 875 | 98.17 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_81544_flag_1_multi_6.8987_len_875
+
+CONTIG: k105_92159_flag_1_multi_3.0000_len_739 (739bp)
+Best alignment score: 98.0 (LEN: 100, IDY: 98.00)
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 639
+		Alignment: 968237 968336 | 392 491 | 100 100 | 98.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92159_flag_1_multi_3.0000_len_739
+
+CONTIG: k105_92279_flag_1_multi_1.8762_len_711 (711bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 633
+		Alignment: 1606048 1606125 | 319 396 | 78 78 | 100.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92279_flag_1_multi_1.8762_len_711
+
+CONTIG: k105_108924_flag_1_multi_2.0000_len_666 (666bp)
+Best alignment score: 189.0 (LEN: 194, IDY: 97.42)
+			The best set is below. Score: 189.0, number of alignments: 1, unaligned bases: 472
+		Alignment: 554013 554206 | 224 417 | 194 194 | 97.42 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_108924_flag_1_multi_2.0000_len_666
+
+CONTIG: k105_112328_flag_1_multi_2.0000_len_2025 (2025bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1947
+		This contig is partially unaligned. (Aligned 78 out of 2025 bases)
+		Alignment: 1816205 1816282 | 1882 1805 | 78 78 | 100.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112328_flag_1_multi_2.0000_len_2025
+		Unaligned bases: 1 to 1804 (1804)
+		Unaligned bases: 1883 to 2025 (143)
+
+CONTIG: k105_112805_flag_1_multi_2.0000_len_575 (575bp)
+Best alignment score: 573.0 (LEN: 575, IDY: 99.65)
+		One align captures most of this contig: 358643 359217 | 575 1 | 575 575 | 99.65 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112805_flag_1_multi_2.0000_len_575
+
+CONTIG: k105_114170_flag_1_multi_9.0000_len_2571 (2571bp)
+Best alignment score: 2424.0 (LEN: 2489, IDY: 97.39)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2016201 2018688 | 1 2489 | 2488 2489 | 97.39 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_114170_flag_1_multi_9.0000_len_2571
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 2424.0, number of alignments: 1, unaligned bases: 82
+		Alignment: 536788 539275 | 2489 1 | 2488 2489 | 97.39 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_114170_flag_1_multi_9.0000_len_2571
+
+CONTIG: k105_116141_flag_1_multi_3.0000_len_521 (521bp)
+Best alignment score: 96.0 (LEN: 100, IDY: 96.00)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 421
+		Alignment: 1682757 1682854 | 422 521 | 98 100 | 96.0 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_116141_flag_1_multi_3.0000_len_521
+
+CONTIG: k105_118343_flag_1_multi_4.0000_len_804 (804bp)
+Best alignment score: 87.0 (LEN: 91, IDY: 95.65)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 713
+		This contig is partially unaligned. (Aligned 91 out of 804 bases)
+		Alignment: 450990 451081 | 237 147 | 92 91 | 95.65 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_118343_flag_1_multi_4.0000_len_804
+		Unaligned bases: 1 to 146 (146)
+		Unaligned bases: 238 to 804 (567)
+
+CONTIG: k105_122903_flag_1_multi_3.0000_len_1137 (1137bp)
+Best alignment score: 1118.0 (LEN: 1137, IDY: 98.33)
+		One align captures most of this contig: 929961 931097 | 1 1137 | 1137 1137 | 98.33 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_122903_flag_1_multi_3.0000_len_1137
+
+CONTIG: k105_130546_flag_1_multi_3.0000_len_1454 (1454bp)
+Best alignment score: 1021.0 (LEN: 1061, IDY: 96.23)
+			The best set is below. Score: 1021.0, number of alignments: 1, unaligned bases: 393
+		Alignment: 2064061 2065121 | 1200 140 | 1061 1061 | 96.23 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_130546_flag_1_multi_3.0000_len_1454
+
+CONTIG: k105_133483_flag_0_multi_11.5217_len_1623 (1623bp)
+Best alignment score: 1057.0 (LEN: 1066, IDY: 99.16)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2019442 2020506 | 558 1623 | 1065 1066 | 99.16 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_133483_flag_0_multi_11.5217_len_1623
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1057.0, number of alignments: 1, unaligned bases: 557
+		This contig is partially unaligned. (Aligned 1066 out of 1623 bases)
+		Alignment: 534970 536034 | 1623 558 | 1065 1066 | 99.16 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_133483_flag_0_multi_11.5217_len_1623
+		Unaligned bases: 1 to 557 (557)
+
+CONTIG: k105_137198_flag_0_multi_9.4902_len_615 (615bp)
+Best alignment score: 569.0 (LEN: 587, IDY: 96.94)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2020402 2020988 | 615 29 | 587 587 | 96.94 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_137198_flag_0_multi_9.4902_len_615
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 569.0, number of alignments: 1, unaligned bases: 28
+		Alignment: 534488 535074 | 29 615 | 587 587 | 96.94 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_137198_flag_0_multi_9.4902_len_615
+
+CONTIG: k105_142444_flag_1_multi_3.8497_len_604 (604bp)
+Best alignment score: 94.0 (LEN: 96, IDY: 97.92)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2016720 2016815 | 99 4 | 96 96 | 97.92 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_142444_flag_1_multi_3.8497_len_604
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 508
+		This contig is partially unaligned. (Aligned 96 out of 604 bases)
+		Alignment: 538661 538756 | 4 99 | 96 96 | 97.92 | Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_142444_flag_1_multi_3.8497_len_604
+		Unaligned bases: 1 to 3 (3)
+		Unaligned bases: 100 to 604 (505)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Synechococcus_sp._WH_7803/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+	Reference Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence: 21 total alignments. 1 total regions.
+		Region: 1 to 2366980 (2366980 bp)
+			START in gap: 1 to 358643 (358642 bp)
+			Align 1: 358643 359217 k105_112805_flag_1_multi_2.0000_len_575 575 1
+				Gap between this and next alignment: 359217 to 407417 (48199 bp)
+				Next Alignment: 407417 407989 k105_57596_flag_1_multi_1.0000_len_573 573 1
+
+			Align 2: 407417 407989 k105_57596_flag_1_multi_1.0000_len_573 573 1
+				Gap between this and next alignment: 407989 to 428836 (20846 bp)
+				Next Alignment: 428836 428934 k105_36839_flag_1_multi_1.9095_len_912 248 150
+
+			Align 3: 428836 428934 k105_36839_flag_1_multi_1.9095_len_912 248 150
+				Gap between this and next alignment: 428934 to 450990 (22055 bp)
+				Next Alignment: 450990 451081 k105_118343_flag_1_multi_4.0000_len_804 237 147
+
+			Align 4: 450990 451081 k105_118343_flag_1_multi_4.0000_len_804 237 147
+				Gap between this and next alignment: 451081 to 534488 (83406 bp)
+				Next Alignment: 534488 535074 k105_137198_flag_0_multi_9.4902_len_615 29 615
+
+			Align 5: 534488 535074 k105_137198_flag_0_multi_9.4902_len_615 29 615
+				Negative gap (overlap) between this and next alignment: 535074 to 534970 (-104 bp)
+				Next Alignment: 534970 536034 k105_133483_flag_0_multi_11.5217_len_1623 1623 558
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1623 to 1518.
+			Align 6: 535075 536034 k105_133483_flag_0_multi_11.5217_len_1623 1518 558
+				Gap between this and next alignment: 536034 to 536788 (753 bp)
+				Next Alignment: 536788 539275 k105_114170_flag_1_multi_9.0000_len_2571 2489 1
+
+			Align 7: 536788 539275 k105_114170_flag_1_multi_9.0000_len_2571 2489 1
+				The next alignment (538661 538756 k105_142444_flag_1_multi_3.8497_len_604 4 99) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 539275 to 538757 (-518 bp)
+				Next Alignment: 538757 539631 k105_81544_flag_1_multi_6.8987_len_875 875 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 875 to 356.
+			Align 9: 539276 539631 k105_81544_flag_1_multi_6.8987_len_875 356 1
+				Negative gap (overlap) between this and next alignment: 539631 to 539409 (-222 bp)
+				Next Alignment: 539409 539692 k105_49915_flag_1_multi_3.7510_len_615 1 284
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 224.
+			Align 10: 539632 539692 k105_49915_flag_1_multi_3.7510_len_615 224 284
+				Negative gap (overlap) between this and next alignment: 539692 to 539465 (-227 bp)
+				Next Alignment: 539465 539914 k105_19331_flag_1_multi_11.0000_len_655 655 205
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 655 to 427.
+			Align 11: 539693 539914 k105_19331_flag_1_multi_11.0000_len_655 427 205
+				Gap between this and next alignment: 539914 to 554013 (14098 bp)
+				Next Alignment: 554013 554206 k105_108924_flag_1_multi_2.0000_len_666 224 417
+
+			Align 12: 554013 554206 k105_108924_flag_1_multi_2.0000_len_666 224 417
+				Gap between this and next alignment: 554206 to 929961 (375754 bp)
+				Next Alignment: 929961 931097 k105_122903_flag_1_multi_3.0000_len_1137 1 1137
+
+			Align 13: 929961 931097 k105_122903_flag_1_multi_3.0000_len_1137 1 1137
+				Gap between this and next alignment: 931097 to 968237 (37139 bp)
+				Next Alignment: 968237 968336 k105_92159_flag_1_multi_3.0000_len_739 392 491
+
+			Align 14: 968237 968336 k105_92159_flag_1_multi_3.0000_len_739 392 491
+				Gap between this and next alignment: 968336 to 1133472 (165135 bp)
+				Next Alignment: 1133472 1133558 k105_38038_flag_1_multi_4.0000_len_520 208 294
+
+			Align 15: 1133472 1133558 k105_38038_flag_1_multi_4.0000_len_520 208 294
+				Gap between this and next alignment: 1133558 to 1437690 (304131 bp)
+				Next Alignment: 1437690 1437771 k105_34451_flag_1_multi_2.0000_len_2215 862 943
+
+			Align 16: 1437690 1437771 k105_34451_flag_1_multi_2.0000_len_2215 862 943
+				Gap between this and next alignment: 1437771 to 1606048 (168276 bp)
+				Next Alignment: 1606048 1606125 k105_92279_flag_1_multi_1.8762_len_711 319 396
+
+			Align 17: 1606048 1606125 k105_92279_flag_1_multi_1.8762_len_711 319 396
+				Gap between this and next alignment: 1606125 to 1682757 (76631 bp)
+				Next Alignment: 1682757 1682854 k105_116141_flag_1_multi_3.0000_len_521 422 521
+
+			Align 18: 1682757 1682854 k105_116141_flag_1_multi_3.0000_len_521 422 521
+				Gap between this and next alignment: 1682854 to 1765473 (82618 bp)
+				Next Alignment: 1765473 1765563 k105_13432_flag_1_multi_1.9645_len_893 790 880
+
+			Align 19: 1765473 1765563 k105_13432_flag_1_multi_1.9645_len_893 790 880
+				Gap between this and next alignment: 1765563 to 1816205 (50641 bp)
+				Next Alignment: 1816205 1816282 k105_112328_flag_1_multi_2.0000_len_2025 1882 1805
+
+			Align 20: 1816205 1816282 k105_112328_flag_1_multi_2.0000_len_2025 1882 1805
+				Gap between this and next alignment: 1816282 to 2064061 (247778 bp)
+				Next Alignment: 2064061 2065121 k105_130546_flag_1_multi_3.0000_len_1454 1200 140
+
+			Align 21: 2064061 2065121 k105_130546_flag_1_multi_3.0000_len_1454 1200 140
+			END in gap: 2065121 to 2366980 (301859 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Synechococcus_sp._WH_7803/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Fake misassemblies matched with structural variations: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 7 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 7473
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 6903
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 9019
+
+	SNPs: 205
+	Insertions: 11
+	Deletions: 7
+
+	Positive Gaps: 17
+		Internal Gaps: 0
+		External Gaps: 17
+		External Gap Total: 2357961
+		External Gap Average: 138704
+	Negative Gaps: 4
+		Internal Overlaps: 0
+		External Overlaps: 4
+		External Overlaps Total: -1071
+		External Overlaps Average: -268
+	Contigs with Redundant Alignments: 1 (96)

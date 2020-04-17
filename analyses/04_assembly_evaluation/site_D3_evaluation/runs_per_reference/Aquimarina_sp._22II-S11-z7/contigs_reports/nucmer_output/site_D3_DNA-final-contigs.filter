@@ -1,0 +1,25 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Aquimarina_sp._22II-S11-z7.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Aquimarina_sp._22II-S11-z7.fasta
+NUCMER
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k105_11262_flag_1_multi_1.8343_len_636 38564 636
+35152 35230 211 289 1 1 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573 38564 573
+38170 38522 573 221 16 16 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000004.1_Aquimarina_atlantica_strain_22II-S11-z7_contig4__whole_genome_shotgun_sequence k105_27348_flag_1_multi_4.7177_len_1196 520297 1196
+137403 137491 546 634 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k105_28206_flag_1_multi_5.0000_len_1409 38564 1409
+34782 34988 1409 1203 8 8 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000018.1_Aquimarina_atlantica_strain_22II-S11-z7_contig18__whole_genome_shotgun_sequence k105_28207_flag_0_multi_8.0000_len_1841 38564 1841
+35407 35488 1457 1376 1 1 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000007.1_Aquimarina_atlantica_strain_22II-S11-z7_contig7__whole_genome_shotgun_sequence k105_29553_flag_1_multi_3.0000_len_579 430888 579
+238421 238502 480 399 1 1 0
+0
+238562 238642 478 398 0 0 0
+0
+>Aquimarina_sp._22II-S11-z7_NZ_AQRA01000006.1_Aquimarina_atlantica_strain_22II-S11-z7_contig6__whole_genome_shotgun_sequence k105_3114_flag_1_multi_4.0000_len_1473 507037 1473
+149068 149143 837 912 0 0 0
+0

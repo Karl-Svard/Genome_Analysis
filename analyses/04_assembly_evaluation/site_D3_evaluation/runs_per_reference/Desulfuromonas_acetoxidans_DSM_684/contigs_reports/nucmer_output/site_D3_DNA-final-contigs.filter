@@ -1,0 +1,7 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Desulfuromonas_acetoxidans_DSM_684.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Desulfuromonas_acetoxidans_DSM_684.fasta
+NUCMER
+>Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1_Desulfuromonas_acetoxidans_DSM_684_ctg63__whole_genome_shotgun_sequence k105_110801_flag_1_multi_4.0000_len_807 195317 807
+190912 190976 807 743 0 0 0
+0
+191194 191267 427 354 0 0 0
+0

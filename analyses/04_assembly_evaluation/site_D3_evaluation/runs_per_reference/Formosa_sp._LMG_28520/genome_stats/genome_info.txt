@@ -1,0 +1,14 @@
+reference chromosomes:
+	Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence (total length: 4305801 bp, maximal covered length: 829 bp)
+
+total genome size: 4305801
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.01925%  | 1.99035     | 7         | -         | -         | -         | -         |

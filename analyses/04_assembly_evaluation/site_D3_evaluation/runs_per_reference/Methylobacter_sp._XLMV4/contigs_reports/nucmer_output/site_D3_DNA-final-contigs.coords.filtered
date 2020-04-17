@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+71223 71298 | 279 204 | 76 76 | 98.68 | Methylobacter_sp._XLMV4_NZ_WUTY01000228.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_287_len_71341_cov_460_974518.228__whole_genome_shotgun_sequence k105_82832_flag_0_multi_8.9899_len_16005
+71223 71298 | 1126 1201 | 76 76 | 98.68 | Methylobacter_sp._XLMV4_NZ_WUTY01000228.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_287_len_71341_cov_460_974518.228__whole_genome_shotgun_sequence k105_98225_flag_0_multi_9.4590_len_2423
+71222 71300 | 396 474 | 79 79 | 98.73 | Methylobacter_sp._XLMV4_NZ_WUTY01000228.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_287_len_71341_cov_460_974518.228__whole_genome_shotgun_sequence k105_137126_flag_1_multi_2.0000_len_503
+4202 4416 | 457 671 | 215 215 | 96.74 | Methylobacter_sp._XLMV4_NZ_WUTY01000014.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_15_len_5558_cov_929_904663.14__whole_genome_shotgun_sequence k105_112529_flag_0_multi_22.0000_len_671

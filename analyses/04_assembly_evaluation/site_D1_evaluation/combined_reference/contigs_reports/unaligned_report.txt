@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       site_D1_DNA.final.contigs
+# fully unaligned contigs      85246                    
+Fully unaligned length         89931485                 
+# partially unaligned contigs  49                       
+Partially unaligned length     72136                    
+# N's                          0                        

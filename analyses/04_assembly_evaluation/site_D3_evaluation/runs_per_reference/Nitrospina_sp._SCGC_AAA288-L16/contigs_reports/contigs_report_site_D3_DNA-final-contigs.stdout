@@ -1,0 +1,394 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000003.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695973.3_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000004.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0001_.4_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000005.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0006_.5_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000006.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696004.6_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000008.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696073.8_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000010.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696010.10_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000011.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695995.11_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000012.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0003_.12_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000013.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696084.13_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000014.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0009_.14_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000015.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0008_.15_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000016.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0010_.16_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000017.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0005_.17_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000018.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696016.18_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000019.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0011_.19_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000020.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696034.20_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000021.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696006.21_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000022.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695984.22_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000023.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696036.23_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000024.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696031.24_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000025.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0013_.25_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000026.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696044.26_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000027.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696026.27_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000028.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696045.28_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000029.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696047.29_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000030.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0014_.30_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000031.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0002_.31_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000032.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696042.32_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000033.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696059.33_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000034.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696066.34_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000035.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696067.35_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000036.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696070.36_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000037.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696058.37_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000038.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696061.38_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000039.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696052.39_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000040.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0004_.40_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000041.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696074.41_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000042.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696043.42_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000043.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696077.43_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000044.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696082.44_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000045.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696072.45_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000046.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696008.46_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000047.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696003.47_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000048.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696022.48_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000049.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696068.49_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000050.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696015.50_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000051.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696086.51_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000052.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696089.52_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000053.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696017.53_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000054.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696025.54_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000055.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696092.55_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000056.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695941.56_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000057.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695942.57_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000058.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696085.58_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000059.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696060.59_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000060.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696030.60_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000061.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696069.61_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000062.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695943.62_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000063.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696056.63_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000064.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695944.64_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000065.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695945.65_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000066.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695947.66_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000067.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695948.67_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000068.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695949.68_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000069.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695950.69_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000070.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695952.70_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000071.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695953.71_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000072.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695954.72_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000073.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696057.73_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000074.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696053.74_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000075.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696087.75_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000076.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695955.76_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000077.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695956.77_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000078.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696048.78_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000079.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695957.79_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000080.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696050.80_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000081.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696081.81_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000082.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696088.82_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000083.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695958.83_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000084.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695959.84_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000085.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695960.85_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000086.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695961.86_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000087.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695963.87_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000088.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696091.88_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000089.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695965.89_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000090.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695966.90_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000091.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695967.91_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000092.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695968.92_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000093.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695969.93_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000094.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695970.94_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000095.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695971.95_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000096.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695972.96_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000097.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696049.97_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000098.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695974.98_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000099.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696083.99_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000100.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695976.100_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000101.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695977.101_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000102.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695978.102_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000103.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696090.103_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000104.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695979.104_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000105.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696071.105_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000106.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696064.106_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000107.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695980.107_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000108.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695981.108_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000109.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695982.109_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000110.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695983.110_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000111.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695985.111_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000112.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695986.112_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000113.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695987.113_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000114.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695988.114_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000115.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695989.115_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000116.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695990.116_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000117.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695991.117_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000118.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695992.118_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000119.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696024.119_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000120.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696093.120_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000121.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696094.121_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000122.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696063.122_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000123.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695993.123_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000124.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696065.124_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000125.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695996.125_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000126.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695997.126_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000127.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696023.127_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000128.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695998.128_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000129.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696078.129_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000130.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696021.130_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000131.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695999.131_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000132.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696079.132_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000133.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696080.133_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000134.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696001.134_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000135.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696000.135_C__whole_genome_shotgun_sequence]
+	Loaded [Nitrospina_sp._SCGC_AAA288-L16_AQTY01000136.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696002.136_C__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 136
+	Total Region Length: 2077614
+Analyzing contigs...
+CONTIG: k105_5822_flag_1_multi_6.0000_len_5267 (5267bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 5188
+		This contig is partially unaligned. (Aligned 79 out of 5267 bases)
+		Alignment: 48656 48734 | 3052 2974 | 79 79 | 100.0 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence k105_5822_flag_1_multi_6.0000_len_5267
+		Unaligned bases: 1 to 2973 (2973)
+		Unaligned bases: 3053 to 5267 (2215)
+
+CONTIG: k105_153948_flag_1_multi_1.9085_len_1001 (1001bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 921
+		This contig is partially unaligned. (Aligned 80 out of 1001 bases)
+		Alignment: 93926 94005 | 242 321 | 80 80 | 100.0 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence k105_153948_flag_1_multi_1.9085_len_1001
+		Unaligned bases: 1 to 241 (241)
+		Unaligned bases: 322 to 1001 (680)
+
+CONTIG: k105_24120_flag_1_multi_14.0000_len_3047 (3047bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 2969
+		This contig is partially unaligned. (Aligned 78 out of 3047 bases)
+		Alignment: 44030 44107 | 698 621 | 78 78 | 100.0 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence k105_24120_flag_1_multi_14.0000_len_3047
+		Unaligned bases: 1 to 620 (620)
+		Unaligned bases: 699 to 3047 (2349)
+
+CONTIG: k105_76543_flag_0_multi_12.7906_len_678 (678bp)
+Best alignment score: 646.1 (LEN: 678, IDY: 95.29)
+		One align captures most of this contig: 44784 45461 | 678 1 | 678 678 | 95.29 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence k105_76543_flag_0_multi_12.7906_len_678
+
+CONTIG: k105_131936_flag_1_multi_3.0000_len_1002 (1002bp)
+Best alignment score: 92.0 (LEN: 93, IDY: 98.92)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 909
+		This contig is partially unaligned. (Aligned 93 out of 1002 bases)
+		Alignment: 42215 42307 | 103 11 | 93 93 | 98.92 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k105_131936_flag_1_multi_3.0000_len_1002
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 104 to 1002 (899)
+
+CONTIG: k105_148946_flag_1_multi_5.0000_len_4124 (4124bp)
+Best alignment score: 86.0 (LEN: 86, IDY: 100.00)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 4038
+		This contig is partially unaligned. (Aligned 86 out of 4124 bases)
+		Alignment: 42388 42473 | 3763 3848 | 86 86 | 100.0 | Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence k105_148946_flag_1_multi_5.0000_len_4124
+		Unaligned bases: 1 to 3762 (3762)
+		Unaligned bases: 3849 to 4124 (276)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Nitrospina_sp._SCGC_AAA288-L16/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000031.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0002_.31_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000095.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695971.95_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000001.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695939.1_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 223287 (223287 bp)
+			START in gap: 1 to 48656 (48655 bp)
+			Align 1: 48656 48734 k105_5822_flag_1_multi_6.0000_len_5267 3052 2974
+			END in gap: 48734 to 223287 (174553 bp).
+
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000122.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696063.122_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000027.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696026.27_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000098.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695974.98_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000103.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696090.103_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000086.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695961.86_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000066.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695947.66_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000012.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0003_.12_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000018.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696016.18_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000106.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696064.106_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000006.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696004.6_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000015.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0008_.15_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000082.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696088.82_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000008.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696073.8_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000078.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696048.78_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000025.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0013_.25_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000035.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696067.35_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000071.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695953.71_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000128.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695998.128_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000083.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695958.83_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000070.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695952.70_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000040.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0004_.40_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000093.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695969.93_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000029.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696047.29_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000034.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696066.34_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000045.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696072.45_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000057.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695942.57_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000080.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696050.80_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000109.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695982.109_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000017.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0005_.17_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000134.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696001.134_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000024.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696031.24_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000056.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695941.56_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000120.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696093.120_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000059.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696060.59_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000132.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696079.132_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000101.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695977.101_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000068.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695949.68_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000016.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0010_.16_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000108.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695981.108_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000084.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695959.84_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000028.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696045.28_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000076.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695955.76_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000007.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696051.7_C__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 65910 (65910 bp)
+			START in gap: 1 to 44030 (44029 bp)
+			Align 1: 44030 44107 k105_24120_flag_1_multi_14.0000_len_3047 698 621
+				Gap between this and next alignment: 44107 to 44784 (676 bp)
+				Next Alignment: 44784 45461 k105_76543_flag_0_multi_12.7906_len_678 678 1
+
+			Align 2: 44784 45461 k105_76543_flag_0_multi_12.7906_len_678 678 1
+			END in gap: 45461 to 65910 (20449 bp).
+
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000064.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695944.64_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000010.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696010.10_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000022.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695984.22_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000042.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696043.42_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000092.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695968.92_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000107.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695980.107_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000091.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695967.91_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000053.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696017.53_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000026.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696044.26_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000009.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0012_.9_C__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 57811 (57811 bp)
+			START in gap: 1 to 42215 (42214 bp)
+			Align 1: 42215 42307 k105_131936_flag_1_multi_3.0000_len_1002 103 11
+				Gap between this and next alignment: 42307 to 42388 (80 bp)
+				Next Alignment: 42388 42473 k105_148946_flag_1_multi_5.0000_len_4124 3763 3848
+
+			Align 2: 42388 42473 k105_148946_flag_1_multi_5.0000_len_4124 3763 3848
+			END in gap: 42473 to 57811 (15338 bp).
+
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000112.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695986.112_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000079.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695957.79_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000055.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696092.55_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000065.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695945.65_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000110.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695983.110_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000087.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695963.87_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000041.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696074.41_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000075.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696087.75_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000081.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696081.81_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000051.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696086.51_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000096.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695972.96_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000118.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695992.118_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000126.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695997.126_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000063.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696056.63_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000100.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695976.100_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000023.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696036.23_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000020.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696034.20_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000113.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695987.113_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000013.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696084.13_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000043.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696077.43_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000074.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696053.74_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000047.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696003.47_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000090.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695966.90_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000049.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696068.49_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000032.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696042.32_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000077.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695956.77_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000030.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0014_.30_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000094.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695970.94_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000088.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696091.88_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000131.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695999.131_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000039.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696052.39_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000036.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696070.36_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000114.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695988.114_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000073.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696057.73_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000072.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695954.72_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000003.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695973.3_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000061.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696069.61_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000069.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695950.69_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000089.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695965.89_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000058.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696085.58_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000050.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696015.50_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000133.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696080.133_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000125.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695996.125_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000062.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695943.62_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000105.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696071.105_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000060.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696030.60_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000046.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696008.46_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000037.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696058.37_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000021.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696006.21_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000136.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696002.136_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000102.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695978.102_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000111.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695985.111_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000124.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696065.124_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000011.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695995.11_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000099.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696083.99_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000038.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696061.38_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000044.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696082.44_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000129.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696078.129_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000048.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696022.48_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000085.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695960.85_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000033.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696059.33_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000054.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696025.54_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000119.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696024.119_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000130.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696021.130_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000004.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0001_.4_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000019.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0011_.19_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000067.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695948.67_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000121.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696094.121_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000115.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695989.115_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000117.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695991.117_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000135.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696000.135_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000052.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696089.52_C__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000002.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696062.2_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 116874 (116874 bp)
+			START in gap: 1 to 93926 (93925 bp)
+			Align 1: 93926 94005 k105_153948_flag_1_multi_1.9085_len_1001 242 321
+			END in gap: 94005 to 116874 (22869 bp).
+
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000014.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0009_.14_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000123.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695993.123_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000116.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695990.116_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000097.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696049.97_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000127.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505696023.127_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000104.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_2505695979.104_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Nitrospina_sp._SCGC_AAA288-L16_AQTY01000005.1_Nitrospina_sp._SCGC_AAA288-L16_A288L16DRAFT_Contig_0006_.5_C__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Nitrospina_sp._SCGC_AAA288-L16/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 14025
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1094
+
+	SNPs: 31
+	Insertions: 1
+	Deletions: 1
+
+	Positive Gaps: 10
+		Internal Gaps: 0
+		External Gaps: 10
+		External Gap Total: 462788
+		External Gap Average: 46279
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

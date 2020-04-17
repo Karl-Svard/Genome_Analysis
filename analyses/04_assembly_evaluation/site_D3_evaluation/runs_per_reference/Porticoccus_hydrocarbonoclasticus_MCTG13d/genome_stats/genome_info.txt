@@ -1,0 +1,14 @@
+reference chromosomes:
+	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1_Porticoccus_hydrocarbonoclasticus_MCTG13d_U740DRAFT_scf7180000000004_quiver_dupTrim_6659.1_C__whole_genome_shotgun_sequence (total length: 2474654 bp, maximal covered length: 116 bp)
+
+total genome size: 2474654
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D3_DNA-final-contig | 0.00469%  | 1.00000     | 2         | -         | -         | -         | -         |

@@ -1,0 +1,2 @@
+Assembly	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N75	L50	L75	# N's per 100 kbp
+site_D3_DNA.final.contigs	28954	2507	789	147	45	76988411	28310950	16715824	7225360	3705511	82144	173476	113128466	48.30	1728	839	13021	37559	0.00

@@ -1,0 +1,18 @@
+Assembly	site_D1_DNA.final.contigs
+# misassemblies	0
+    # relocations	0
+    # translocations	0
+    # inversions	0
+    # interspecies translocations	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# possibly misassembled contigs	2
+    # possible misassemblies	2
+# local misassemblies	0
+# structural variations	0
+# unaligned mis. contigs	0
+# mismatches	799
+# indels	56
+    # indels (<= 5 bp)	56
+    # indels (> 5 bp)	0
+Indels length	61

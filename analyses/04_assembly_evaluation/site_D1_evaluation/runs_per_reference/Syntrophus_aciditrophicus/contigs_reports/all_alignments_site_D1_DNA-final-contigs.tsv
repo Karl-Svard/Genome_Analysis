@@ -1,0 +1,3 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+742014	742099	1	86	Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence	k105_107094_flag_1_multi_4.0000_len_2713	100.0		True
+CONTIG	k105_107094_flag_1_multi_4.0000_len_2713	2713	correct_unaligned

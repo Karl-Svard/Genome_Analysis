@@ -1,0 +1,5 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+ 1312187  1312320  |      134        1  |      134      134  |    97.76  | Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome	k105_11262_flag_1_multi_1.8343_len_636
+ 2957598  2957731  |        1      134  |      134      134  |    97.76  | Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome	k105_11262_flag_1_multi_1.8343_len_636
+ 1076069  1076149  |      230      150  |       81       81  |   100.00  | Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome	k105_69683_flag_1_multi_4.0000_len_1213

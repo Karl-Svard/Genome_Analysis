@@ -1,0 +1,23 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+58617	58692	244	169	Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_91095_flag_1_multi_3.0000_len_572	100.0		True
+CONTIG	k105_91095_flag_1_multi_3.0000_len_572	572	correct
+4419	4990	572	1	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_35270_flag_1_multi_31.7927_len_573	96.68		True
+CONTIG	k105_35270_flag_1_multi_31.7927_len_573	573	correct
+4935	5566	1	632	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_73844_flag_1_multi_19.0000_len_985	98.26		True
+CONTIG	k105_73844_flag_1_multi_19.0000_len_985	985	correct
+4541	4654	486	599	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_80467_flag_1_multi_3.0000_len_599	96.49		True
+CONTIG	k105_80467_flag_1_multi_3.0000_len_599	599	correct
+4546	4624	799	877	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_90392_flag_1_multi_3.0000_len_877	97.47		True
+CONTIG	k105_90392_flag_1_multi_3.0000_len_877	877	correct_unaligned
+613	1194	660	1241	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_95450_flag_1_multi_7.9630_len_1241	96.56		True
+CONTIG	k105_95450_flag_1_multi_7.9630_len_1241	1241	correct_unaligned
+440	916	229	705	Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_141223_flag_1_multi_4.4133_len_705	97.27		True
+CONTIG	k105_141223_flag_1_multi_4.4133_len_705	705	correct
+71809	71893	194	278	Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_19151_flag_1_multi_2.0000_len_654	100.0		True
+CONTIG	k105_19151_flag_1_multi_2.0000_len_654	654	correct
+8608	8691	216	299	Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_54233_flag_1_multi_2.0000_len_603	97.62		True
+CONTIG	k105_54233_flag_1_multi_2.0000_len_603	603	correct
+34959	35036	345	268	Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_71971_flag_1_multi_2.0000_len_703	100.0		True
+CONTIG	k105_71971_flag_1_multi_2.0000_len_703	703	correct
+119663	119761	485	388	Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence	k105_143466_flag_1_multi_3.0000_len_579	96.97		True
+CONTIG	k105_143466_flag_1_multi_3.0000_len_579	579	correct

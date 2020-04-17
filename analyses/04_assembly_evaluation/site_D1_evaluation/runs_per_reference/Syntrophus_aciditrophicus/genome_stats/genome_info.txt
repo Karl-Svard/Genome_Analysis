@@ -1,0 +1,14 @@
+reference chromosomes:
+	Syntrophus_aciditrophicus_NC_007759.1_Syntrophus_aciditrophicus_SB__complete_sequence (total length: 3179300 bp, maximal covered length: 86 bp)
+
+total genome size: 3179300
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D1_DNA-final-contig | 0.00270%  | 1.00000     | 2         | -         | -         | -         | -         |

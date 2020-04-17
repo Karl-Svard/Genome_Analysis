@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+301074 301152 | 737 815 | 79 79 | 98.73 | Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_145299_flag_1_multi_3.6103_len_1673
+301074 301152 | 1551 1473 | 79 79 | 98.73 | Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_155757_flag_1_multi_2.0000_len_1554
+537869 537953 | 613 529 | 85 85 | 97.65 | Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760
+675869 675958 | 1515 1604 | 90 90 | 97.78 | Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_162668_flag_1_multi_1.9577_len_2893

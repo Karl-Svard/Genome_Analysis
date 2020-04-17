@@ -1,0 +1,8 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Polaribacter_sp._MED152.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Polaribacter_sp._MED152.fasta
+NUCMER
+>Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome k105_11262_flag_1_multi_1.8343_len_636 2961474 636
+2957598 2957731 1 134 3 3 0
+0
+>Polaribacter_sp._MED152_NC_020830.1_Polaribacter_sp._MED152__complete_genome k105_69683_flag_1_multi_4.0000_len_1213 2961474 1213
+1076069 1076149 230 150 0 0 0
+0

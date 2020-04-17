@@ -1,0 +1,132 @@
+Aligning contigs to reference...
+	Using existing alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891575.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_0.1__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891576.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_1.2__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891577.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_10.11__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891578.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_11.12__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891579.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_12.13__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891580.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_13.14__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891581.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_14.15__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891582.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_15.16__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891583.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_16.17__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891584.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_17.18__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891587.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_4.5__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891588.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_5.6__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891589.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_6.7__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891590.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_7.8__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891591.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_8.9__whole_genome_shotgun_sequence]
+	Loaded [Dasania_marina_DSM_21967_NZ_KB891592.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_9.10__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 18
+	Total Region Length: 4104988
+Analyzing contigs...
+CONTIG: k105_145299_flag_1_multi_3.6103_len_1673 (1673bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1594
+		This contig is partially unaligned. (Aligned 79 out of 1673 bases)
+		Alignment: 301074 301152 | 737 815 | 79 79 | 98.73 | Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_145299_flag_1_multi_3.6103_len_1673
+		Unaligned bases: 1 to 736 (736)
+		Unaligned bases: 816 to 1673 (858)
+
+CONTIG: k105_155757_flag_1_multi_2.0000_len_1554 (1554bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1475
+		This contig is partially unaligned. (Aligned 79 out of 1554 bases)
+		Alignment: 301074 301152 | 1551 1473 | 79 79 | 98.73 | Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_155757_flag_1_multi_2.0000_len_1554
+		Unaligned bases: 1 to 1472 (1472)
+		Unaligned bases: 1552 to 1554 (3)
+
+CONTIG: k105_37824_flag_1_multi_2.0000_len_760 (760bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 675
+		This contig is partially unaligned. (Aligned 85 out of 760 bases)
+		Alignment: 537869 537953 | 613 529 | 85 85 | 97.65 | Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760
+		Unaligned bases: 1 to 528 (528)
+		Unaligned bases: 614 to 760 (147)
+
+CONTIG: k105_162668_flag_1_multi_1.9577_len_2893 (2893bp)
+Best alignment score: 88.0 (LEN: 90, IDY: 97.78)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 2803
+		This contig is partially unaligned. (Aligned 90 out of 2893 bases)
+		Alignment: 675869 675958 | 1515 1604 | 90 90 | 97.78 | Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_162668_flag_1_multi_1.9577_len_2893
+		Unaligned bases: 1 to 1514 (1514)
+		Unaligned bases: 1605 to 2893 (1289)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Dasania_marina_DSM_21967/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891579.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_12.13__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891589.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_6.7__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891591.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_8.9__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891581.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_14.15__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891576.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_1.2__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891587.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_4.5__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891580.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_13.14__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891578.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_11.12__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891588.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_5.6__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891592.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_9.10__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891584.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_17.18__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891583.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_16.17__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891582.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_15.16__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891590.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_7.8__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 506754 (506754 bp)
+			START in gap: 1 to 301074 (301073 bp)
+			Align 1: 301074 301152 k105_145299_flag_1_multi_3.6103_len_1673 737 815
+				The next alignment (301074 301152 k105_155757_flag_1_multi_2.0000_len_1554 1551 1473) is redundant. Skipping.
+
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891577.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_10.11__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Dasania_marina_DSM_21967_NZ_KB891575.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_0.1__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence: 2 total alignments. 1 total regions.
+		Region: 1 to 676505 (676505 bp)
+			START in gap: 1 to 537869 (537868 bp)
+			Align 1: 537869 537953 k105_37824_flag_1_multi_2.0000_len_760 613 529
+				Gap between this and next alignment: 537953 to 675869 (137915 bp)
+				Next Alignment: 675869 675958 k105_162668_flag_1_multi_1.9577_len_2893 1515 1604
+
+			Align 2: 675869 675958 k105_162668_flag_1_multi_1.9577_len_2893 1515 1604
+			END in gap: 675958 to 676505 (547 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/runs_per_reference/Dasania_marina_DSM_21967/contigs_reports/nucmer_output/site_D1_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Fake misassemblies matched with structural variations: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 4 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 6547
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 254
+
+	SNPs: 5
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 4
+		Internal Gaps: 0
+		External Gaps: 4
+		External Gap Total: 977403
+		External Gap Average: 244351
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 1 (79)

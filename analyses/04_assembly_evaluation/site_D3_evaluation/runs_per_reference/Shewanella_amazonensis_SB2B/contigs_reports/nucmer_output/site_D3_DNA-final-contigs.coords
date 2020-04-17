@@ -1,0 +1,6 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+  280949   281025  |      286      210  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_24383_flag_1_multi_4.0000_len_1045
+ 2294530  2294606  |      210      286  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_24383_flag_1_multi_4.0000_len_1045
+ 3107019  3107095  |      210      286  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_24383_flag_1_multi_4.0000_len_1045
+ 4277026  4277102  |      210      286  |       77       77  |   100.00  | Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome	k105_24383_flag_1_multi_4.0000_len_1045

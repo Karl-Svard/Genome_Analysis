@@ -1,0 +1,259 @@
+Roseovarius_sp._A-2_NZ_BDIY01000119.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 266
+Roseovarius_sp._A-2_NZ_BDIY01000059.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5185
+Roseovarius_sp._A-2_NZ_BDIY01000117.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 298
+Roseovarius_sp._A-2_NZ_BDIY01000111.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 524
+Roseovarius_sp._A-2_NZ_BDIY01000118.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 275
+Roseovarius_sp._A-2_NZ_BDIY01000055.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5919
+Roseovarius_sp._A-2_NZ_BDIY01000004.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 227227
+Roseovarius_sp._A-2_NZ_BDIY01000021.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 81772
+Roseovarius_sp._A-2_NZ_BDIY01000013.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 101433
+Roseovarius_sp._A-2_NZ_BDIY01000121.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 253
+Roseovarius_sp._A-2_NZ_BDIY01000026.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 41456
+Roseovarius_sp._A-2_NZ_BDIY01000100.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 821
+Roseovarius_sp._A-2_NZ_BDIY01000048.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 8943
+Roseovarius_sp._A-2_NZ_BDIY01000089.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1105
+Roseovarius_sp._A-2_NZ_BDIY01000030.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 24815
+Roseovarius_sp._A-2_NZ_BDIY01000019.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 87238
+Roseovarius_sp._A-2_NZ_BDIY01000069.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2639
+Roseovarius_sp._A-2_NZ_BDIY01000104.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 756
+Roseovarius_sp._A-2_NZ_BDIY01000114.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 301
+Roseovarius_sp._A-2_NZ_BDIY01000061.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 4988
+Roseovarius_sp._A-2_NZ_BDIY01000068.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2771
+Roseovarius_sp._A-2_NZ_BDIY01000126.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 248
+Roseovarius_sp._A-2_NZ_BDIY01000047.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 9245
+Roseovarius_sp._A-2_NZ_BDIY01000066.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 3718
+Roseovarius_sp._A-2_NZ_BDIY01000078.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1617
+Roseovarius_sp._A-2_NZ_BDIY01000035.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 17109
+Roseovarius_sp._A-2_NZ_BDIY01000094.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1015
+Roseovarius_sp._A-2_NZ_BDIY01000052.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 6181
+Roseovarius_sp._A-2_NZ_BDIY01000095.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1004
+Roseovarius_sp._A-2_NZ_BDIY01000088.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1187
+Roseovarius_sp._A-2_NZ_BDIY01000015.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 93623
+Roseovarius_sp._A-2_NZ_BDIY01000098.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 883
+Roseovarius_sp._A-2_NZ_BDIY01000112.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 446
+Roseovarius_sp._A-2_NZ_BDIY01000074.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2007
+Roseovarius_sp._A-2_NZ_BDIY01000064.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 3790
+Roseovarius_sp._A-2_NZ_BDIY01000072.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2482
+Roseovarius_sp._A-2_NZ_BDIY01000056.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5884
+Roseovarius_sp._A-2_NZ_BDIY01000123.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 253
+Roseovarius_sp._A-2_NZ_BDIY01000050.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 8272
+Roseovarius_sp._A-2_NZ_BDIY01000022.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 79179
+Roseovarius_sp._A-2_NZ_BDIY01000086.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1208
+Roseovarius_sp._A-2_NZ_BDIY01000058.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5550
+Roseovarius_sp._A-2_NZ_BDIY01000039.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 14404
+Roseovarius_sp._A-2_NZ_BDIY01000001.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 670842
+Roseovarius_sp._A-2_NZ_BDIY01000115.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 300
+Roseovarius_sp._A-2_NZ_BDIY01000108.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 557
+Roseovarius_sp._A-2_NZ_BDIY01000043.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 11272
+Roseovarius_sp._A-2_NZ_BDIY01000109.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 542
+Roseovarius_sp._A-2_NZ_BDIY01000060.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5068
+Roseovarius_sp._A-2_NZ_BDIY01000096.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 950
+Roseovarius_sp._A-2_NZ_BDIY01000033.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 20927
+Roseovarius_sp._A-2_NZ_BDIY01000003.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 380395
+Roseovarius_sp._A-2_NZ_BDIY01000106.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 723
+Roseovarius_sp._A-2_NZ_BDIY01000082.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1335
+Roseovarius_sp._A-2_NZ_BDIY01000062.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 4585
+Roseovarius_sp._A-2_NZ_BDIY01000077.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1624
+Roseovarius_sp._A-2_NZ_BDIY01000002.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 34958
+35037 411047
+Roseovarius_sp._A-2_NZ_BDIY01000042.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 11670
+Roseovarius_sp._A-2_NZ_BDIY01000031.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 24400
+Roseovarius_sp._A-2_NZ_BDIY01000018.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 90598
+Roseovarius_sp._A-2_NZ_BDIY01000049.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 8549
+Roseovarius_sp._A-2_NZ_BDIY01000029.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 28517
+Roseovarius_sp._A-2_NZ_BDIY01000113.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 320
+Roseovarius_sp._A-2_NZ_BDIY01000122.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 253
+Roseovarius_sp._A-2_NZ_BDIY01000006.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 119662
+119762 181928
+Roseovarius_sp._A-2_NZ_BDIY01000071.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2498
+Roseovarius_sp._A-2_NZ_BDIY01000012.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 58616
+58693 102575
+Roseovarius_sp._A-2_NZ_BDIY01000014.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 97173
+Roseovarius_sp._A-2_NZ_BDIY01000080.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1443
+Roseovarius_sp._A-2_NZ_BDIY01000116.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 298
+Roseovarius_sp._A-2_NZ_BDIY01000027.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 37681
+Roseovarius_sp._A-2_NZ_BDIY01000046.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 9592
+Roseovarius_sp._A-2_NZ_BDIY01000076.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1673
+Roseovarius_sp._A-2_NZ_BDIY01000092.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1050
+Roseovarius_sp._A-2_NZ_BDIY01000091.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1055
+Roseovarius_sp._A-2_NZ_BDIY01000063.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 4058
+Roseovarius_sp._A-2_NZ_BDIY01000084.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1293
+Roseovarius_sp._A-2_NZ_BDIY01000045.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 9672
+Roseovarius_sp._A-2_NZ_BDIY01000107.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 631
+Roseovarius_sp._A-2_NZ_BDIY01000093.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1022
+Roseovarius_sp._A-2_NZ_BDIY01000097.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 945
+Roseovarius_sp._A-2_NZ_BDIY01000025.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 66537
+Roseovarius_sp._A-2_NZ_BDIY01000008.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 160967
+Roseovarius_sp._A-2_NZ_BDIY01000067.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 3094
+Roseovarius_sp._A-2_NZ_BDIY01000011.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 8607
+8692 71808
+71894 117332
+Roseovarius_sp._A-2_NZ_BDIY01000102.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 809
+Roseovarius_sp._A-2_NZ_BDIY01000024.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 67515
+Roseovarius_sp._A-2_NZ_BDIY01000041.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 12490
+Roseovarius_sp._A-2_NZ_BDIY01000120.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 253
+Roseovarius_sp._A-2_NZ_BDIY01000032.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 21846
+Roseovarius_sp._A-2_NZ_BDIY01000083.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1304
+Roseovarius_sp._A-2_NZ_BDIY01000105.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 751
+Roseovarius_sp._A-2_NZ_BDIY01000034.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 20149
+Roseovarius_sp._A-2_NZ_BDIY01000051.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 7255
+Roseovarius_sp._A-2_NZ_BDIY01000079.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1507
+Roseovarius_sp._A-2_NZ_BDIY01000040.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 12986
+Roseovarius_sp._A-2_NZ_BDIY01000070.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2573
+Roseovarius_sp._A-2_NZ_BDIY01000087.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1189
+Roseovarius_sp._A-2_NZ_BDIY01000044.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 11120
+Roseovarius_sp._A-2_NZ_BDIY01000110.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 542
+Roseovarius_sp._A-2_NZ_BDIY01000005.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 183004
+Roseovarius_sp._A-2_NZ_BDIY01000020.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 81833
+Roseovarius_sp._A-2_NZ_BDIY01000036.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 16268
+Roseovarius_sp._A-2_NZ_BDIY01000017.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 90948
+Roseovarius_sp._A-2_NZ_BDIY01000038.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 14762
+Roseovarius_sp._A-2_NZ_BDIY01000028.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 36922
+Roseovarius_sp._A-2_NZ_BDIY01000037.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 15556
+Roseovarius_sp._A-2_NZ_BDIY01000007.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 163911
+Roseovarius_sp._A-2_NZ_BDIY01000075.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1838
+Roseovarius_sp._A-2_NZ_BDIY01000010.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 140754
+Roseovarius_sp._A-2_NZ_BDIY01000057.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5767
+Roseovarius_sp._A-2_NZ_BDIY01000009.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 147879
+Roseovarius_sp._A-2_NZ_BDIY01000124.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 252
+Roseovarius_sp._A-2_NZ_BDIY01000099.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 851
+Roseovarius_sp._A-2_NZ_BDIY01000053.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 439
+1195 4418
+5567 6014
+Roseovarius_sp._A-2_NZ_BDIY01000103.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 809
+Roseovarius_sp._A-2_NZ_BDIY01000090.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1096
+Roseovarius_sp._A-2_NZ_BDIY01000101.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 810
+Roseovarius_sp._A-2_NZ_BDIY01000125.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 252
+Roseovarius_sp._A-2_NZ_BDIY01000085.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1209
+Roseovarius_sp._A-2_NZ_BDIY01000065.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 3765
+Roseovarius_sp._A-2_NZ_BDIY01000016.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 92680
+Roseovarius_sp._A-2_NZ_BDIY01000054.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 5963
+Roseovarius_sp._A-2_NZ_BDIY01000081.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 1392
+Roseovarius_sp._A-2_NZ_BDIY01000073.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 2253
+Roseovarius_sp._A-2_NZ_BDIY01000023.1_Roseovarius_sp._A-2__whole_genome_shotgun_sequence
+1 70220

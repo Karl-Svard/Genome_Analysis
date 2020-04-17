@@ -1,0 +1,2 @@
+Assembly	# misassemblies	    # relocations	    # translocations	    # inversions	    # interspecies translocations	# misassembled contigs	Misassembled contigs length	# possibly misassembled contigs	    # possible misassemblies	# local misassemblies	# structural variations	# unaligned mis. contigs	# mismatches	# indels	    # indels (<= 5 bp)	    # indels (> 5 bp)	Indels length
+site_D1_DNA.final.contigs	0	0	0	0	0	0	0	2	2	0	0	0	799	56	56	0	61

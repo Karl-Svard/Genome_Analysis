@@ -1,0 +1,49 @@
+Number of interspecies translocations by references: 
+References                                 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23
+Aquimarina_sp._22II-S11-z7                 -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Bacillus_thuringiensis_BMB171              0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Desulfuromonas_acetoxidans_DSM_684         0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Fluviicola_taffensis_DSM_16823             0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Formosa_sp._LMG_28520                      0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Geobacter_pickeringii                      0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_coccineus_YM16-304           0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_fluminis                     0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_nonamiensis_YM16-303         0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Leisingera_caerulea_DSM_24564              0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Luminiphilus_syltensis_NOR5-1B             0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0   0   0   0   0 
+Magnetococcus_marinus_MC-1                 0  0  0  0  0  0  0  0  0  0   0   -   0   0   0   0   0   0   0   0   0   0   0 
+Marivita_cryptomonadis                     0  0  0  0  0  0  0  0  0  0   0   0   -   0   0   0   0   0   0   0   0   0   0 
+Methylobacter_sp._XLMV4                    0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0   0   0   0   0 
+Nitrospina_sp._SCGC_AAA288-L16             0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0   0   0   0   0 
+Polaribacter_sp._MED152                    0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   0   0   0   0   0   0 
+Porticoccus_hydrocarbonoclasticus_MCTG13d  0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0   0   0   0   1 
+Roseovarius_sp._A-2                        0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   -   0   0   0   0   0 
+Shewanella_amazonensis_SB2B                0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   -   0   0   0   0 
+Spongiibacter_tropicus_DSM_19543           0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   -   0   0   0 
+Syntrophus_aciditrophicus                  0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   -   0   0 
+gamma_proteobacterium_SCGC_AB-629-P17      0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   -   0 
+marine_gamma_proteobacterium_HTCC2080      0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   1   0   0   0   0   0   - 
+References:
+1 - Aquimarina_sp._22II-S11-z7
+2 - Bacillus_thuringiensis_BMB171
+3 - Desulfuromonas_acetoxidans_DSM_684
+4 - Fluviicola_taffensis_DSM_16823
+5 - Formosa_sp._LMG_28520
+6 - Geobacter_pickeringii
+7 - Ilumatobacter_coccineus_YM16-304
+8 - Ilumatobacter_fluminis
+9 - Ilumatobacter_nonamiensis_YM16-303
+10 - Leisingera_caerulea_DSM_24564
+11 - Luminiphilus_syltensis_NOR5-1B
+12 - Magnetococcus_marinus_MC-1
+13 - Marivita_cryptomonadis
+14 - Methylobacter_sp._XLMV4
+15 - Nitrospina_sp._SCGC_AAA288-L16
+16 - Polaribacter_sp._MED152
+17 - Porticoccus_hydrocarbonoclasticus_MCTG13d
+18 - Roseovarius_sp._A-2
+19 - Shewanella_amazonensis_SB2B
+20 - Spongiibacter_tropicus_DSM_19543
+21 - Syntrophus_aciditrophicus
+22 - gamma_proteobacterium_SCGC_AB-629-P17
+23 - marine_gamma_proteobacterium_HTCC2080

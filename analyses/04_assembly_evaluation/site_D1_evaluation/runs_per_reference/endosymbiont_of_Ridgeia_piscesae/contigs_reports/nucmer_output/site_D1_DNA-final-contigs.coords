@@ -1,0 +1,5 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+    5804     6001  |      303      502  |      198      200  |    96.50  | endosymbiont_of_Ridgeia_piscesae_NZ_KQ557152.1_Endosymbiont_of_Ridgeia_piscesae_isolate_ind11_scaffold38__whole_genome_shotgun_sequence	k105_128893_flag_1_multi_8.0000_len_502
+    5797     6011  |      455      669  |      215      215  |    97.21  | endosymbiont_of_Ridgeia_piscesae_NZ_KQ557152.1_Endosymbiont_of_Ridgeia_piscesae_isolate_ind11_scaffold38__whole_genome_shotgun_sequence	k105_67974_flag_1_multi_13.0000_len_669
+   32020    32113  |      520      427  |       94       94  |    97.87  | endosymbiont_of_Ridgeia_piscesae_NZ_KQ557126.1_Endosymbiont_of_Ridgeia_piscesae_isolate_ind11_scaffold12__whole_genome_shotgun_sequence	k105_76626_flag_1_multi_1.8607_len_622

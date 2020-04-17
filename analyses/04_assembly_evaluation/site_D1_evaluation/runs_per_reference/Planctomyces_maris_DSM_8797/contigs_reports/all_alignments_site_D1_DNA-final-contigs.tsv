@@ -1,0 +1,5 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+251607	252151	564	20	Planctomyces_maris_DSM_8797_NZ_ABCE01000005.1_Gimesia_maris_DSM_8797_1101493009141__whole_genome_shotgun_sequence	k105_25218_flag_1_multi_2.0000_len_564	95.41		True
+CONTIG	k105_25218_flag_1_multi_2.0000_len_564	564	correct
+104138	104213	2091	2016	Planctomyces_maris_DSM_8797_NZ_ABCE01000024.1_Gimesia_maris_DSM_8797_1101493009154__whole_genome_shotgun_sequence	k105_132807_flag_1_multi_3.0000_len_2945	98.68		True
+CONTIG	k105_132807_flag_1_multi_3.0000_len_2945	2945	correct_unaligned

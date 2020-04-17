@@ -1,0 +1,278 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000001.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig180.1_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000011.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig176.4_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000012.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig178.5_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000019.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold3.7_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000020.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig182.8_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_AXBI01000021.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig177.9_C__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_KI421514.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold2.3__whole_genome_shotgun_sequence]
+	Loaded [Leisingera_caerulea_DSM_24564_NZ_KI421515.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold4.2__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 9
+	Total Region Length: 5344419
+Analyzing contigs...
+CONTIG: k105_15294_flag_1_multi_7.9628_len_884 (884bp)
+Best alignment score: 355.0 (LEN: 368, IDY: 96.47)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1020061 1020428 | 1 368 | 368 368 | 96.47 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_15294_flag_1_multi_7.9628_len_884
+		Skipping redundant alignment 1061493 1061860 | 1 368 | 368 368 | 96.47 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_15294_flag_1_multi_7.9628_len_884
+		Skipping redundant alignment 1989270 1989637 | 368 1 | 368 368 | 96.47 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_15294_flag_1_multi_7.9628_len_884
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 355.0, number of alignments: 1, unaligned bases: 516
+		This contig is partially unaligned. (Aligned 368 out of 884 bases)
+		Alignment: 361237 361604 | 1 368 | 368 368 | 96.47 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_15294_flag_1_multi_7.9628_len_884
+		Unaligned bases: 369 to 884 (516)
+
+CONTIG: k105_35270_flag_1_multi_31.7927_len_573 (573bp)
+Best alignment score: 555.0 (LEN: 569, IDY: 97.54)
+		This contig has 4 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 357090 357658 | 1 569 | 569 569 | 97.54 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573
+			Skipping alignment 1015914 1016482 | 1 569 | 569 569 | 97.54 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573
+			Skipping alignment 1057346 1057914 | 1 569 | 569 569 | 97.54 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573
+			Skipping alignment 1993216 1993784 | 569 1 | 569 569 | 97.54 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_35270_flag_1_multi_31.7927_len_573
+
+CONTIG: k105_35382_flag_1_multi_2.0000_len_740 (740bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 661
+		Alignment: 849710 849788 | 310 232 | 79 79 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_35382_flag_1_multi_2.0000_len_740
+
+CONTIG: k105_63481_flag_1_multi_3.0000_len_516 (516bp)
+Best alignment score: 100.0 (LEN: 102, IDY: 98.06)
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 414
+		Alignment: 2402825 2402927 | 118 219 | 103 102 | 98.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_63481_flag_1_multi_3.0000_len_516
+
+CONTIG: k105_65956_flag_1_multi_4.9461_len_1144 (1144bp)
+Best alignment score: 79.0 (LEN: 81, IDY: 97.53)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1018696 1018775 | 1021 1101 | 80 81 | 97.53 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_65956_flag_1_multi_4.9461_len_1144
+		Skipping redundant alignment 1060128 1060207 | 1021 1101 | 80 81 | 97.53 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_65956_flag_1_multi_4.9461_len_1144
+		Skipping redundant alignment 1990923 1991002 | 1101 1021 | 80 81 | 97.53 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_65956_flag_1_multi_4.9461_len_1144
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1063
+		This contig is partially unaligned. (Aligned 81 out of 1144 bases)
+		Alignment: 359872 359951 | 1021 1101 | 80 81 | 97.53 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_65956_flag_1_multi_4.9461_len_1144
+		Unaligned bases: 1 to 1020 (1020)
+		Unaligned bases: 1102 to 1144 (43)
+
+CONTIG: k105_80346_flag_1_multi_5.0000_len_808 (808bp)
+Best alignment score: 91.0 (LEN: 91, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1018908 1018998 | 91 1 | 91 91 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1060340 1060430 | 91 1 | 91 91 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1990700 1990790 | 1 91 | 91 91 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1018593 1018669 | 314 238 | 77 77 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1060025 1060101 | 314 238 | 77 77 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1991029 1991105 | 238 314 | 77 77 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1018696 1018771 | 502 427 | 76 76 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1060128 1060203 | 502 427 | 76 76 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Skipping redundant alignment 1990927 1991002 | 427 502 | 76 76 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 230.0, number of alignments: 3, unaligned bases: 564
+		This contig is misassembled. 12 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 808 and total length of all aligns is 244
+		Alignment: 360084 360174 | 91 1 | 91 91 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Alignment: 359769 359845 | 314 238 | 77 77 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Alignment: 359872 359947 | 502 427 | 76 76 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_80346_flag_1_multi_5.0000_len_808
+		Unaligned bases: 564
+
+CONTIG: k105_89276_flag_1_multi_1.9253_len_1123 (1123bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1041
+		This contig is partially unaligned. (Aligned 82 out of 1123 bases)
+		Alignment: 1680931 1681012 | 82 1 | 82 82 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_89276_flag_1_multi_1.9253_len_1123
+		Unaligned bases: 83 to 1123 (1041)
+
+CONTIG: k105_97917_flag_1_multi_5.6714_len_525 (525bp)
+Best alignment score: 250.0 (LEN: 262, IDY: 95.42)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1060336 1060597 | 286 25 | 262 262 | 95.42 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		Skipping redundant alignment 1990533 1990794 | 25 286 | 262 262 | 95.42 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		Skipping redundant alignment 360080 360341 | 286 25 | 262 262 | 95.04 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		Skipping redundant alignment 359774 359845 | 525 454 | 72 72 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		Skipping redundant alignment 1060030 1060101 | 525 454 | 72 72 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		Skipping redundant alignment 1991029 1991100 | 454 525 | 72 72 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 322.0, number of alignments: 2, unaligned bases: 191
+		This contig is misassembled. 8 total aligns.
+			Real Alignment 1: 1018904 1019165 | 286 25 | 262 262 | 95.42 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+			  Gap between these two alignments (local misassembly). Inconsistency = 67
+			Real Alignment 2: 1018598 1018669 | 525 454 | 72 72 | 100.0 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_97917_flag_1_multi_5.6714_len_525
+
+CONTIG: k105_119767_flag_1_multi_1.8399_len_611 (611bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2471163 2471241 | 242 320 | 79 79 | 98.73 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_119767_flag_1_multi_1.8399_len_611
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 532
+		Alignment: 2470918 2470996 | 242 320 | 79 79 | 98.73 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_119767_flag_1_multi_1.8399_len_611
+
+CONTIG: k105_124161_flag_1_multi_1.7767_len_714 (714bp)
+Best alignment score: 98.0 (LEN: 101, IDY: 97.06)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1222495 1222588 | 459 554 | 94 96 | 96.88 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_124161_flag_1_multi_1.7767_len_714
+		Skipping redundant alignment 1413032 1413125 | 554 459 | 94 96 | 96.88 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_124161_flag_1_multi_1.7767_len_714
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 613
+		Alignment: 1291850 1291950 | 459 559 | 101 101 | 97.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_124161_flag_1_multi_1.7767_len_714
+
+CONTIG: k105_128686_flag_1_multi_5.4463_len_701 (701bp)
+Best alignment score: 114.0 (LEN: 119, IDY: 95.80)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1016709 1016826 | 119 1 | 118 119 | 95.8 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_128686_flag_1_multi_5.4463_len_701
+		Skipping redundant alignment 1058141 1058258 | 119 1 | 118 119 | 95.8 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_128686_flag_1_multi_5.4463_len_701
+		Skipping redundant alignment 1992872 1992989 | 1 119 | 118 119 | 95.8 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_128686_flag_1_multi_5.4463_len_701
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 582
+		This contig is partially unaligned. (Aligned 119 out of 701 bases)
+		Alignment: 357885 358002 | 119 1 | 118 119 | 95.8 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_128686_flag_1_multi_5.4463_len_701
+		Unaligned bases: 120 to 701 (582)
+
+CONTIG: k105_132713_flag_0_multi_10.0000_len_2062 (2062bp)
+Best alignment score: 99.0 (LEN: 102, IDY: 97.06)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1016256 1016357 | 2061 1960 | 102 102 | 97.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_132713_flag_0_multi_10.0000_len_2062
+		Skipping redundant alignment 1057688 1057789 | 2061 1960 | 102 102 | 97.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_132713_flag_0_multi_10.0000_len_2062
+		Skipping redundant alignment 1993341 1993442 | 1960 2061 | 102 102 | 97.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_132713_flag_0_multi_10.0000_len_2062
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 99.0, number of alignments: 1, unaligned bases: 1960
+		This contig is partially unaligned. (Aligned 102 out of 2062 bases)
+		Alignment: 357432 357533 | 2061 1960 | 102 102 | 97.06 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_132713_flag_0_multi_10.0000_len_2062
+		Unaligned bases: 1 to 1959 (1959)
+		Unaligned bases: 2062 to 2062 (1)
+
+CONTIG: k105_155397_flag_1_multi_9.0811_len_2250 (2250bp)
+Best alignment score: 1324.0 (LEN: 1387, IDY: 95.46)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1019040 1020427 | 2250 864 | 1388 1387 | 95.46 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_155397_flag_1_multi_9.0811_len_2250
+		Skipping redundant alignment 1060472 1061859 | 2250 864 | 1388 1387 | 95.46 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_155397_flag_1_multi_9.0811_len_2250
+		Skipping redundant alignment 1989271 1990658 | 864 2250 | 1388 1387 | 95.46 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_155397_flag_1_multi_9.0811_len_2250
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1324.0, number of alignments: 1, unaligned bases: 863
+		This contig is partially unaligned. (Aligned 1387 out of 2250 bases)
+		Alignment: 360216 361603 | 2250 864 | 1388 1387 | 95.46 | Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_155397_flag_1_multi_9.0811_len_2250
+		Unaligned bases: 1 to 863 (863)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Leisingera_caerulea_DSM_24564/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000001.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig180.1_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000019.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold3.7_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000021.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig177.9_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000011.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig176.4_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000020.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig182.8_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_AXBI01000012.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Contig178.5_C__whole_genome_shotgun_sequence does not have any alignments! 
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_KI421515.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold4.2__whole_genome_shotgun_sequence does not have any alignments! 
+	Reference Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence: 16 total alignments. 1 total regions.
+		Region: 1 to 3520924 (3520924 bp)
+			START in gap: 1 to 357090 (357089 bp)
+			Align 1: 357090 357658 k105_35270_flag_1_multi_31.7927_len_573 1 569
+				The next alignment (357432 357533 k105_132713_flag_0_multi_10.0000_len_2062 2061 1960) is redundant. Skipping.
+				Gap between this and next alignment: 357658 to 357885 (226 bp)
+				Next Alignment: 357885 358002 k105_128686_flag_1_multi_5.4463_len_701 119 1
+
+			Align 3: 357885 358002 k105_128686_flag_1_multi_5.4463_len_701 119 1
+				Gap between this and next alignment: 358002 to 359769 (1766 bp)
+				Next Alignment: 359769 359845 k105_80346_flag_1_multi_5.0000_len_808 314 238
+
+			Align 4: 359769 359845 k105_80346_flag_1_multi_5.0000_len_808 314 238
+				Gap between this and next alignment: 359845 to 359872 (26 bp)
+				Next Alignment: 359872 359951 k105_65956_flag_1_multi_4.9461_len_1144 1021 1101
+
+			Align 5: 359872 359951 k105_65956_flag_1_multi_4.9461_len_1144 1021 1101
+				The next alignment (359872 359947 k105_80346_flag_1_multi_5.0000_len_808 502 427) is redundant. Skipping.
+				Gap between this and next alignment: 359951 to 360084 (132 bp)
+				Next Alignment: 360084 360174 k105_80346_flag_1_multi_5.0000_len_808 91 1
+
+			Align 7: 360084 360174 k105_80346_flag_1_multi_5.0000_len_808 91 1
+				Gap between this and next alignment: 360174 to 360216 (41 bp)
+				Next Alignment: 360216 361603 k105_155397_flag_1_multi_9.0811_len_2250 2250 864
+
+			Align 8: 360216 361603 k105_155397_flag_1_multi_9.0811_len_2250 2250 864
+				Negative gap (overlap) between this and next alignment: 361603 to 361237 (-366 bp)
+				Next Alignment: 361237 361604 k105_15294_flag_1_multi_7.9628_len_884 1 368
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 368.
+			Align 9: 361604 361604 k105_15294_flag_1_multi_7.9628_len_884 368 368
+				Gap between this and next alignment: 361604 to 849710 (488105 bp)
+				Next Alignment: 849710 849788 k105_35382_flag_1_multi_2.0000_len_740 310 232
+
+			Align 10: 849710 849788 k105_35382_flag_1_multi_2.0000_len_740 310 232
+				Gap between this and next alignment: 849788 to 1018598 (168809 bp)
+				Next Alignment: 1018598 1018669 k105_97917_flag_1_multi_5.6714_len_525 525 454
+
+			Align 11: 1018598 1018669 k105_97917_flag_1_multi_5.6714_len_525 525 454
+				Gap between this and next alignment: 1018669 to 1018904 (234 bp)
+				Next Alignment: 1018904 1019165 k105_97917_flag_1_multi_5.6714_len_525 286 25
+
+			Align 12: 1018904 1019165 k105_97917_flag_1_multi_5.6714_len_525 286 25
+				Gap between this and next alignment: 1019165 to 1291850 (272684 bp)
+				Next Alignment: 1291850 1291950 k105_124161_flag_1_multi_1.7767_len_714 459 559
+
+			Align 13: 1291850 1291950 k105_124161_flag_1_multi_1.7767_len_714 459 559
+				Gap between this and next alignment: 1291950 to 1680931 (388980 bp)
+				Next Alignment: 1680931 1681012 k105_89276_flag_1_multi_1.9253_len_1123 82 1
+
+			Align 14: 1680931 1681012 k105_89276_flag_1_multi_1.9253_len_1123 82 1
+				Gap between this and next alignment: 1681012 to 2402825 (721812 bp)
+				Next Alignment: 2402825 2402927 k105_63481_flag_1_multi_3.0000_len_516 118 219
+
+			Align 15: 2402825 2402927 k105_63481_flag_1_multi_3.0000_len_516 118 219
+				Gap between this and next alignment: 2402927 to 2470918 (67990 bp)
+				Next Alignment: 2470918 2470996 k105_119767_flag_1_multi_1.8399_len_611 242 320
+
+			Align 16: 2470918 2470996 k105_119767_flag_1_multi_1.8399_len_611 242 320
+			END in gap: 2470996 to 3520924 (1049928 bp).
+
+WARNING: Reference Leisingera_caerulea_DSM_24564_NZ_KI421514.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold2.3__whole_genome_shotgun_sequence does not have any alignments! 
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Leisingera_caerulea_DSM_24564/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 6 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 6025
+
+Ambiguously Mapped Contigs: 9
+Total Bases in Ambiguously Mapped Contigs: 9558
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 3102
+
+	SNPs: 94
+	Insertions: 4
+	Deletions: 4
+
+	Positive Gaps: 14
+		Internal Gaps: 1
+		External Gaps: 13
+		External Gap Total: 3517588
+		External Gap Average: 270584
+	Negative Gaps: 1
+		Internal Overlaps: 0
+		External Overlaps: 1
+		External Overlaps Total: -366
+		External Overlaps Average: -366
+	Contigs with Redundant Alignments: 2 (178)

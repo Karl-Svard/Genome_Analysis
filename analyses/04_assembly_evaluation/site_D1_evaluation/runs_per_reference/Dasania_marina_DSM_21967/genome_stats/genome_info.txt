@@ -1,0 +1,31 @@
+reference chromosomes:
+	Dasania_marina_DSM_21967_NZ_KB891579.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_12.13__whole_genome_shotgun_sequence (total length: 59819 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891589.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_6.7__whole_genome_shotgun_sequence (total length: 152958 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891591.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_8.9__whole_genome_shotgun_sequence (total length: 120699 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891592.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_9.10__whole_genome_shotgun_sequence (total length: 101408 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891590.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_7.8__whole_genome_shotgun_sequence (total length: 120861 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891576.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_1.2__whole_genome_shotgun_sequence (total length: 760556 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891587.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_4.5__whole_genome_shotgun_sequence (total length: 207945 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891580.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_13.14__whole_genome_shotgun_sequence (total length: 50036 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891578.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_11.12__whole_genome_shotgun_sequence (total length: 73506 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891588.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_5.6__whole_genome_shotgun_sequence (total length: 156574 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891584.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_17.18__whole_genome_shotgun_sequence (total length: 1631 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891583.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_16.17__whole_genome_shotgun_sequence (total length: 1809 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891582.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_15.16__whole_genome_shotgun_sequence (total length: 5914 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891581.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_14.15__whole_genome_shotgun_sequence (total length: 23664 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence (total length: 506754 bp, maximal covered length: 79 bp)
+	Dasania_marina_DSM_21967_NZ_KB891577.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_10.11__whole_genome_shotgun_sequence (total length: 76086 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891575.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_0.1__whole_genome_shotgun_sequence (total length: 1008263 bp, maximal covered length: 0 bp)
+	Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence (total length: 676505 bp, maximal covered length: 175 bp)
+
+total genome size: 4104988
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+site_D1_DNA-final-contig | 0.00619%  | 1.31102     | 21        | -         | -         | -         | -         |

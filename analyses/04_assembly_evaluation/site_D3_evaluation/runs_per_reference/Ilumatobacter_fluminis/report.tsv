@@ -1,0 +1,36 @@
+Assembly	site_D3_DNA.final.contigs
+# contigs (>= 1000 bp)	8
+# contigs (>= 5000 bp)	2
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 1000 bp)	30316
+Total length (>= 5000 bp)	15061
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	15
+Largest contig	8045
+Total length	35368
+Reference length	4775416
+GC (%)	60.34
+Reference GC (%)	68.59
+N50	4673
+N75	2316
+L50	3
+L75	6
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 8 part
+Unaligned length	29534
+Genome fraction (%)	0.076
+Duplication ratio	1.616
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	2770.08
+# indels per 100 kbp	387.81
+Largest alignment	715
+Total aligned length	4035
+NGA50	-

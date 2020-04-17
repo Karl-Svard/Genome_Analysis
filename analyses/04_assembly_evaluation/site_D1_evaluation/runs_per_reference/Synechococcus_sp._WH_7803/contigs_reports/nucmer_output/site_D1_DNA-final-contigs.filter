@@ -1,0 +1,80 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Synechococcus_sp._WH_7803.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Synechococcus_sp._WH_7803.fasta
+NUCMER
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_108924_flag_1_multi_2.0000_len_666 2366980 666
+554013 554206 224 417 5 5 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112328_flag_1_multi_2.0000_len_2025 2366980 2025
+1816205 1816282 1882 1805 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_112805_flag_1_multi_2.0000_len_575 2366980 575
+358643 359217 575 1 2 2 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_114170_flag_1_multi_9.0000_len_2571 2366980 2571
+2016201 2018688 1 2489 65 65 0
+346
+-4
+-13
+4
+-2107
+-5
+7
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_116141_flag_1_multi_3.0000_len_521 2366980 521
+1682757 1682854 422 521 4 4 0
+-13
+-1
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_118343_flag_1_multi_4.0000_len_804 2366980 804
+450990 451081 237 147 4 4 0
+82
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_122903_flag_1_multi_3.0000_len_1137 2366980 1137
+929961 931097 1 1137 19 19 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_130546_flag_1_multi_3.0000_len_1454 2366980 1454
+2064061 2065121 1200 140 40 40 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_133483_flag_0_multi_11.5217_len_1623 2366980 1623
+534970 536034 1623 558 9 9 0
+-969
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_13432_flag_1_multi_1.9645_len_893 2366980 893
+1765473 1765563 790 880 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_137198_flag_0_multi_9.4902_len_615 2366980 615
+534488 535074 29 615 18 18 0
+-28
+-1
+10
+3
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_19331_flag_1_multi_11.0000_len_655 2366980 655
+539465 539914 655 205 17 17 0
+-251
+9
+-4
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_34451_flag_1_multi_2.0000_len_2215 2366980 2215
+1437690 1437771 862 943 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_36839_flag_1_multi_1.9095_len_912 2366980 912
+428836 428934 248 150 1 1 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_38038_flag_1_multi_4.0000_len_520 2366980 520
+1133472 1133558 208 294 0 0 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_49915_flag_1_multi_3.7510_len_615 2366980 615
+2015784 2016067 284 1 8 8 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_57596_flag_1_multi_1.0000_len_573 2366980 573
+407417 407989 573 1 20 20 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_81544_flag_1_multi_6.8987_len_875 2366980 875
+538757 539631 875 1 16 16 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92159_flag_1_multi_3.0000_len_739 2366980 739
+968237 968336 392 491 2 2 0
+0
+>Synechococcus_sp._WH_7803_NC_009481.1_Synechococcus_WH7803_complete_genome_sequence k105_92279_flag_1_multi_1.8762_len_711 2366980 711
+1606048 1606125 319 396 0 0 0
+0

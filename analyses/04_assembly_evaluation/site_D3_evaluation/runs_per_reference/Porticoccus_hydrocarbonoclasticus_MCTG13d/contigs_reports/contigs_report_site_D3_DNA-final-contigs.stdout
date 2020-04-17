@@ -1,0 +1,64 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1_Porticoccus_hydrocarbonoclasticus_MCTG13d_U740DRAFT_scf7180000000004_quiver_dupTrim_6659.1_C__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 2474654
+Analyzing contigs...
+CONTIG: k105_144968_flag_0_multi_10.0000_len_2179 (2179bp)
+Best alignment score: 111.0 (LEN: 116, IDY: 95.69)
+			The best set is below. Score: 111.0, number of alignments: 1, unaligned bases: 2063
+		This contig is partially unaligned. (Aligned 116 out of 2179 bases)
+		Alignment: 439341 439456 | 116 1 | 116 116 | 95.69 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1_Porticoccus_hydrocarbonoclasticus_MCTG13d_U740DRAFT_scf7180000000004_quiver_dupTrim_6659.1_C__whole_genome_shotgun_sequence k105_144968_flag_0_multi_10.0000_len_2179
+		Unaligned bases: 117 to 2179 (2063)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Porticoccus_hydrocarbonoclasticus_MCTG13d/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+	Reference Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1_Porticoccus_hydrocarbonoclasticus_MCTG13d_U740DRAFT_scf7180000000004_quiver_dupTrim_6659.1_C__whole_genome_shotgun_sequence: 1 total alignments. 1 total regions.
+		Region: 1 to 2474654 (2474654 bp)
+			START in gap: 1 to 439341 (439340 bp)
+			Align 1: 439341 439456 k105_144968_flag_0_multi_10.0000_len_2179 116 1
+			END in gap: 439456 to 2474654 (2035198 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Porticoccus_hydrocarbonoclasticus_MCTG13d/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 2063
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 116
+
+	SNPs: 5
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 2
+		Internal Gaps: 0
+		External Gaps: 2
+		External Gap Total: 2474538
+		External Gap Average: 1237269
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

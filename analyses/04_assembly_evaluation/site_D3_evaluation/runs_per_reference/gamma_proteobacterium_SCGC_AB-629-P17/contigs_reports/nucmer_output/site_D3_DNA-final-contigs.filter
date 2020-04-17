@@ -1,0 +1,13 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/gamma_proteobacterium_SCGC_AB-629-P17.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_gamma_proteobacterium_SCGC_AB-629-P17.fasta
+NUCMER
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_36165_flag_1_multi_3.7361_len_1003 2758 1003
+1259 1352 72 165 4 4 0
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889789.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_38.39__whole_genome_shotgun_sequence k105_66802_flag_1_multi_16.7075_len_3777 2758 3777
+1260 1365 3777 3672 5 5 0
+-96
+6
+0
+>gamma_proteobacterium_SCGC_AB-629-P17_KB889760.1_gamma_proteobacterium_SCGC_AB-629-P17_genomic_scaffold_A3OADRAFT_scaffold_11.12__whole_genome_shotgun_sequence k105_86634_flag_1_multi_1.0000_len_570 35808 570
+7368 7937 1 570 15 15 0
+0

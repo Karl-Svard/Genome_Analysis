@@ -1,0 +1,11 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/Dasania_marina_DSM_21967.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D1_evaluation/quast_corrected_input/site_D1_DNA-final-contigs_to_Dasania_marina_DSM_21967.fasta
+NUCMER
+>Dasania_marina_DSM_21967_NZ_KB891586.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_3.4__whole_genome_shotgun_sequence k105_145299_flag_1_multi_3.6103_len_1673 506754 1673
+301074 301152 737 815 1 1 0
+0
+>Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_162668_flag_1_multi_1.9577_len_2893 676505 2893
+675869 675958 1515 1604 2 2 0
+0
+>Dasania_marina_DSM_21967_NZ_KB891585.1_Dasania_marina_DSM_21967_B067DRAFT_scaffold_2.3__whole_genome_shotgun_sequence k105_37824_flag_1_multi_2.0000_len_760 676505 760
+537869 537953 613 529 2 2 0
+0

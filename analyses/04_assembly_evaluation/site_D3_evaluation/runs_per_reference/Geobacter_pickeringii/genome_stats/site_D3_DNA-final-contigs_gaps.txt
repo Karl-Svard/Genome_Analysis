@@ -1,0 +1,4 @@
+Geobacter_pickeringii_NZ_CP009788.1_Geobacter_pickeringii_strain_G13_chromosome__complete_genome
+1 2447551
+2447626 3581734
+3581821 3618700

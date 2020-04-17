@@ -1,0 +1,133 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 4305801
+Analyzing contigs...
+CONTIG: k105_6205_flag_1_multi_4.3453_len_1472 (1472bp)
+Best alignment score: 83.0 (LEN: 86, IDY: 96.51)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3687487 3687566 | 1006 1085 | 80 80 | 97.5 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_6205_flag_1_multi_4.3453_len_1472
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 1386
+		This contig is partially unaligned. (Aligned 86 out of 1472 bases)
+		Alignment: 3668534 3668618 | 1008 1093 | 85 86 | 96.51 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_6205_flag_1_multi_4.3453_len_1472
+		Unaligned bases: 1 to 1007 (1007)
+		Unaligned bases: 1094 to 1472 (379)
+
+CONTIG: k105_37807_flag_1_multi_5.0000_len_1444 (1444bp)
+Best alignment score: 150.0 (LEN: 156, IDY: 96.15)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 926836 926911 | 949 1024 | 76 76 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Skipping redundant alignment 1718933 1719008 | 949 1024 | 76 76 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Skipping redundant alignment 3505903 3505978 | 1024 949 | 76 76 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Skipping redundant alignment 927153 927308 | 1289 1444 | 156 156 | 96.15 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Skipping redundant alignment 1719250 1719405 | 1289 1444 | 156 156 | 96.15 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Skipping redundant alignment 3505506 3505661 | 1444 1289 | 156 156 | 96.15 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 227.0, number of alignments: 2, unaligned bases: 1211
+		This contig is misassembled. 8 total aligns.
+			Warning! This contig is more unaligned than misassembled. Contig length is 1444 and total length of all aligns is 233
+		Alignment: 1587585 1587661 | 948 1024 | 77 77 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Alignment: 1587903 1588058 | 1289 1444 | 156 156 | 96.15 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+		Unaligned bases: 1211
+
+CONTIG: k105_62801_flag_1_multi_2.7133_len_677 (677bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 600
+		Alignment: 2814016 2814092 | 278 202 | 77 77 | 98.7 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_62801_flag_1_multi_2.7133_len_677
+
+CONTIG: k105_117527_flag_1_multi_4.6068_len_573 (573bp)
+Best alignment score: 339.0 (LEN: 353, IDY: 96.03)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1584544 1584896 | 221 573 | 353 353 | 96.03 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573
+		Skipping redundant alignment 1715862 1716214 | 221 573 | 353 353 | 96.03 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573
+		Skipping redundant alignment 3508696 3509048 | 573 221 | 353 353 | 96.03 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 339.0, number of alignments: 1, unaligned bases: 220
+		Alignment: 923765 924117 | 221 573 | 353 353 | 96.03 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573
+
+CONTIG: k105_125096_flag_1_multi_4.0000_len_5303 (5303bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 841668 841749 | 663 744 | 82 82 | 98.78 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_125096_flag_1_multi_4.0000_len_5303
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 5222
+		This contig is partially unaligned. (Aligned 81 out of 5303 bases)
+		Alignment: 1539612 1539692 | 662 742 | 81 81 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_125096_flag_1_multi_4.0000_len_5303
+		Unaligned bases: 1 to 661 (661)
+		Unaligned bases: 743 to 5303 (4561)
+
+Analyzing coverage...
+Writing SNPs into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Formosa_sp._LMG_28520/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+	Reference Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence: 6 total alignments. 1 total regions.
+		Region: 1 to 4305801 (4305801 bp)
+			START in gap: 1 to 923765 (923764 bp)
+			Align 1: 923765 924117 k105_117527_flag_1_multi_4.6068_len_573 221 573
+				Gap between this and next alignment: 924117 to 1539612 (615494 bp)
+				Next Alignment: 1539612 1539692 k105_125096_flag_1_multi_4.0000_len_5303 662 742
+
+			Align 2: 1539612 1539692 k105_125096_flag_1_multi_4.0000_len_5303 662 742
+				Gap between this and next alignment: 1539692 to 1587585 (47892 bp)
+				Next Alignment: 1587585 1587661 k105_37807_flag_1_multi_5.0000_len_1444 948 1024
+
+			Align 3: 1587585 1587661 k105_37807_flag_1_multi_5.0000_len_1444 948 1024
+				Gap between this and next alignment: 1587661 to 1587903 (241 bp)
+				Next Alignment: 1587903 1588058 k105_37807_flag_1_multi_5.0000_len_1444 1289 1444
+
+			Align 4: 1587903 1588058 k105_37807_flag_1_multi_5.0000_len_1444 1289 1444
+				Gap between this and next alignment: 1588058 to 2814016 (1225957 bp)
+				Next Alignment: 2814016 2814092 k105_62801_flag_1_multi_2.7133_len_677 278 202
+
+			Align 5: 2814016 2814092 k105_62801_flag_1_multi_2.7133_len_677 278 202
+				Gap between this and next alignment: 2814092 to 3668534 (854441 bp)
+				Next Alignment: 3668534 3668618 k105_6205_flag_1_multi_4.3453_len_1472 1008 1093
+
+			Align 6: 3668534 3668618 k105_6205_flag_1_multi_4.3453_len_1472 1008 1093
+			END in gap: 3668618 to 4305801 (637183 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/runs_per_reference/Formosa_sp._LMG_28520/contigs_reports/nucmer_output/site_D3_DNA-final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 7819
+
+Ambiguously Mapped Contigs: 3
+Total Bases in Ambiguously Mapped Contigs: 7320
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 829
+
+	SNPs: 23
+	Insertions: 1
+	Deletions: 0
+
+	Positive Gaps: 7
+		Internal Gaps: 1
+		External Gaps: 6
+		External Gap Total: 4304731
+		External Gap Average: 717455
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

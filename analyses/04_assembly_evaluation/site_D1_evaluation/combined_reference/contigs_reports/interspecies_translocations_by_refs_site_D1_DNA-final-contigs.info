@@ -1,0 +1,41 @@
+Number of interspecies translocations by references: 
+References                                         1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19
+Blastopirellula_marina                             -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Chromatocurvus_halotolerans                        0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Dasania_marina_DSM_21967                           0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Dehalogenimonas_lykanthroporepellens_BL-DC-9       0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790  0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Formosa_algae                                      0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_fluminis                             0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_nonamiensis_YM16-303                 0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0 
+Ochrobactrum_grignonense                           0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0 
+Planctomyces_maris_DSM_8797                        0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0 
+Rhodobacteraceae_bacterium_HIMB11                  0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0 
+Shewanella_amazonensis_SB2B                        0  0  0  0  0  0  0  0  0  0   0   -   0   0   0   0   0   0   0 
+Shewanella_woodyi_ATCC_51908                       0  0  0  0  0  0  0  0  0  0   0   0   -   0   0   0   0   0   0 
+Synechococcus_sp._WH_7803                          0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0 
+Syntrophus_aciditrophicus                          0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0 
+Vibrio_sinaloensis                                 0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   0   0 
+endosymbiont_of_Ridgeia_piscesae                   0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0 
+gamma_proteobacterium_SCGC_AB-629-P17              0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   -   0 
+marine_gamma_proteobacterium_HTCC2080              0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   - 
+References:
+1 - Blastopirellula_marina
+2 - Chromatocurvus_halotolerans
+3 - Dasania_marina_DSM_21967
+4 - Dehalogenimonas_lykanthroporepellens_BL-DC-9
+5 - Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790
+6 - Formosa_algae
+7 - Ilumatobacter_fluminis
+8 - Ilumatobacter_nonamiensis_YM16-303
+9 - Ochrobactrum_grignonense
+10 - Planctomyces_maris_DSM_8797
+11 - Rhodobacteraceae_bacterium_HIMB11
+12 - Shewanella_amazonensis_SB2B
+13 - Shewanella_woodyi_ATCC_51908
+14 - Synechococcus_sp._WH_7803
+15 - Syntrophus_aciditrophicus
+16 - Vibrio_sinaloensis
+17 - endosymbiont_of_Ridgeia_piscesae
+18 - gamma_proteobacterium_SCGC_AB-629-P17
+19 - marine_gamma_proteobacterium_HTCC2080

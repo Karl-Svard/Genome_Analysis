@@ -1,0 +1,8 @@
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+3668534 3668618 | 1008 1093 | 85 86 | 96.51 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_6205_flag_1_multi_4.3453_len_1472
+1587585 1587661 | 948 1024 | 77 77 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+1587903 1588058 | 1289 1444 | 156 156 | 96.15 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_37807_flag_1_multi_5.0000_len_1444
+2814016 2814092 | 278 202 | 77 77 | 98.7 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_62801_flag_1_multi_2.7133_len_677
+923765 924117 | 221 573 | 353 353 | 96.03 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_117527_flag_1_multi_4.6068_len_573
+1539612 1539692 | 662 742 | 81 81 | 100.0 | Formosa_sp._LMG_28520_NZ_BDEL01000001.1_Formosa_haliotis_strain_MA1__whole_genome_shotgun_sequence k105_125096_flag_1_multi_4.0000_len_5303

@@ -1,0 +1,5 @@
+/home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/Shewanella_amazonensis_SB2B.fasta /home/karsva/Genome_Analysis/analyses/04_assembly_evaluation/site_D3_evaluation/quast_corrected_input/site_D3_DNA-final-contigs_to_Shewanella_amazonensis_SB2B.fasta
+NUCMER
+>Shewanella_amazonensis_SB2B_NC_008700.1_Shewanella_amazonensis_SB2B__complete_genome k105_24383_flag_1_multi_4.0000_len_1045 4306142 1045
+4277026 4277102 210 286 0 0 0
+0
