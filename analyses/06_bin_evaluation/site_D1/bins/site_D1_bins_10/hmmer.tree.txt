@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_2229_2          -            142 Ribosomal_L11        PF00298.14    69     1e-30  101.1   1.4   1   1   2.6e-33   1.6e-30  100.5   1.4     1    69    70   138    70   138 0.99 # 369 # 794 # 1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=9bp;gc_cont=0.516
+k105_2393_3          -             64 Ribosomal_S15        PF00312.17    83   6.4e-22   72.6   1.3   1   1   1.2e-24     7e-22   72.5   1.3    23    83     1    61     1    61 0.99 # 3467 # 3658 # -1 # ID=3_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+k105_2229_4          -            176 Ribosomal_L10        PF00466.15   100   1.3e-23   78.2   0.2   1   1   3.4e-26   2.1e-23   77.6   0.2     1    99     1    98     1    99 0.97 # 1687 # 2214 # 1 # ID=2_4;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=3bp;gc_cont=0.498
+k105_2229_3          -            231 Ribosomal_L1         PF00687.16   220   5.2e-50  165.2   0.0   1   1     1e-52     6e-50  165.0   0.0    15   220    33   221     6   221 0.93 # 806 # 1498 # 1 # ID=2_3;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=10bp;gc_cont=0.473
+k105_2229_2          -            142 Ribosomal_L11_N      PF03946.9     60   2.5e-31  102.4   0.1   1   1   1.1e-33   6.3e-31  101.1   0.1     1    60     8    65     8    65 0.98 # 369 # 794 # 1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=9bp;gc_cont=0.516
+k105_158004_2        -            594 TIGR00344            TIGR00344    847    0.0033   10.8   0.0   1   1   8.6e-06    0.0051   10.1   0.0   556   670    15   136     5   148 0.76 # 226 # 2007 # 1 # ID=155_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.517
+k105_87974_4         -            656 TIGR00422            TIGR00422    863   9.7e-83  273.6   0.1   1   2   3.2e-85   1.9e-82  272.7   0.0   338   847     2   535     1   551 0.82 # 2319 # 4286 # -1 # ID=78_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+k105_87974_4         -            656 TIGR00422            TIGR00422    863   9.7e-83  273.6   0.1   2   2     0.048        29   -2.5   0.2   728   775   575   620   560   634 0.66 # 2319 # 4286 # -1 # ID=78_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/13847570/e675d833-7b21-4eb0-82e9-a8f670eaef88
+# Target file:     /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D1/bins/site_D1_bins_10/genes.faa
+# Option settings: hmmsearch --domtblout /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D1/bins/site_D1_bins_10/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /scratch/13847570/e675d833-7b21-4eb0-82e9-a8f670eaef88 /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D1/bins/site_D1_bins_10/genes.faa 
+# Current dir:     /domus/h1/karsva/Genome_Analysis/code
+# Date:            Wed Apr 22 14:23:26 2020
+# [ok]

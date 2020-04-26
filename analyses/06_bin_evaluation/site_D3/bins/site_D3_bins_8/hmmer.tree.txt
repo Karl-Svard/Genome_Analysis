@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_124123_3        -            330 Ribosomal_L29        PF00831.18    58     0.004   12.8   0.5   1   1   4.5e-06     0.004   12.8   0.5     6    27    42    63    39    67 0.91 # 1992 # 2981 # 1 # ID=153_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.549
+k105_146872_4        -             94 RNA_pol_Rpb6         PF01192.17    57   4.3e-20   67.2   0.1   1   1   7.4e-23   6.5e-20   66.6   0.1     1    55     7    60     7    62 0.97 # 3305 # 3586 # -1 # ID=199_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.564
+k105_140624_1        -            879 RNA_pol_Rpb1_4       PF05000.12   108   1.5e-21   72.1   0.1   1   1   5.2e-24   4.6e-21   70.6   0.1     1   107   121   211   121   212 0.81 # 2 # 2638 # 1 # ID=186_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+k105_66675_4         -             91 IF-2                 PF11987.3    109    0.0035   13.2   0.1   1   1     5e-06    0.0044   12.9   0.1    43    89    29    75    24    87 0.89 # 1346 # 1618 # -1 # ID=72_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.524
+k105_47011_3         -            910 TIGR00422            TIGR00422    863         0 1175.7   0.0   1   1         0         0 1175.5   0.0     1   861     1   896     1   898 0.98 # 1026 # 3755 # 1 # ID=52_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+k105_72162_2         -            747 TIGR00422            TIGR00422    863   2.5e-89  296.0   0.0   1   1   1.5e-91   3.3e-89  295.6   0.0   255   791     6   568     2   601 0.87 # 594 # 2834 # -1 # ID=82_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+k105_28001_4         -            624 TIGR00422            TIGR00422    863     3e-49  163.4   0.0   1   3   0.00049      0.11    6.0   0.0   200   231    40    69    34    77 0.85 # 1440 # 3311 # -1 # ID=28_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+k105_28001_4         -            624 TIGR00422            TIGR00422    863     3e-49  163.4   0.0   2   3   7.4e-11   1.6e-08   28.6   0.0   245   298   116   169   110   221 0.78 # 1440 # 3311 # -1 # ID=28_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+k105_28001_4         -            624 TIGR00422            TIGR00422    863     3e-49  163.4   0.0   3   3   9.3e-40   2.1e-37  124.2   0.0   397   739   223   576   218   615 0.78 # 1440 # 3311 # -1 # ID=28_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+k105_128916_3        -            321 TIGR00422            TIGR00422    863   1.2e-33  111.8   0.0   1   1   6.4e-36   1.4e-33  111.5   0.0     3   233     8   249     6   265 0.89 # 1916 # 2878 # 1 # ID=164_3;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.566
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/13847570/551d2c3a-c118-4d51-add0-0def8524dbbb
+# Target file:     /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D3/bins/site_D3_bins_8/genes.faa
+# Option settings: hmmsearch --domtblout /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D3/bins/site_D3_bins_8/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /scratch/13847570/551d2c3a-c118-4d51-add0-0def8524dbbb /home/karsva/Genome_Analysis/analyses/06_bin_evaluation/site_D3/bins/site_D3_bins_8/genes.faa 
+# Current dir:     /domus/h1/karsva/Genome_Analysis/code
+# Date:            Wed Apr 22 14:29:13 2020
+# [ok]
