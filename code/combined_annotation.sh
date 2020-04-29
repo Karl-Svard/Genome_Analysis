@@ -19,11 +19,11 @@ do
 	if [$i == 4] || [$i == 5] || [$i == 9] || [$i == 16]
 	then
 		prokka ~/Genome_Analysis/data/analysis_results/05_binning/combined_bins/bin_$i.fa \
-		--outdir ~/Genome_Analysis/analyses/07_annotation/combined/bin_$i \
+		--outdir ~/Genome_Analysis/data/analysis_results/07_annotation/combined/bin_$i \
 		--prefix bin_$i --force --addgenes --kingdom Archaea
 	else
 		prokka ~/Genome_Analysis/data/analysis_results/05_binning/combined_bins/bin_$i.fa \
-                --outdir ~/Genome_Analysis/analyses/07_annotation/combined/bin_$i \
+                --outdir ~/Genome_Analysis/data/analysis_results/07_annotation/combined/bin_$i \
                 --prefix bin_$i --force --addgenes
 	fi
 done
