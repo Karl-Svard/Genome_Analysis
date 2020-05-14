@@ -20,7 +20,7 @@ trimmomatic PE -threads 2 -phred33 \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D1_RNA_1.unpaired.trimmed.fastq.gz \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D1_RNA_2.paired.trimmed.fastq.gz \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D1_RNA_2.unpaired.trimmed.fastq.gz \
-ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 
 trimmomatic PE -threads 2 -phred33 \
 /home/karsva/Genome_Analysis/data/raw_data/RNA_untrimmed/site_D3_RNA_1.fastq.gz \
@@ -29,7 +29,7 @@ trimmomatic PE -threads 2 -phred33 \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D3_RNA_1.unpaired.trimmed.fastq.gz \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D3_RNA_2.paired.trimmed.fastq.gz \
 /home/karsva/Genome_Analysis/data/analysis_results/01_preprocessing/RNA_trimmed/site_D3_RNA_2.unpaired.trimmed.fastq.gz \
-ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 
 
 
