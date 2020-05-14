@@ -10,4 +10,5 @@
 *.zip
 /data/analysis_results
 /data/raw_data
+slurm-*
 
