@@ -3,7 +3,7 @@
 #SBATCH -A g2020008
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 06:00:00
+#SBATCH -t 07:00:00
 #SBATCH -J combined_phylogenetic_placement
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user karl.svard970@gmail.com
@@ -13,11 +13,10 @@ module load bioinfo-tools
 module load phylophlan
 module load FastTree
 module load usearch/5.2.32
-module load biopython
 module load muscle
 
 # directory to store the phylophlan results
-outdir="~/Genome_Analysis/data/analysis_results/10_phylogenetic_placement"
+outdir="/home/karsva/Genome_Analysis/data/analysis_results/10_phylogenetic_placement"
 
 # create the directories that phylophlan looks for:
 # when you run phylophlan you specify a project name, which it looks for in the "input" directory
@@ -34,7 +33,11 @@ ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/ppafull.tax.txt $outdir
 ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/taxcuration/ $outdir/taxcurationcd $outdir
 
 # symlink to input files
-ln -sf ~/Genome_Analysis/data/analysis_results/05_binning/combined_bins/*.fa $outdir/input/combined_metagenome 
+for bin in /home/karsva/Genome_Analysis/data/analysis_results/07_annotation/combined/*
+do
+ln -sf $bin/*.faa $outdir/input/combined_metagenome
+done
 
-# Commands
-phylophlan.py -i -t combined_metagenome --nproc 2 (kanske u??, behövs .py?)
+# Move to the newly created directory and run phylophlan
+cd $outdir
+phylophlan.py -i -t combined_metagenome --nproc 2 
