@@ -1,0 +1,7 @@
+bin_19	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__?.f__?.g__?.s__?.t__?
+bin_18	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__?.f__?.g__?.s__?.t__?
+bin_17	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__?.f__?.g__?.s__?.t__?
+bin_15	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__?.g__?.s__?.t__?
+bin_7	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__?.f__?.g__?.s__?.t__?
+bin_6	d__Bacteria.p__Actinobacteria.c__Actinobacteria.o__?.f__?.g__?.s__?.t__?
+bin_14	d__Bacteria.p__Proteobacteria.c__Alphaproteobacteria.o__Rhodobacterales.f__Rhodobacteraceae.g__?.s__?.t__?
