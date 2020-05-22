@@ -3,7 +3,7 @@ FastQC	all_sections	site_D1_RNA_1	/home/karsva/Genome_Analysis/analyses/02_quali
 FastQC	all_sections	site_D1_RNA_2	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_untrimmed_QC/site_D1_RNA_2_fastqc.zip
 FastQC	all_sections	site_D3_RNA_1	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_untrimmed_QC/site_D3_RNA_1_fastqc.zip
 FastQC	all_sections	site_D3_RNA_2	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_untrimmed_QC/site_D3_RNA_2_fastqc.zip
-FastQC	all_sections	site_D1_RNA_2.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_trimmed_QC/site_D1_RNA_2.paired.trimmed_fastqc.zip
 FastQC	all_sections	site_D1_RNA_1.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_trimmed_QC/site_D1_RNA_1.paired.trimmed_fastqc.zip
+FastQC	all_sections	site_D1_RNA_2.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_trimmed_QC/site_D1_RNA_2.paired.trimmed_fastqc.zip
 FastQC	all_sections	site_D3_RNA_1.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_trimmed_QC/site_D3_RNA_1.paired.trimmed_fastqc.zip
 FastQC	all_sections	site_D3_RNA_2.paired	/home/karsva/Genome_Analysis/analyses/02_quality_control/RNA_trimmed_QC/site_D3_RNA_2.paired.trimmed_fastqc.zip
