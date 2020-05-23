@@ -13,7 +13,7 @@ module load bioinfo-tools
 module load quast
 
 # Commands
-DNA_path = "/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed"
+DNA_path="/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed"
 
 metaquast.py -t 2 \
 /home/karsva/Genome_Analysis/data/analysis_results/03_assembly/combined_assembly/combined.final.contigs.fa \
