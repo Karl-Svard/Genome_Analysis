@@ -30,20 +30,28 @@ do
 	# index bin
 	bwa index ${result_path}/05_binning/combined_bins/bin_$i.fa
 	
-	# pipeline performing DNA mapping for site D1
+	# commands performing DNA mapping for site D1
 	bwa mem -t 2 ${result_path}/05_binning/combined_bins/bin_$i.fa \
 	${DNA_path}/site_D1_DNA_1.paired.trimmed.fastq.gz \
 	${DNA_path}/site_D1_DNA_2.paired.trimmed.fastq.gz \
 	| samtools view -b - | samtools sort -@ 2 - \
-	| samtools index - | samtools idxstats - > \
-	${result_path}/11_DNA_mapping/site_D1/bin_${i}_D1_DNA_stats.tsv
+	-o ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
 	
-	# pipeline performing DNA mapping for site D3
+	samtools index ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
+	samtools idxstats ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam > \
+	${result_path}/11_DNA_mapping/site_D1/bin_${i}_D1_DNA_stats.tsv
+	rm ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
+	
+	# commands performing DNA mapping for site D3
 	bwa mem -t 2 ${result_path}/05_binning/combined_bins/bin_$i.fa \
 	${DNA_path}/site_D3_DNA_1.paired.trimmed.fastq.gz \
 	${DNA_path}/site_D3_DNA_2.paired.trimmed.fastq.gz \
 	| samtools view -b - | samtools sort -@ 2 - \
-	| samtools index - | samtools idxstats - > \
-        ${result_path}/11_DNA_mapping/site_D3/bin_${i}_D3_DNA_stats.tsv
+	-o ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam
+	
+	samtools index ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam
+	samtools idxstats ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam > \
+	${result_path}/11_DNA_mapping/site_D3/bin_${i}_D3_DNA_stats.tsv
+	rm ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
 	
 done
