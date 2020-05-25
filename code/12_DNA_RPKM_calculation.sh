@@ -17,5 +17,7 @@ module load samtools/1.10
 # Pipeline for calculating RPKM-values. The R script listens to 
 # stdin to chose which site to work with, and prints output to stdout.
 
-echo "D1" | Rscript rpkm_test.r > D1_bin_abundance.tsv
-echo "D3" | Rscript rpkm_test.r > D3_bin_abundance.tsv
+path="/home/karsva/Genome_Analysis/code/r_scripts"
+
+echo "D1" | Rscript ${path}/DNA_RPKM.r > D1_bin_abundance.tsv
+echo "D3" | Rscript ${path}/DNA_RPKM.r > D3_bin_abundance.tsv
