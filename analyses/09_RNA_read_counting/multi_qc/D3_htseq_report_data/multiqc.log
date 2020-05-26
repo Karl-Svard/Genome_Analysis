@@ -1,0 +1,135 @@
+[2020-05-26 17:40:59,048] multiqc                                            [DEBUG  ]  No MultiQC config found: /sw/bioinfo/MultiQC/1.8/rackham/lib/python3.6/site-packages/multiqc_config.yaml
+[2020-05-26 17:40:59,049] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/karsva/.multiqc_config.yaml
+[2020-05-26 17:40:59,049] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2020-05-26 17:40:59,049] multiqc                                            [DEBUG  ]  Command used: /sw/bioinfo/MultiQC/1.8/rackham/bin/multiqc -n D3_htseq_report.html -o /home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc /home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/site_D3
+[2020-05-26 17:41:00,290] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.8
+[2020-05-26 17:41:00,290] multiqc                                            [INFO   ]  This is MultiQC v1.8
+[2020-05-26 17:41:00,290] multiqc                                            [DEBUG  ]  Command     : /sw/bioinfo/MultiQC/1.8/rackham/bin/multiqc -n D3_htseq_report.html -o /home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc /home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/site_D3
+[2020-05-26 17:41:00,290] multiqc                                            [DEBUG  ]  Working dir : /domus/h1/karsva/Genome_Analysis/code
+[2020-05-26 17:41:00,290] multiqc                                            [INFO   ]  Template    : default
+[2020-05-26 17:41:00,290] multiqc                                            [DEBUG  ]  Running Python 3.6.8 (default, Mar 14 2019, 16:13:09)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+[2020-05-26 17:41:00,291] multiqc                                            [INFO   ]  Searching   : /home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/site_D3
+[2020-05-26 17:41:00,291] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dedup, damageprofiler, biobambam2, mtnucratio, picard, prokka, samblaster, samtools, sexdeterrmine, bamtools, jellyfish, vcftools, longranger, stacks, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, minionqc, mosdepth, clusterflow, bcl2fastq, interop, flash, seqyclean
+[2020-05-26 17:41:00,291] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /scratch/14454598/tmp_srb4063
+[2020-05-26 17:41:00,492] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_1_D3_read_count.out
+[2020-05-26 17:41:00,497] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_1_D3_read_count.out
+[2020-05-26 17:41:00,571] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_2_D3_read_count.out
+[2020-05-26 17:41:00,575] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_2_D3_read_count.out
+[2020-05-26 17:41:00,659] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_4_D3_read_count.out
+[2020-05-26 17:41:00,663] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_4_D3_read_count.out
+[2020-05-26 17:41:00,713] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_6_D3_read_count.out
+[2020-05-26 17:41:00,717] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_6_D3_read_count.out
+[2020-05-26 17:41:00,769] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_8_D3_read_count.out
+[2020-05-26 17:41:00,773] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_8_D3_read_count.out
+[2020-05-26 17:41:00,834] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_11_D3_read_count.out
+[2020-05-26 17:41:00,838] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_11_D3_read_count.out
+[2020-05-26 17:41:00,923] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_12_D3_read_count.out
+[2020-05-26 17:41:00,927] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_12_D3_read_count.out
+[2020-05-26 17:41:01,009] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_14_D3_read_count.out
+[2020-05-26 17:41:01,012] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_14_D3_read_count.out
+[2020-05-26 17:41:01,068] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_15_D3_read_count.out
+[2020-05-26 17:41:01,072] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_15_D3_read_count.out
+[2020-05-26 17:41:01,137] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_17_D3_read_count.out
+[2020-05-26 17:41:01,141] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_17_D3_read_count.out
+[2020-05-26 17:41:01,194] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_18_D3_read_count.out
+[2020-05-26 17:41:01,197] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_18_D3_read_count.out
+[2020-05-26 17:41:01,250] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_19_D3_read_count.out
+[2020-05-26 17:41:01,254] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_19_D3_read_count.out
+[2020-05-26 17:41:01,312] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_20_D3_read_count.out
+[2020-05-26 17:41:01,316] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_20_D3_read_count.out
+[2020-05-26 17:41:01,357] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_24_D3_read_count.out
+[2020-05-26 17:41:01,361] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_24_D3_read_count.out
+[2020-05-26 17:41:01,418] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_25_D3_read_count.out
+[2020-05-26 17:41:01,422] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_25_D3_read_count.out
+[2020-05-26 17:41:01,489] multiqc                                            [DEBUG  ]  File ignored by hicexplorer because it exceeded search pattern filesize limit: bin_26_D3_read_count.out
+[2020-05-26 17:41:01,494] multiqc                                            [DEBUG  ]  File ignored by longranger/invocation because it exceeded search pattern filesize limit: bin_26_D3_read_count.out
+[2020-05-26 17:41:01,966] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.1.1
+[2020-05-26 17:41:01,968] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.1.1
+[2020-05-26 17:41:01,970] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2020-05-26 17:41:01,976] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2020-05-26 17:41:01,982] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2020-05-26 17:41:01,988] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2020-05-26 17:41:01,994] multiqc                                            [DEBUG  ]  No samples found: phantompeakqualtools
+[2020-05-26 17:41:02,004] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2020-05-26 17:41:02,010] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2020-05-26 17:41:02,016] multiqc                                            [DEBUG  ]  No samples found: quast
+[2020-05-26 17:41:02,023] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2020-05-26 17:41:02,029] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2020-05-26 17:41:02,035] multiqc                                            [DEBUG  ]  No samples found: rsem
+[2020-05-26 17:41:02,049] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2020-05-26 17:41:02,055] multiqc                                            [DEBUG  ]  No samples found: busco
+[2020-05-26 17:41:02,061] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2020-05-26 17:41:02,067] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2020-05-26 17:41:02,074] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2020-05-26 17:41:02,088] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2020-05-26 17:41:02,094] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2020-05-26 17:41:02,100] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2020-05-26 17:41:02,106] multiqc                                            [DEBUG  ]  No samples found: mirtrace
+[2020-05-26 17:41:02,112] multiqc                                            [DEBUG  ]  No samples found: happy
+[2020-05-26 17:41:02,119] multiqc                                            [DEBUG  ]  No samples found: homer
+[2020-05-26 17:41:02,125] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2020-05-26 17:41:02,131] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2020-05-26 17:41:02,137] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2020-05-26 17:41:02,145] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2020-05-26 17:41:02,182] multiqc.modules.htseq.htseq                        [INFO   ]  Found 16 reports
+[2020-05-26 17:41:02,193] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2020-05-26 17:41:02,199] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2020-05-26 17:41:02,205] multiqc                                            [DEBUG  ]  No samples found: fgbio
+[2020-05-26 17:41:02,211] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2020-05-26 17:41:02,217] multiqc                                            [DEBUG  ]  No samples found: damageprofiler
+[2020-05-26 17:41:02,234] multiqc                                            [DEBUG  ]  No samples found: biobambam2
+[2020-05-26 17:41:02,240] multiqc                                            [DEBUG  ]  No samples found: mtnucratio
+[2020-05-26 17:41:02,244] multiqc                                            [DEBUG  ]  No samples found: picard
+[2020-05-26 17:41:02,249] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2020-05-26 17:41:02,255] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2020-05-26 17:41:02,264] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2020-05-26 17:41:02,270] multiqc                                            [DEBUG  ]  No samples found: sexdeterrmine
+[2020-05-26 17:41:02,276] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2020-05-26 17:41:02,282] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2020-05-26 17:41:02,291] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2020-05-26 17:41:02,298] multiqc                                            [DEBUG  ]  No samples found: longranger
+[2020-05-26 17:41:02,304] multiqc                                            [DEBUG  ]  No samples found: stacks
+[2020-05-26 17:41:02,317] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2020-05-26 17:41:02,323] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2020-05-26 17:41:02,330] multiqc                                            [DEBUG  ]  No samples found: biscuit
+[2020-05-26 17:41:02,336] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2020-05-26 17:41:02,342] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2020-05-26 17:41:02,348] multiqc                                            [DEBUG  ]  No samples found: hicpro
+[2020-05-26 17:41:02,354] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2020-05-26 17:41:02,360] multiqc                                            [DEBUG  ]  No samples found: kallisto
+[2020-05-26 17:41:02,365] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2020-05-26 17:41:02,371] multiqc                                            [DEBUG  ]  No samples found: star
+[2020-05-26 17:41:02,376] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2020-05-26 17:41:02,382] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2020-05-26 17:41:02,388] multiqc                                            [DEBUG  ]  No samples found: bowtie2
+[2020-05-26 17:41:02,393] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2020-05-26 17:41:02,399] multiqc                                            [DEBUG  ]  No samples found: kat
+[2020-05-26 17:41:02,404] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2020-05-26 17:41:02,410] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2020-05-26 17:41:02,416] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2020-05-26 17:41:02,421] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2020-05-26 17:41:02,427] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2020-05-26 17:41:02,433] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2020-05-26 17:41:02,439] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2020-05-26 17:41:02,445] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2020-05-26 17:41:02,451] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2020-05-26 17:41:02,456] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2020-05-26 17:41:02,462] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2020-05-26 17:41:02,468] multiqc                                            [DEBUG  ]  No samples found: fastp
+[2020-05-26 17:41:02,474] multiqc                                            [DEBUG  ]  No samples found: fastqc
+[2020-05-26 17:41:02,480] multiqc                                            [DEBUG  ]  No samples found: minionqc
+[2020-05-26 17:41:02,485] multiqc                                            [DEBUG  ]  No samples found: mosdepth
+[2020-05-26 17:41:02,491] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2020-05-26 17:41:02,497] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2020-05-26 17:41:02,503] multiqc                                            [DEBUG  ]  No samples found: interop
+[2020-05-26 17:41:02,509] multiqc                                            [DEBUG  ]  No samples found: flash
+[2020-05-26 17:41:02,514] multiqc                                            [DEBUG  ]  No samples found: seqyclean
+[2020-05-26 17:41:02,527] multiqc                                            [INFO   ]  Compressing plot data
+[2020-05-26 17:41:02,534] multiqc                                            [INFO   ]  Report      : ../../../../../home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report.html
+[2020-05-26 17:41:02,534] multiqc                                            [INFO   ]  Data        : ../../../../../home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data
+[2020-05-26 17:41:02,534] multiqc                                            [DEBUG  ]  Moving data file from '/scratch/14454598/tmp_srb4063/multiqc_data/multiqc_qualimap_bamqc_genome_results.txt' to '/home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data'
+[2020-05-26 17:41:02,536] multiqc                                            [DEBUG  ]  Moving data file from '/scratch/14454598/tmp_srb4063/multiqc_data/multiqc_htseq.txt' to '/home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data'
+[2020-05-26 17:41:02,538] multiqc                                            [DEBUG  ]  Moving data file from '/scratch/14454598/tmp_srb4063/multiqc_data/multiqc_general_stats.txt' to '/home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data'
+[2020-05-26 17:41:02,540] multiqc                                            [DEBUG  ]  Moving data file from '/scratch/14454598/tmp_srb4063/multiqc_data/multiqc_data.json' to '/home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data'
+[2020-05-26 17:41:02,542] multiqc                                            [DEBUG  ]  Moving data file from '/scratch/14454598/tmp_srb4063/multiqc_data/multiqc_sources.txt' to '/home/karsva/Genome_Analysis/data/analysis_results/09_RNA_read_counting/combined/multi_qc/D3_htseq_report_data'
+[2020-05-26 17:41:02,709] multiqc                                            [INFO   ]  MultiQC complete

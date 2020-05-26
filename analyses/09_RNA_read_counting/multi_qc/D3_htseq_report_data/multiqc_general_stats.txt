@@ -1,0 +1,17 @@
+Sample	HTSeq Count_mqc-generalstats-htseq_count-percent_assigned	HTSeq Count_mqc-generalstats-htseq_count-assigned
+bin_11_D3_read_count	0.06881781838949172	482
+bin_12_D3_read_count	0.2568550603587975	1799
+bin_14_D3_read_count	0.13692293194973115	959
+bin_15_D3_read_count	0.13535219411903282	948
+bin_17_D3_read_count	0.02769869530578503	194
+bin_18_D3_read_count	0.03398067955648074	238
+bin_19_D3_read_count	0.4667292970077355	3269
+bin_1_D3_read_count	0.1507720643351252	1056
+bin_20_D3_read_count	0.03212477548351357	225
+bin_24_D3_read_count	0.40619935893317344	2845
+bin_25_D3_read_count	0.4333256710122973	3035
+bin_26_D3_read_count	0.3944905532148196	2763
+bin_2_D3_read_count	0.7719554730029738	5407
+bin_4_D3_read_count	0.3874956274673577	2714
+bin_6_D3_read_count	0.043404141097724995	304
+bin_8_D3_read_count	0.04211915007838445	295
