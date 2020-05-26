@@ -5,8 +5,8 @@
 input<-file('stdin')
 site <- readLines(input, n=1)
 
-# List of bin IDs
-ID <- c(1, 2, 4, 6, 8, 11, 12, 14, 15, 17, 18, 19, 20, 24, 25, 26)
+# List of bin IDs with completeness over 70% and contamination below 5%.
+ID <- c(1, 2, 4, 11, 12, 15, 19, 24, 26)
 
 # Pre-allocate vectors for the data frame
 Bin_name <- character(length(ID))
@@ -20,7 +20,8 @@ x <- 1
 for (i in ID){
   # Path of the file
   path <- paste("/home/karsva/Genome_Analysis/data/analysis_results",
-                "/11_DNA_mapping/site_D1/bin_", i, "_", site, "_DNA_stats.tsv",sep = "")
+                "/11_DNA_mapping/site_", site, "/bin_", i, "_", site, 
+		"_DNA_stats.tsv",sep = "")
   # Read in file
   stats <- read.table(file = path, sep = '\t', header = FALSE)
   
