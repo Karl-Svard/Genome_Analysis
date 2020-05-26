@@ -30,7 +30,7 @@ for (i in ID){
   n_mapped_reads <- sum(stats$V3)
   n_unmapped_reads <- sum(stats$V4)
   n_total_reads <- n_mapped_reads + n_unmapped_reads
-  rpkm_value <- n_total_reads/((bin_length/1000)*(n_total_reads/1000000))
+  rpkm_value <- n_mapped_reads/((bin_length/1000)*(n_total_reads/1000000))
   
   # Add to vectors
   Bin_name[x] <- paste("Bin_",i, sep="")
