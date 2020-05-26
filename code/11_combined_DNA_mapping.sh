@@ -16,8 +16,7 @@ module load samtools/1.10
 # Commands
 
 # ID of bins with completeness>25% and contamination<10% 
-#good_bins=(1 2 4 6 8 11 12 14 15 17 18 19 20 24 25 26)
-good_bins=(12 14 15 17 18 19 20 24 25 26)
+good_bins=(1 2 4 11 12 15 19 24 26)
 
 # File paths
 DNA_path="/home/karsva/Genome_Analysis/data/raw_data/DNA_trimmed"
@@ -41,6 +40,7 @@ do
 	samtools idxstats ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam > \
 	${result_path}/11_DNA_mapping/site_D1/bin_${i}_D1_DNA_stats.tsv
 	rm ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
+	rm ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam.bai
 	
 	# commands performing DNA mapping for site D3
 	bwa mem -t 2 ${result_path}/05_binning/combined_bins/bin_$i.fa \
@@ -52,6 +52,7 @@ do
 	samtools index ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam
 	samtools idxstats ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam > \
 	${result_path}/11_DNA_mapping/site_D3/bin_${i}_D3_DNA_stats.tsv
-	rm ${result_path}/11_DNA_mapping/site_D1/bin_${i}_site_D1_DNA.bam
+	rm ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam
+	rm ${result_path}/11_DNA_mapping/site_D3/bin_${i}_site_D3_DNA.bam.bai
 	
 done
